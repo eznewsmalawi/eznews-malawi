@@ -1,0 +1,49 @@
+name: Daily news refresh
+
+on:
+  schedule:
+    # Runs twice a day at 06:00 and 18:00 Central Africa Time (UTC+2).
+    # That's 04:00 and 16:00 UTC.
+    - cron: '0 4,16 * * *'
+  workflow_dispatch:  # also allow manual triggering from the Actions tab
+
+permissions:
+  contents: write  # needed to commit the updated articles.json
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: claude-haiku-4-5-20251001
+          LOG_LEVEL: INFO
+        run: python pipeline/run.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "ezNews bot"
+          git config user.email "bot@eznews-malawi.local"
+          git add site/data/articles.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily news refresh ($(date -u +%Y-%m-%d))"
+            git push
+          fi

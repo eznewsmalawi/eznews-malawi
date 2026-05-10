@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ezNews Malawi</title>
+<meta name="description" content="Daily Malawi news in simple English and Chichewa. Lightweight, mobile-friendly, low-data.">
+<meta name="theme-color" content="#1a4d2e">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'><rect x='2' y='2' width='36' height='36' rx='9' fill='%231a4d2e'/><path d='M11 12 H29 M11 20 H24 M11 28 H29' stroke='white' stroke-width='2.4' stroke-linecap='round'/><circle cx='29' cy='28' r='2.4' fill='%23c9742a'/></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container header-inner">
+
+    <a href="/" class="logo" aria-label="ezNews Malawi home">
+      <svg class="logo-mark" width="30" height="30" viewBox="0 0 40 40" aria-hidden="true">
+        <rect x="2" y="2" width="36" height="36" rx="9" fill="#1a4d2e"/>
+        <path d="M11 12 H29 M11 20 H24 M11 28 H29" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round"/>
+        <circle cx="29" cy="28" r="2.4" fill="#c9742a"/>
+      </svg>
+      <span class="logo-text">
+        <span class="logo-name">ezNews <span class="logo-loc-inline">Malawi</span></span>
+        <span class="logo-tagline" data-i18n="tagline">News from Malawi, for everyone</span>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Primary">
+      <button type="button" class="nav-link active" data-view="today" data-i18n="nav_today">Today</button>
+      <button type="button" class="nav-link" data-view="archive" data-i18n="nav_archive">Archive</button>
+      <button type="button" class="nav-link" data-view="about" data-i18n="nav_about">About</button>
+    </nav>
+
+    <div class="header-tools">
+      <div class="header-search">
+        <svg class="search-icon" viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+          <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <input type="search" id="headerSearch" data-i18n-placeholder="search_short" placeholder="Search" aria-label="Search">
+      </div>
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button type="button" data-lang="en" class="lang-btn active" aria-pressed="true">EN</button>
+        <button type="button" data-lang="ny" class="lang-btn" aria-pressed="false">CC</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+
+  <section class="intro" data-view="today">
+    <p class="date-line" id="dateLabel"></p>
+  </section>
+
+  <div class="page-grid">
+
+    <div class="page-main">
+
+      <section class="search-section mobile-only" data-view="today">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+            <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <input type="search" id="searchInput" data-i18n-placeholder="search_placeholder" placeholder="Search news..." aria-label="Search">
+        </div>
+        <div class="filter-row" id="filterRowMobile" role="group" aria-label="Filter by topic"></div>
+      </section>
+
+      <section id="newsList" class="news-list" aria-live="polite" data-view="today"></section>
+
+      <section id="emptyState" class="empty hidden" data-view="today">
+        <p data-i18n="empty">No articles match your search.</p>
+      </section>
+
+      <section id="archiveView" class="hidden" data-view="archive">
+        <h2 data-i18n="archive_title" class="page-h">All articles</h2>
+        <p class="muted" data-i18n="archive_intro">Browse every story we have published.</p>
+        <div class="search-section" style="margin-top: 16px;">
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+              <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+              <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            <input type="search" id="archiveSearch" data-i18n-placeholder="search_placeholder" placeholder="Search news..." aria-label="Search">
+          </div>
+          <div class="filter-row" id="archiveFilterRow" role="group" aria-label="Filter by topic"></div>
+        </div>
+        <div id="archiveFullList" class="news-list" style="margin-top: 14px;"></div>
+        <p id="archiveEmpty" class="empty hidden" data-i18n="empty">No articles match your search.</p>
+      </section>
+
+      <section id="aboutView" class="hidden" data-view="about">
+        <h2 data-i18n="about_title" class="page-h">About ezNews Malawi</h2>
+        <div class="about-content">
+          <h3 data-i18n="about_h_why">Why we made this site</h3>
+          <p data-i18n="about_p_why_1">ezNews Malawi was made for one simple reason: news from Malawi should be for everyone in Malawi.</p>
+          <p data-i18n="about_p_why_2">Most news in our country is published in English. But fluent English is shared by only a small part of the population. Many Malawians have learned some English at school, and they understand more when the words are simple. According to UNESCO and World Bank data, only about 22% of young people in Malawi finish lower secondary school, and primary completion is around one in three. This means many people stop their school journey early — through no fault of their own.</p>
+          <p data-i18n="about_p_why_3">Chichewa is a different story. Around 65% of the country can read or speak Chichewa, and it is the language of teaching in many primary schools. So many people who do not feel at home in long English articles can read clear Chichewa with confidence.</p>
+          <p data-i18n="about_p_why_4">We believe every Malawian has the right to know what is happening in their country — what their government is doing, what is changing in the economy, what affects their families. ezNews Malawi exists to help make that possible. We take the day's biggest news and write it in a way that is easier to read, in both simple English and Chichewa. We are not a replacement for the original news outlets. We send our readers back to them whenever they want the full story.</p>
+          <p data-i18n="about_p1">ezNews Malawi makes Malawi's news easier to read for everyone. We collect the day's biggest stories from trusted Malawi news websites and rewrite them in simple English and Chichewa.</p>
+          <h3 data-i18n="about_h_how">How it works</h3>
+          <p data-i18n="about_p2">Twice a day, our system checks news from many Malawi news outlets. When we see that the same story is being reported by more than one outlet, we know it is important. We pick the day's top stories and rewrite them so anyone can understand them.</p>
+          <h3 data-i18n="about_h_lang">Two languages</h3>
+          <p data-i18n="about_p3">Every story is written in two languages. The English uses very simple words (CEFR A1 level). The Chichewa is at a friendly everyday level (A2). You can switch between them with the EN/CC button at the top of the page.</p>
+          <h3 data-i18n="about_h_ct">What about Chitumbuka?</h3>
+          <p data-i18n="about_p_ct">We know that Chitumbuka is the first language for many people in the northern region of Malawi, and that other languages like Chiyao, Lomwe and Sena are also spoken across the country. We would like ezNews Malawi to include these languages too. For now, we have only started with Chichewa because that is what we can do well today, and we want every translation we publish to be of good quality. We are working on adding Chitumbuka next, and we will add it as soon as we are confident it will read naturally for our readers in the north. Thank you for your patience.</p>
+          <h3 data-i18n="about_h_sources">Trust and sources</h3>
+          <p data-i18n="about_p4">We always show the news websites we used at the bottom of every story. Click any source name to read the original article. We do not copy stories — we read several and write our own short summary.</p>
+          <h3 data-i18n="about_h_ai">A note on AI</h3>
+          <p data-i18n="about_p5">Our stories are written by an AI assistant and reviewed by a human editor. AI can make mistakes, so please use ezNews Malawi together with other news sources, not as your only source. The Chichewa is checked by a real Chichewa speaker — when you see the green ✓ Chichewa checked badge, it means a person has read it.</p>
+          <h3 data-i18n="about_h_data">Light on data</h3>
+          <p data-i18n="about_p6">We made this website very small so it works on slow internet and uses very little data. Each page is under 50 KB.</p>
+        </div>
+      </section>
+    </div>
+
+    <aside class="page-side">
+      <div class="side-card">
+        <h3 data-i18n="topics">Topics</h3>
+        <div class="filter-row filter-stack" id="filterRowDesktop" role="group" aria-label="Filter by topic"></div>
+      </div>
+      <div class="side-card">
+        <h3 data-i18n="recent_days">Recent days</h3>
+        <div id="archiveList" class="archive-list"></div>
+      </div>
+    </aside>
+
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="muted small" data-i18n="footer_about">ezNews Malawi gives you the day's biggest stories in easy to understand writing. We always link to the original sources. We update twice a day, in the morning and in the evening.</p>
+    <p class="muted small" data-i18n="footer_disclaimer">Articles are written by AI and should not be the only source you rely on.</p>
+    <p class="muted xs">© <span id="year"></span> ezNews Malawi</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
