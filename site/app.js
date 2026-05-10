@@ -302,18 +302,22 @@
     });
   }
 
+  const TODAY_LIMIT = 5;  // Today view shows only the most recent N articles
+
   function renderList() {
     const list = document.getElementById('newsList');
     const empty = document.getElementById('emptyState');
     list.innerHTML = '';
     const q = state.search.trim().toLowerCase();
-    const filtered = state.articles.filter(a => {
+    let filtered = state.articles.filter(a => {
       if (state.tag !== 'all' && a.tag !== state.tag) return false;
       if (!q) return true;
       const c = a[state.lang] || a.en;
       const haystack = (c.title + ' ' + c.body + ' ' + (c.body_more || '')).toLowerCase();
       return haystack.includes(q);
     });
+    // articles are already sorted newest first in loadArticles()
+    filtered = filtered.slice(0, TODAY_LIMIT);
 
     if (filtered.length === 0) {
       empty.classList.remove('hidden');

@@ -627,16 +627,53 @@ def merge_with_reviewed(
     return new_article
 
 
+MAX_ARCHIVE_ARTICLES = 500   # cap the archive size so articles.json doesn't grow forever
+
+
 def write_output(articles: list[dict[str, Any]]) -> None:
+    """
+    Merge new articles into the existing archive.
+
+    The pipeline produces the day's top stories every run, but we don't want
+    each run to wipe out everything that came before — readers expect the
+    Archive view to accumulate over time. So we:
+
+    1. Load the existing articles.json (if any)
+    2. Build a fresh list: today's new articles first, then existing articles
+       that don't share an ID with a new one
+    3. Sort by published time (newest first)
+    4. Cap at MAX_ARCHIVE_ARTICLES so the JSON file stays a reasonable size
+
+    Articles previously edited (ny_reviewed: true) are handled separately by
+    merge_with_reviewed() and arrive here with their reviewed content intact.
+    """
+    existing = []
+    if OUT_PATH.exists():
+        try:
+            data = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+            existing = data.get("articles", [])
+        except Exception as e:
+            log.warning("Couldn't read existing archive, starting fresh: %s", e)
+
+    new_ids = {a["id"] for a in articles}
+    kept_from_archive = [a for a in existing if a.get("id") not in new_ids]
+
+    combined = articles + kept_from_archive
+    combined.sort(key=lambda a: a.get("published", ""), reverse=True)
+    combined = combined[:MAX_ARCHIVE_ARTICLES]
+
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "articles": articles,
+        "articles": combined,
     }
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     tmp = OUT_PATH.with_suffix(".json.tmp")
     tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     tmp.replace(OUT_PATH)
-    log.info("Wrote %d articles to %s", len(articles), OUT_PATH)
+    log.info(
+        "Wrote archive: %d new, %d preserved from previous runs, %d total in archive",
+        len(articles), len(kept_from_archive), len(combined),
+    )
 
 
 # ---------------------------------------------------------------------------
