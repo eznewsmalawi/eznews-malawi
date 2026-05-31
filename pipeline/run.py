@@ -424,74 +424,72 @@ def _extract_json_object(text: str) -> str:
 
 REWRITE_SYSTEM_PROMPT = """You are an editor for ezNews Malawi, a news website serving the general public of Malawi.
 
-Your job: take versions of the same news story (from different Malawi outlets) and produce ONE clean, neutral, factual rewrite in TWO languages, in TWO parts each.
+Your job: take versions of the same news story (from different Malawi outlets) and produce ONE clean, neutral, factual rewrite in simple English (CEFR A1).
 
-The two parts together form one continuous article. Think of "body" as the opening of the article and "body_more" as the rest of it. They MUST read as one piece when joined together — no recap, no re-introduction, no repeated facts.
+The article is in two parts: "body" (opening) and "body_more" (continuation). Together they form one continuous article that reads as one piece — no recap, no re-introduction, no repeated facts.
+
+This English version will be machine-translated into Chichewa afterwards, so the English needs to be precise, factual, and unambiguous. Any vagueness or factual mistakes will be carried into the translation.
 
 Hard requirements:
 - Output MUST be a single valid JSON object, nothing else. No markdown fences. No commentary before, after, or alongside the JSON. The very first character must be `{` and the very last must be `}`.
-- The English version MUST use CEFR A1 vocabulary. This is much simpler than ordinary "easy English". A reader who has only learned English for a few months should understand every word. The CEFR A1 register is roughly 500–800 common words: present tense dominant, short sentences (max 10 words), concrete nouns and verbs, no abstract nouns where avoidable.
-- The Chichewa version must be at CEFR A2 level. Natural Chichewa, not word-for-word translation. Use everyday vocabulary. Short clear sentences.
+- The English MUST use CEFR A1 vocabulary. Roughly 500-800 common words. Present tense dominant, short sentences (max 10 words), concrete nouns and verbs, no abstract nouns where avoidable.
 - Tone: serious, clean, neutral. Not dull, but no opinion, no hype, no editorialising.
-- Title: max 12 words in each language.
+- Title: max 12 words.
 
-A1 ENGLISH GUIDANCE (critical — most AI gets this wrong):
+FACTUAL ACCURACY (critical — this is now the most important rule):
+
+This article will be machine-translated into Chichewa for Malawian readers. Any error here will reach them too. Therefore:
+
+- DAYS OF THE WEEK: Only state a day if the source material clearly says it. If a source says "Thursday", write "Thursday" — not Wednesday. Double-check by re-reading the source before writing the body.
+- NAMES AND TITLES: Use exact names and titles from the sources. "Minister of Trade Simon Itaye" not "Trade colleague Itaye". "Reserve Bank Governor" not "Bank Boss". If a source uses an unusual title, keep the official version.
+- NUMBERS AND DATES: Quote exactly. If the source says "K600 million", write "K600 million". If it says "27 May", write "27 May".
+- PLACE NAMES: Use the exact place name from the sources. "Blantyre" not "Bantyre". "Chichiri Trade Fair Grounds" not "the fair grounds".
+- IF SOURCES DISAGREE: Mention the most-stated version. If they disagree fundamentally on a key fact, state it neutrally ("Reports say between 8 and 12 people died") or omit the disputed detail.
+- IF UNSURE: Leave the detail out rather than guessing.
+
+A1 ENGLISH GUIDANCE (still important):
 
 DO use words like: said, told, asked, saw, came, went, gave, took, helped, made, found, started, stopped, went home, died, lived, was, were, will, can, want, need, big, small, new, old, good, bad, many, few, all, some.
 
-DO NOT use words like: announced, declared, stated, reported, conducted, undertook, screened, assessed, evaluated, supported, deployed, implemented, expressed, commenced, terminated, transported, conveyed, accommodated, sympathies, condolences, welfare, crisis, situation, authorities, officials, commenced, in light of, with regard to, on behalf of, in collaboration with, in cooperation with, in coordination with, grateful, transparent, regardless, outgoing, incoming, congratulated, congratulations, institution, strengthen, protect, freedom, leadership, previous, ahead, accordingly, achieved, established, addressed, encountered, consequently, furthermore, additionally, regardless, despite, however, nevertheless.
+DO NOT use words like: announced, declared, stated, reported, conducted, undertook, screened, assessed, evaluated, supported, deployed, implemented, expressed, commenced, terminated, transported, conveyed, accommodated, sympathies, condolences, welfare, crisis, situation, authorities, officials, in light of, with regard to, on behalf of, in collaboration with, in cooperation with, grateful, transparent, regardless, outgoing, incoming, congratulated, institution, strengthen, protect, leadership, accordingly, achieved, established, addressed, encountered, consequently, furthermore, additionally, despite, however, nevertheless.
 
-REPLACE PHRASES like these with simpler ones:
+REPLACE PHRASES with simpler ones:
 - "expressed sympathy" → "said sorry to the families"
-- "extended condolences" → "said sorry"
 - "undertook screening" → "checked"
-- "needed further medical attention" → "were very ill"
-- "in collaboration with the authorities" → "with help from the police" (or whoever it is)
+- "in collaboration with the authorities" → "with help from the police"
 - "the situation" → "what happened"
-- "during the crisis" → "during this hard time" or just leave it out
-- "officials" → "the government" or "people from the government"
-- "the survivors were transported" → "the people were taken" or "buses took them"
-- "was grateful to members for trusting him" → "said thank you to the members for choosing him"
-- "promised to lead in a transparent way" → "said he will be open and honest in his work"
-- "thanked all members regardless of how they voted" → "said thank you to everyone, also to people who voted for someone else"
-- "outgoing chairperson" → "the old leader" or just the person's name
-- "congratulated him" → "said well done" or "said good job"
-- "called on the new leaders to strengthen the institution" → "asked the new leaders to make the group stronger"
-- "protect media freedom" → "make sure journalists are free to do their work" or "help journalists"
-- "improve the welfare of journalists" → "help journalists have a better life"
+- "officials" → "the government"
+- "the survivors were transported" → "the people were taken"
+- "outgoing chairperson" → "the old leader"
+- "congratulated him" → "said well done"
 
-WORKED EXAMPLE — this exact kind of sentence appeared in real output and was too hard. Study it.
-TOO HARD: "Washon said he was grateful to members for trusting him with the role. He promised to lead the institute in a transparent way and to build on the work of the previous leadership. He also thanked all members regardless of how they voted. Outgoing chairperson Matonga congratulated Washon and called on the new leaders to strengthen the institution, protect media freedom, and improve the welfare of journalists in Malawi."
-A1 REWRITE: "Washon said thank you to the members. He said he is happy that they chose him. He said he will be open and honest in his work. He will build on what the old team did. He also said thank you to everyone, even people who voted for someone else. The old leader, Matonga, said well done to Washon. He asked the new leaders to make the group stronger. He said they must help journalists in Malawi do their work and live better."
+PRESERVE these words even though they look "hard" — these are precise terms that lose accuracy if simplified:
+- Names of ministers, MPs, officials, athletes (keep exact names and titles)
+- Names of organisations (Reserve Bank of Malawi, Anti-Corruption Bureau, Tea Association of Malawi)
+- Place names (Blantyre, Lilongwe, Mzuzu, district names)
+- Currency amounts in their original form (K600 million, US$1.5 billion)
+- Dates and days in their original form
+- Official event names (Malawi International Trade Fair, AFCON qualifier)
 
-Sentence length: keep most sentences to 6–10 words. Break long ones into two short ones. Active voice always. If a noun is abstract (welfare, support, sympathy, situation, crisis, condition, capacity, intervention, infrastructure), find a way to write the same fact using a verb instead.
-
-The "body" field (short opener):
-- 50–80 words in each language
+The "body" field:
+- 50-80 words
 - Cover the core facts: what happened, who, where, when, the immediate result
-- This is what readers see first, before clicking "Read more"
 
-The "body_more" field (the continuation):
+The "body_more" field:
 - A direct continuation of "body" — never re-introduce the story, never re-state who or what was already named, never recap the headline
-- TARGET: around 300 words in each language. Acceptable range: 220 to 380 words. Going below 220 should be rare and only when the source material is truly minimal (e.g. a one-sentence sports score with no further context).
-- Before deciding the sources are too thin, EXTRACT every fact from them: every name, place, number, date, quote (paraphrased), action, reason, consequence, reaction. Sources usually contain more than they appear to on first read.
-- Add NEW information not already in "body": background, context, secondary facts, who else is affected, what happens next, relevant numbers, paraphrased reactions
-- MUST be split into THREE OR FOUR paragraphs separated by \\n\\n (a literal blank line in the JSON string). Never one giant block of text. Never more than four paragraphs — readability suffers. Each paragraph should focus on one aspect of the story (e.g. paragraph 1: more detail on what happened; paragraph 2: reactions or context; paragraph 3: what happens next).
-- Start naturally — as if continuing the article. Good openings: "The arrest follows...", "Police say the...", "Earlier this week...", "Officials added that..."
-- Bad openings (NEVER use these): "The Anti-Corruption Bureau is searching for [name who was already named in body]...", anything that re-states the headline, or "It is reported that [opening fact already in body]"
-
-Strict factuality:
-- Stick strictly to facts that appear in the source material. Do not invent details, names, numbers, quotes, or context.
-- If sources disagree, say so neutrally or omit the disputed detail.
-- Do NOT copy sentences verbatim from the sources. Always paraphrase.
+- TARGET: around 300 words. Acceptable range: 220-380 words. Going below 220 should be rare.
+- Extract every fact from the sources: every name, place, number, date, quote (paraphrased), action, reason, consequence, reaction.
+- MUST be split into THREE OR FOUR paragraphs separated by \\n\\n. Never one giant block of text.
+- Start naturally — as if continuing the article. NOT: "[Name] said..." (already in body). YES: "The arrest follows...", "Earlier this week...", "Officials added that..."
 
 Pick exactly one tag from this list: politics, economy, health, sport, society, international.
 
 Output JSON shape:
 {
   "tag": "<one of the allowed tags>",
-  "en": { "title": "...", "body": "...", "body_more": "...\\n\\n..." },
-  "ny": { "title": "...", "body": "...", "body_more": "...\\n\\n..." }
+  "title": "...",
+  "body": "...",
+  "body_more": "...\\n\\n..."
 }
 """
 
@@ -541,8 +539,7 @@ def rewrite_cluster(client: Anthropic, cluster: Cluster) -> dict[str, Any] | Non
 
         for path in [
             ["tag"],
-            ["en", "title"], ["en", "body"], ["en", "body_more"],
-            ["ny", "title"], ["ny", "body"], ["ny", "body_more"],
+            ["title"], ["body"], ["body_more"],
         ]:
             cur = data
             for key in path:
@@ -564,12 +561,123 @@ def rewrite_cluster(client: Anthropic, cluster: Cluster) -> dict[str, Any] | Non
 
 
 # ---------------------------------------------------------------------------
-# Step 4: assemble JSON
+# Step 4: Translation (English → Chichewa) with quality check
 # ---------------------------------------------------------------------------
 
-def cluster_to_article(cluster: Cluster, rewritten: dict[str, Any]) -> dict[str, Any]:
+GOOGLE_TRANSLATE_URL = "https://translation.googleapis.com/language/translate/v2"
+
+# Back-translation quality threshold. If the round-trip similarity is below
+# this, mark the article as "auto-translated, needs review". Tune empirically.
+TRANSLATION_QUALITY_THRESHOLD = 0.55
+
+
+def google_translate(text: str, source: str, target: str, api_key: str) -> str | None:
+    """Translate text using Google Cloud Translation API v2."""
+    try:
+        r = requests.post(
+            GOOGLE_TRANSLATE_URL,
+            params={"key": api_key},
+            json={"q": text, "source": source, "target": target, "format": "text"},
+            timeout=30,
+        )
+        r.raise_for_status()
+        data = r.json()
+        return data["data"]["translations"][0]["translatedText"]
+    except Exception as e:
+        log.error("Google Translate failed (%s → %s): %s", source, target, e)
+        return None
+
+
+def _word_overlap(a: str, b: str) -> float:
+    """Jaccard similarity over word sets. Used for back-translation quality check."""
+    wa = set(re.findall(r"\w+", a.lower()))
+    wb = set(re.findall(r"\w+", b.lower()))
+    if not wa or not wb:
+        return 0.0
+    intersection = len(wa & wb)
+    union = len(wa | wb)
+    return intersection / union if union else 0.0
+
+
+def translate_with_quality_check(
+    text: str, api_key: str
+) -> tuple[str | None, float]:
+    """
+    Translate English text to Chichewa and run a back-translation quality check.
+
+    Returns (chichewa_text, quality_score). The quality_score is 0.0–1.0 based
+    on how well the back-translated English matches the original. A high score
+    means the translation is likely accurate; a low score means parts may have
+    been mistranslated.
+
+    Returns (None, 0.0) if translation fails.
+    """
+    if not text or not text.strip():
+        return "", 1.0  # nothing to translate, vacuously fine
+
+    ny = google_translate(text, source="en", target="ny", api_key=api_key)
+    if ny is None:
+        return None, 0.0
+
+    # Back-translation: ny → en, compared with original
+    en_back = google_translate(ny, source="ny", target="en", api_key=api_key)
+    if en_back is None:
+        # We got the translation but can't verify quality
+        log.warning("Back-translation failed; translation kept but unverified")
+        return ny, 0.5  # neutral score
+
+    score = _word_overlap(text, en_back)
+    return ny, score
+
+
+def translate_article_fields(
+    rewritten: dict[str, Any], api_key: str
+) -> tuple[dict[str, str] | None, float]:
+    """
+    Translate the title, body, and body_more fields of an English article
+    into Chichewa. Returns (chichewa_dict, overall_quality_score).
+    """
+    en = rewritten  # flat shape: title, body, body_more directly in dict
+
+    ny_title, score_title = translate_with_quality_check(en["title"], api_key)
+    if ny_title is None:
+        return None, 0.0
+
+    ny_body, score_body = translate_with_quality_check(en["body"], api_key)
+    if ny_body is None:
+        return None, 0.0
+
+    ny_body_more, score_body_more = translate_with_quality_check(en["body_more"], api_key)
+    if ny_body_more is None:
+        return None, 0.0
+
+    # Weighted average: body and body_more matter more than title
+    overall = (score_title * 0.1) + (score_body * 0.3) + (score_body_more * 0.6)
+
+    log.info(
+        "Translation quality: title=%.2f, body=%.2f, body_more=%.2f, overall=%.2f",
+        score_title, score_body, score_body_more, overall,
+    )
+
+    return {
+        "title": ny_title,
+        "body": ny_body,
+        "body_more": ny_body_more,
+    }, overall
+
+
+# ---------------------------------------------------------------------------
+# Step 5: assemble JSON
+# ---------------------------------------------------------------------------
+
+def cluster_to_article(
+    cluster: Cluster,
+    rewritten: dict[str, Any],
+    ny: dict[str, str] | None,
+    ny_quality: float,
+) -> dict[str, Any]:
     today = datetime.now(timezone.utc).date().isoformat()
-    slug_basis = rewritten["en"]["title"].lower()
+    slug_basis = rewritten["title"].lower()
     slug = re.sub(r"[^a-z0-9]+", "-", slug_basis).strip("-")[:50] or "story"
 
     # Use the deduplicated list — don't show readers two "sources" that are
@@ -582,14 +690,26 @@ def cluster_to_article(cluster: Cluster, rewritten: dict[str, Any]) -> dict[str,
         seen.add(a.source_name)
         sources.append({"name": a.source_name, "url": a.url})
 
-    return {
+    article = {
         "id": f"{today}-{slug}",
         "tag": rewritten["tag"],
         "published": cluster.latest.isoformat(),
-        "en": rewritten["en"],
-        "ny": rewritten["ny"],
+        "en": {
+            "title": rewritten["title"],
+            "body": rewritten["body"],
+            "body_more": rewritten["body_more"],
+        },
         "sources": sources,
     }
+
+    if ny is not None:
+        article["ny"] = ny
+        article["ny_quality"] = round(ny_quality, 3)
+        # If the back-translation check is below threshold, flag for review
+        if ny_quality < TRANSLATION_QUALITY_THRESHOLD:
+            article["ny_needs_review"] = True
+
+    return article
 
 
 def load_existing_articles() -> dict[str, dict[str, Any]]:
@@ -757,6 +877,13 @@ def main() -> int:
         log.error("ANTHROPIC_API_KEY environment variable not set.")
         return 1
 
+    google_key = os.environ.get("GOOGLE_TRANSLATE_API_KEY")
+    if not google_key:
+        log.warning(
+            "GOOGLE_TRANSLATE_API_KEY not set — pipeline will run but produce "
+            "English-only articles. Set the secret in GitHub to enable Chichewa."
+        )
+
     client = Anthropic(api_key=api_key)
 
     raw = fetch_all()
@@ -798,7 +925,22 @@ def main() -> int:
         if rewritten is None:
             log.warning("Skipping cluster due to rewrite failure.")
             continue
-        article = cluster_to_article(c, rewritten)
+
+        # Translate to Chichewa, with quality check via back-translation
+        ny = None
+        ny_quality = 0.0
+        if google_key:
+            log.info("Translating to Chichewa with Google Cloud Translation...")
+            ny, ny_quality = translate_article_fields(rewritten, google_key)
+            if ny is None:
+                log.warning("Translation failed; article will be English-only")
+            elif ny_quality < TRANSLATION_QUALITY_THRESHOLD:
+                log.warning(
+                    "Translation quality below threshold (%.2f < %.2f) — flagging for review",
+                    ny_quality, TRANSLATION_QUALITY_THRESHOLD,
+                )
+
+        article = cluster_to_article(c, rewritten, ny, ny_quality)
         previous_by_id = {a["id"]: a for a in existing_articles}
         article = merge_with_reviewed(article, previous_by_id)
         final.append(article)

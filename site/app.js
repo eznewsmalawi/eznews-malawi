@@ -14,6 +14,7 @@
       read_more: "Read more",
       show_less: "Show less",
       reviewed_badge: "Chichewa checked by editor",
+      needs_review_badge: "Auto-translated · awaiting review",
       topics: "Topics",
       recent_days: "Recent days",
       nav_today: "Today",
@@ -38,7 +39,7 @@
       about_p3: "Every story is written in two languages. The English uses very simple words (CEFR A1 level). The Chichewa is at a friendly everyday level (A2). You can switch between them with the EN/CC button at the top of the page.",
       about_p_ct: "We know that Chitumbuka is the first language for many people in the northern region of Malawi, and that other languages like Chiyao, Lomwe and Sena are also spoken across the country. We would like ezNews Malawi to include these languages too. For now, we have only started with Chichewa because that is what we can do well today, and we want every translation we publish to be of good quality. We are working on adding Chitumbuka next, and we will add it as soon as we are confident it will read naturally for our readers in the north. Thank you for your patience.",
       about_p4: "We always show the news websites we used at the bottom of every story. Click any source name to read the original article. We do not copy stories — we read several and write our own short summary.",
-      about_p5: "Our stories are written by an AI assistant and reviewed by a human editor. AI can make mistakes, so please use ezNews Malawi together with other news sources, not as your only source. The Chichewa is checked by a real Chichewa speaker — when you see the green ✓ Chichewa checked badge, it means a person has read it.",
+      about_p5: "Our English articles are written by an AI assistant. The Chichewa version is translated by Google Cloud Translation, then checked by a human editor. AI and translation systems can make mistakes, so please use ezNews Malawi together with other news sources, not as your only source. When you see a green ✓ \"Chichewa checked by editor\" badge, a Chichewa speaker has read and approved the article. When you see a yellow ⚠ \"Auto-translated, awaiting review\" badge, the article has been translated but may have small errors until a human checks it.",
       about_p6: "We made this website very small so it works on slow internet and uses very little data. Each page is under 50 KB.",
       all: "All",
       politics: "Politics",
@@ -63,6 +64,7 @@
       read_more: "Werengani zambiri",
       show_less: "Bisani",
       reviewed_badge: "Chichewa chayang'aniridwa ndi mkonzi",
+      needs_review_badge: "Chamasuliridwa ndi makina · chikuyembekezera kuwunika",
       topics: "Mitu",
       recent_days: "Masiku apitawa",
       nav_today: "Lero",
@@ -87,7 +89,7 @@
       about_p3: "Nkhani iliyonse imalembedwa m'zilankhulo ziwiri. Chingelezi chimagwiritsa ntchito mawu osavuta kwambiri (CEFR A1). Chichewa chiri pa mlingo wa tsiku ndi tsiku (A2). Mutha kusintha pakati pa zilankhulozi pogwiritsa ntchito batani la EN/CC pamwamba pa tsamba.",
       about_p_ct: "Tikudziwa kuti Chitumbuka ndi chilankhulo choyamba cha anthu ambiri kumpoto kwa Malawi, ndipo zilankhulo zina monga Chiyao, Lomwe ndi Sena nazonso zimalankhulidwa m'dziko lonse. Tikufuna kuti ezNews Malawi ikhalenso ndi zilankhulo izi. Pakali pano, tayamba ndi Chichewa chokha chifukwa ndi chimene tikhoza kupanga bwino lero, ndipo tikufuna kuti matembenuzidwe athu onse akhale a mtundu wabwino. Tikupanga zoonadi zowonjezera Chitumbuka chotsatira, ndipo tichiwonjezera tikadzakhala otsimikiza kuti chiwerengeka mwachilengedwe kwa owerenga athu akumpoto. Zikomo chifukwa choleza mtima.",
       about_p4: "Timaonetsa nthawi zonse mawebusayiti omwe tagwiritsa ntchito pansi pa nkhani iliyonse. Dinani pa dzina la gwero kuti muwerenge nkhani yoyamba. Sititenga nkhani zonse — timawerenga zambiri ndi kulemba chidule chathu.",
-      about_p5: "Nkhani zathu zimalembedwa ndi AI ndipo zimayang'aniridwa ndi mkonzi wamunthu. AI ingapange zolakwa, choncho gwiritsani ntchito ezNews Malawi limodzi ndi nkhani zina, osati ngati gwero lokhalo lomwe mukudalira. Chichewa chimayang'aniridwa ndi munthu wodziwa Chichewa — mukaona chizindikiro chobiriwira ✓ chayang'aniridwa, zikutanthauza kuti munthu wachiwerenga.",
+      about_p5: "Nkhani zathu za Chingelezi zimalembedwa ndi AI. Mtundu wa Chichewa umamasuliridwa ndi Google Cloud Translation, kenako ndikuwunikidwa ndi mkonzi wamunthu. AI ndi makina amasulira angapange zolakwa, choncho gwiritsani ntchito ezNews Malawi limodzi ndi nkhani zina, osati ngati gwero lokhalo lomwe mukudalira. Mukaona chizindikiro chobiriwira ✓ \"Chichewa chayang'aniridwa ndi mkonzi\", zikutanthauza kuti munthu wodziwa Chichewa wachiwerenga ndi kuvomereza. Mukaona chizindikiro chachikasu ⚠ \"Chamasuliridwa ndi makina · chikuyembekezera kuwunika\", nkhaniyi yamasuliridwa koma ikhoza kukhala ndi zolakwika zazing'ono mpaka pamene munthu adzayang'ana.",
       about_p6: "Tinapanga webusayitiyi yaying'ono kwambiri kuti igwire ntchito pa intaneti yochedwa ndipo isagwiritse ntchito data yambiri. Tsamba lililonse liri losadutsa 50 KB.",
       all: "Zonse",
       politics: "Ndale",
@@ -268,15 +270,20 @@
         '</button>'
       : '';
 
-    const reviewedBadge = (state.lang === 'ny' && a.ny_reviewed)
-      ? '<span class="reviewed-badge" title="' + escapeAttr(t('reviewed_badge')) + '"><span aria-hidden="true">✓</span> ' + escapeHtml(t('reviewed_badge')) + '</span>'
-      : '';
+    let langBadge = '';
+    if (state.lang === 'ny') {
+      if (a.ny_reviewed) {
+        langBadge = '<span class="reviewed-badge" title="' + escapeAttr(t('reviewed_badge')) + '"><span aria-hidden="true">✓</span> ' + escapeHtml(t('reviewed_badge')) + '</span>';
+      } else if (a.ny_needs_review) {
+        langBadge = '<span class="needs-review-badge" title="' + escapeAttr(t('needs_review_badge')) + '"><span aria-hidden="true">⚠</span> ' + escapeHtml(t('needs_review_badge')) + '</span>';
+      }
+    }
 
     card.innerHTML =
       '<div class="card-meta">' +
         '<span class="tag tag-' + escapeAttr(a.tag) + '">' + escapeHtml(t(a.tag)) + '</span>' +
         '<span class="card-time">' + escapeHtml(formatDate(a.published)) + '</span>' +
-        reviewedBadge +
+        langBadge +
       '</div>' +
       '<h2>' + escapeHtml(c.title) + '</h2>' +
       '<p>' + escapeHtml(c.body) + '</p>' +
