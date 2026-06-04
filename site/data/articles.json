@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-03T19:11:26.620279+00:00",
+  "generated_at": "2026-06-04T16:34:14.380833+00:00",
   "articles": [
+    {
+      "id": "2026-06-04-government-removes-journalist-from-tanzania-diplom",
+      "tag": "politics",
+      "published": "2026-06-04T14:29:53+00:00",
+      "en": {
+        "title": "Government Removes Journalist From Tanzania Diplomat Post",
+        "body": "The government has withdrawn journalist Aubrey Sumbuleta from his appointment as High Commissioner-designate to Tanzania. Sumbuleta was scheduled to appear before Parliament's Public Appointments Committee in Lilongwe for confirmation hearings, but the appointment was cancelled at the last moment. No reason was given for the withdrawal.",
+        "body_more": "PAC chairperson Felix Njawala confirmed that lawmakers received official communication about the withdrawal while conducting interviews for diplomatic nominees. \"We received communication regarding the withdrawal of Mr Sumbuleta who was supposed to appear before this committee for confirmation hearings,\" Njawala said. The committee was not told why the decision was made.\n\nSumbuleta is a well-known journalist and public relations specialist. He worked as public relations manager at the Malawi Electoral Commission and later became director general of the Malawi Broadcasting Corporation. His experience in media and government made him a strong choice for the Tanzania posting. Tanzania is one of Malawi's closest neighbours and an important trade and security partner.\n\nThe removal is unusual because diplomatic nominees normally go through extensive background checks long before they face Parliament. Last-minute withdrawals are rare and often raise questions. While other diplomats nominated on the same day — including Robert Dafter Salama for South Africa, Patrick Makina for Zambia, David Nungu for Zimbabwe, Reynold Mangisa for Mozambique, and Spoon Phiri as Permanent Representative to the United Nations — all kept their appointments and went through confirmation hearings without problems.\n\nWhen journalists asked for answers, Office of the President and Cabinet spokesperson Focus Maganga asked for more time. Chief Secretary Justin Saidi said he first needed to find out the facts before responding. The government has not yet explained why Sumbuleta's name was removed from the list. The Ministry of Foreign Affairs is expected to announce next steps on the Tanzania post soon."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/government-pulls-sumbuleta-from-diplomatic-list-without-explanation/"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/why-aubrey-sumbuletas-tanzania-diplomatic-appointment-withdrawn-at-last-minute/"
+        }
+      ],
+      "ny": {
+        "title": "Boma Lachotsa Mtolankhani ku Udindo wa Diplomat ku Tanzania",
+        "body": "Boma lachotsa mtolankhani Aubrey Sumbuleta pa udindo wake monga High Commissioner ku Tanzania. Sumbuleta anayenera kukaonekera pamaso pa Komiti Yoona za Kusankhidwa kwa Anthu ku Nyumba Yamalamulo ku Lilongwe kuti akamve maganizo ake, koma udindo wake unathetsedwa nthawi yomaliza. Palibe chifukwa chomwe chinaperekedwa chochotsera udindowu.",
+        "body_more": "Wapampando wa PAC, Felix Njawala, watsimikiza kuti opanga malamulo adalandira mauthenga ovomerezeka okhudza kuchoka kwa a Sumbuleta omwe amayenera kuonekera pamaso pa komitiyi kuti akamve zotsimikizira za chisankho chawo, \"Tinalandira mauthenga okhudza kuchoka kwa a Sumbuleta omwe amayenera kuonekera pamaso pa komitiyi kuti akamve zotsimikizira za chisankho chawo,\" adatero Njawala. Komitiyo sinadziwitsidwe chifukwa chake chisankhocho chinapangidwa.\n\nSumbuleta ndi mtolankhani wodziwika bwino komanso katswiri wodziwa za ubale ndi anthu. Anagwira ntchito ngati manejala wa ubale ndi anthu ku Malawi Electoral Commission ndipo pambuyo pake anakhala director wamkulu wa Malawi Broadcasting Corporation. Chidziwitso chake muzofalitsa nkhani ndi boma chinamupangitsa kukhala chisankho chabwino kwambiri pa ntchito ya ku Tanzania. Tanzania ndi imodzi mwa mayiko oyandikana kwambiri ndi Malawi komanso bwenzi lofunika kwambiri pazamalonda ndi chitetezo.\n\nKuchotsedwa kumeneku sikwachilendo chifukwa osankhidwa a diplomatic nthawi zambiri amafufuzidwa kwambiri mbiri yawo asanakumane ndi Nyumba Yamalamulo. Kuchoka komaliza kumakhala kochepa ndipo nthawi zambiri kumabweretsa mafunso. Pomwe oimira boma ena omwe adasankhidwa tsiku lomwelo - kuphatikizapo Robert Dafter Salama wa ku South Africa, Patrick Makina wa ku Zambia, David Nungu wa ku Zimbabwe, Reynold Mangisa wa ku Mozambique, ndi Spoon Phiri monga Woyimira Wosatha ku United Nations - onse adasunga maudindo awo ndipo adapita kumisonkhano yotsimikizira popanda mavuto.\n\nAtolankhani atapempha mayankho, Ofesi ya Purezidenti komanso wolankhulira nduna Focus Maganga anapempha nthawi yochulukirapo. Mlembi Wamkulu Justin Saidi anati choyamba ayenera kupeza zoona zake asanayankhe. Boma silinafotokoze chifukwa chake dzina la Sumbuleta linachotsedwa pamndandanda. Unduna wa Zachilendo ukuyembekezeka kulengeza zomwe zichitike paudindo wa ku Tanzania posachedwa."
+      },
+      "ny_quality": 0.585
+    },
     {
       "id": "2026-06-03-who-says-malawi-made-good-progress-in-health-care",
       "tag": "health",
