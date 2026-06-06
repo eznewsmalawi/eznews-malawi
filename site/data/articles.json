@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-06-06T11:05:13.377611+00:00",
+  "generated_at": "2026-06-06T20:48:15.979340+00:00",
   "articles": [
+    {
+      "id": "2026-06-05-court-stops-mec-move-from-lilongwe-to-blantyre",
+      "tag": "politics",
+      "published": "2026-06-06T10:23:51+00:00",
+      "en": {
+        "title": "Court stops MEC move from Lilongwe to Blantyre",
+        "body": "A court has stopped President Peter Mutharika's plan to move the Malawi Electoral Commission (MEC) from Lilongwe to Blantyre. Judge Kenyatta Nyirenda gave an order to block the move. The Malawi Congress Party (MCP) and three other people asked the court to stop it.",
+        "body_more": "The MCP, together with Emmanuel Chambulanyina Jere, Abraham Mwakhwawa, and Daniel Mwanyongo Chitonya, went to the High Court. They asked Judge Kenyatta Nyirenda to stop the relocation. The judge agreed and gave an injunction. This means the government cannot move MEC from Lilongwe to Blantyre or any other place right now. The court order also says the defendants—Chief Secretary Justin Saidi and Lands Minister Chimwemwe Chipungu—must not take any more steps toward the move.\n\nThe judge also gave the claimants leave to start Judicial Review and Constitutional Review cases. This means the court will look at whether the relocation is legal and whether it breaks the constitution. The lawyer for the three people and MCP, George Jivason Kadzipatike, said the court order stops any move of MEC. He said: \"With this Order, MEC will not be relocated from Lilongwe to Blantyre or to any other place.\"\n\nPresident Mutharika gave an executive order in October 2025 to move MEC to Blantyre. The order also said the Malawi Communications Regulatory Authority (MACRA) and the Malawi Housing Corporation (MHC) should move there too. But the court has now blocked this.\n\nThe government says MEC spends K100 million per month on rent in Lilongwe. Moving to Blantyre would cost only K5 million per month. This would save K95 million each month. The Attorney General, Frank Mbeta, said the government will fight the court order. He says the move is needed to save money. But the MCP says the government wants to move MEC away from Lilongwe to weaken the check on its power."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/collision-course-judiciary-frustrates-mutharikas-mec-relocation-triggering-constitutional-showdown/"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/06/05/mcp-triumphs-over-mutharika-as-court-blocks-mec-relocation/"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/mcp-gets-court-injunction-against-mutharikas-mec-relocation-order/"
+        },
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/court-favours-mcp-three-mps-on-mec-relocation-case/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/whats-in-mecs-relocation-saga/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-mecs-relocation-saga"
+        }
+      ],
+      "ny": {
+        "title": "Khoti laletsa MEC kusamuka kuchoka ku Lilongwe kupita ku Blantyre",
+        "body": "Khothi laletsa dongosolo la Purezidenti Peter Mutharika losamutsa bungwe la Malawi Electoral Commission (MEC) kuchoka ku Lilongwe kupita ku Blantyre. Woweruza milandu Kenyatta Nyirenda adapereka lamulo loletsa izi. Chipani cha Malawi Congress (MCP) ndi anthu ena atatu adapempha khothi kuti liletse izi.",
+        "body_more": "MCP, pamodzi ndi Emmanuel Chambulanyina Jere, Abraham Mwakhwawa, ndi Daniel Mwanyongo Chitonya, adapita ku Khoti Lalikulu. Adapempha Woweruza Kenyatta Nyirenda kuti aletse kusamutsa anthu. Woweruzayo adavomereza ndipo adapereka lamulo. Izi zikutanthauza kuti boma silingasunthe MEC kuchokera ku Lilongwe kupita ku Blantyre kapena kwina kulikonse pakali pano. Lamulo la khothi likunenanso kuti otsutsawo—Mlembi Wamkulu Justin Saidi ndi Nduna ya Malo Chimwemwe Chipungu—sayenera kuchitapo kanthu kena pa kusamutsaku.\n\nWoweruzayo adapatsanso odandaulawo chilolezo choyambitsa milandu ya Judicial Review ndi Constitutional Review. Izi zikutanthauza kuti khothi lidzayang'ana ngati kusamutsaku kuli kovomerezeka komanso ngati kukuphwanya malamulo. Loya wa anthu atatuwa ndi MCP, George Jivason Kadzipatike, adati lamulo la khothi likuletsa kusamutsa kulikonse kwa MEC. Iye anati: \"Ndi Lamuloli, MEC sidzasamutsidwa kuchoka ku Lilongwe kupita ku Blantyre kapena kwina kulikonse.\"\n\nPurezidenti Mutharika adapereka lamulo la akuluakulu mu Okutobala 2025 kuti MEC isamutsidwe kupita ku Blantyre. Lamuloli linanenanso kuti bungwe la Malawi Communications Regulatory Authority (MACRA) ndi bungwe la Malawi Housing Corporation (MHC) nazonso ziyenera kusamukira kumeneko. Koma khoti tsopano laletsa izi.\n\nBoma likunena kuti MEC imagwiritsa ntchito K100 miliyoni pamwezi pa lendi ku Lilongwe. Kusamukira ku Blantyre kungawononge K5 miliyoni yokha pamwezi. Izi zipulumutsa K95 miliyoni mwezi uliwonse. Loya Wamkulu, Frank Mbeta, anati boma lidzalimbana ndi lamulo la khoti. Iye akuti kusinthaku n'kofunika kuti ndalama zisungidwe. Koma MCP ikunena kuti boma likufuna kusuntha MEC kuchoka ku Lilongwe kuti ifooketse mphamvu zake."
+      },
+      "ny_quality": 0.653
+    },
     {
       "id": "2026-06-06-fdh-bank-holds-back-k7-billion-dividend-over-debt-",
       "tag": "economy",
@@ -112,44 +150,6 @@
         "body_more": "Chilapondwa adauza khoti kuti Gawo 17(3) la PPDA Act limapatsa bungweli mphamvu zoyimitsa director wamkulu. Mlembi wa Zachuma, Cliff Chiunda, adasaina kalata yoyimitsa ntchito m'malo mwake. Chilapondwa adati pangano lake linali pakati pa iye ndi bungweli, osati ndi Zachuma.\n\nWapampando wakale wa bungweli, Jacob Nyirongo, adatsimikiza kuti bungweli linasiya ntchito pomwe Chilapondwa anali kugwirabe ntchito. Wapampando wa bungweli, Kalekeni Kaphale, adati mu February 2026 kuti panalibe bungweli pamene kuyimitsa ntchito kunachitika. Kaphale adati, \"Panalibe bungweli mpaka sabata yatha.\" Chilapondwa akunena kuti popanda bungweli, kuyimitsa ntchito sikunali kovomerezeka.\n\nChilapondwa akunenanso kuti adakhalabe woyimitsidwa kwa miyezi yoposa isanu. Lamulo limati kuyimitsidwa ntchito kumatha kukhala masiku 60 okha. Adalandira kalata yowonjezera ya masiku 21 yotumizidwa kunyumba kwake pakati pausiku. Adapempha khotilo kuti linene kuti kuyimitsidwa kwake ndi kuchotsedwa ntchito kwake kunali kosaloledwa. Akufuna kubwerera kuntchito yake kapena kupeza ndalama zomulipira. Bungwe latsopano litapangidwa, linamupempha kuti abwere kudzamvetsera. Iye anakana chifukwa anati ndondomeko yonseyi inali yoipa kuyambira pachiyambi.\n\nStuart Ligomeka, Woyang'anira Mabungwe Ovomerezeka, sananenepo kanthu. Iye anati nkhaniyi ili kukhoti tsopano. Nduna ya Zachuma Joseph Mwanamvekakha anati sanauzidwe za nkhaniyi."
       },
       "ny_quality": 0.683
-    },
-    {
-      "id": "2026-06-05-court-stops-mec-move-from-lilongwe-to-blantyre",
-      "tag": "politics",
-      "published": "2026-06-06T04:41:21+00:00",
-      "en": {
-        "title": "Court stops MEC move from Lilongwe to Blantyre",
-        "body": "A court has stopped President Peter Mutharika's plan to move the Malawi Electoral Commission (MEC) from Lilongwe to Blantyre. Judge Kenyatta Nyirenda gave an order to block the move. The Malawi Congress Party (MCP) and three other people asked the court to stop it.",
-        "body_more": "The MCP, together with Emmanuel Chambulanyina Jere, Abraham Mwakhwawa, and Daniel Mwanyongo Chitonya, went to the High Court. They asked Judge Kenyatta Nyirenda to stop the relocation. The judge agreed and gave an injunction. This means the government cannot move MEC from Lilongwe to Blantyre or any other place right now. The court order also says the defendants—Chief Secretary Justin Saidi and Lands Minister Chimwemwe Chipungu—must not take any more steps toward the move.\n\nThe judge also gave the claimants leave to start Judicial Review and Constitutional Review cases. This means the court will look at whether the relocation is legal and whether it breaks the constitution. The lawyer for the three people and MCP, George Jivason Kadzipatike, said the court order stops any move of MEC. He said: \"With this Order, MEC will not be relocated from Lilongwe to Blantyre or to any other place.\"\n\nPresident Mutharika gave an executive order in October 2025 to move MEC to Blantyre. The order also said the Malawi Communications Regulatory Authority (MACRA) and the Malawi Housing Corporation (MHC) should move there too. But the court has now blocked this.\n\nThe government says MEC spends K100 million per month on rent in Lilongwe. Moving to Blantyre would cost only K5 million per month. This would save K95 million each month. The Attorney General, Frank Mbeta, said the government will fight the court order. He says the move is needed to save money. But the MCP says the government wants to move MEC away from Lilongwe to weaken the check on its power."
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/collision-course-judiciary-frustrates-mutharikas-mec-relocation-triggering-constitutional-showdown/"
-        },
-        {
-          "name": "Malawi24",
-          "url": "https://malawi24.com/2026/06/05/mcp-triumphs-over-mutharika-as-court-blocks-mec-relocation/"
-        },
-        {
-          "name": "Maravi Post",
-          "url": "https://www.maravipost.com/mcp-gets-court-injunction-against-mutharikas-mec-relocation-order/"
-        },
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/court-favours-mcp-three-mps-on-mec-relocation-case/"
-        },
-        {
-          "name": "Daily Times",
-          "url": "https://times.mw/whats-in-mecs-relocation-saga/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-mecs-relocation-saga"
-        }
-      ],
-      "ny": {
-        "title": "Khoti laletsa MEC kusamuka kuchoka ku Lilongwe kupita ku Blantyre",
-        "body": "Khothi laletsa dongosolo la Purezidenti Peter Mutharika losamutsa bungwe la Malawi Electoral Commission (MEC) kuchoka ku Lilongwe kupita ku Blantyre. Woweruza milandu Kenyatta Nyirenda adapereka lamulo loletsa izi. Chipani cha Malawi Congress (MCP) ndi anthu ena atatu adapempha khothi kuti liletse izi.",
-        "body_more": "MCP, pamodzi ndi Emmanuel Chambulanyina Jere, Abraham Mwakhwawa, ndi Daniel Mwanyongo Chitonya, adapita ku Khoti Lalikulu. Adapempha Woweruza Kenyatta Nyirenda kuti aletse kusamutsa anthu. Woweruzayo adavomereza ndipo adapereka lamulo. Izi zikutanthauza kuti boma silingasunthe MEC kuchokera ku Lilongwe kupita ku Blantyre kapena kwina kulikonse pakali pano. Lamulo la khothi likunenanso kuti otsutsawo—Mlembi Wamkulu Justin Saidi ndi Nduna ya Malo Chimwemwe Chipungu—sayenera kuchitapo kanthu kena pa kusamutsaku.\n\nWoweruzayo adapatsanso odandaulawo chilolezo choyambitsa milandu ya Judicial Review ndi Constitutional Review. Izi zikutanthauza kuti khothi lidzayang'ana ngati kusamutsaku kuli kovomerezeka komanso ngati kukuphwanya malamulo. Loya wa anthu atatuwa ndi MCP, George Jivason Kadzipatike, adati lamulo la khothi likuletsa kusamutsa kulikonse kwa MEC. Iye anati: \"Ndi Lamuloli, MEC sidzasamutsidwa kuchoka ku Lilongwe kupita ku Blantyre kapena kwina kulikonse.\"\n\nPurezidenti Mutharika adapereka lamulo la akuluakulu mu Okutobala 2025 kuti MEC isamutsidwe kupita ku Blantyre. Lamuloli linanenanso kuti bungwe la Malawi Communications Regulatory Authority (MACRA) ndi bungwe la Malawi Housing Corporation (MHC) nazonso ziyenera kusamukira kumeneko. Koma khoti tsopano laletsa izi.\n\nBoma likunena kuti MEC imagwiritsa ntchito K100 miliyoni pamwezi pa lendi ku Lilongwe. Kusamukira ku Blantyre kungawononge K5 miliyoni yokha pamwezi. Izi zipulumutsa K95 miliyoni mwezi uliwonse. Loya Wamkulu, Frank Mbeta, anati boma lidzalimbana ndi lamulo la khoti. Iye akuti kusinthaku n'kofunika kuti ndalama zisungidwe. Koma MCP ikunena kuti boma likufuna kusuntha MEC kuchoka ku Lilongwe kuti ifooketse mphamvu zake."
-      },
-      "ny_quality": 0.653
     },
     {
       "id": "2026-06-05-malawi-faces-environmental-crisis-government-acts",
