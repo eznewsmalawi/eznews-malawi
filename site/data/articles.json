@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-11T09:17:51.151260+00:00",
+  "generated_at": "2026-06-11T14:44:34.717050+00:00",
   "articles": [
+    {
+      "id": "2026-06-11-government-stops-case-against-chinese-prisoner-lin",
+      "tag": "politics",
+      "published": "2026-06-11T12:53:42+00:00",
+      "en": {
+        "title": "Government Stops Case Against Chinese Prisoner Lin Yunhua",
+        "body": "The State is trying to stop a case against Lin Yunhua, a Chinese man in prison. The Anti-Corruption Bureau (ACB) asked the High Court to drop the case on June 9, 2026. Lin Yunhua was charged with giving money to prison workers. The case was already at trial. Two witnesses had already spoken in court.",
+        "body_more": "Lin Yunhua was in prison for money laundering and wildlife crimes. While he was there, people said he gave money to prison workers. This gave him special treatment that other prisoners did not get. The ACB heard these complaints and started a case against him. The ACB was ready to call 15 to 18 witnesses.\n\nThe trial began on May 13, 2026. Two witnesses came to court and gave evidence. Then the case stopped. The Director of Public Prosecutions (DPP) sent a letter on May 19, 2026. The letter told the ACB to drop the case. The DPP said the prison workers' bad actions should be dealt with through other government processes, not through the courts. Peter Sambani, the ACB's Chief Legal and Prosecution Officer, put this in a sworn statement to the court.\n\nMany people in Malawi are angry about this choice. They say it is not fair. They ask: if the case was strong enough to start, why stop it now? Lawyers and rights groups say this looks bad. They worry it shows that rich and powerful people get treated differently. They say ordinary people go to prison for small crimes, but important people can escape. Some people say the government should explain why it stopped the case.\n\nThe High Court has not yet said yes to the request to drop the case. The court must still decide. Many Malawians are waiting to see what the judge will do. The case is called Criminal Case No. 5 of 2025 in the Financial Crimes Division of the High Court in Lilongwe."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/uproar-as-state-moves-to-drop-the-high-profile-corruption-case-involving-the-notorious-chinese-wildlife-convict-lin-yunhua/"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/06/11/dpp-pulls-plug-on-lin-trial/"
+        }
+      ],
+      "ny": {
+        "title": "Boma Layimitsa Mlandu Wokhudza Mkaidi Wachi China Lin Yunhua",
+        "body": "Boma likuyesera kuletsa mlandu wotsutsana ndi Lin Yunhua, mwamuna waku China yemwe ali m'ndende. Bungwe Lolimbana ndi Ziphuphu (ACB) linapempha Khothi Lalikulu kuti lichotse mlanduwu pa June 9, 2026. Lin Yunhua anaimbidwa mlandu wopereka ndalama kwa ogwira ntchito m'ndende. Mlanduwu unali kale kukhoti. Mboni ziwiri zinali zitalankhula kale kukhoti.",
+        "body_more": "Lin Yunhua anali m'ndende chifukwa cha kuswa ndalama ndi milandu ya nyama zakuthengo. Ali kumeneko, anthu anati anapereka ndalama kwa ogwira ntchito m'ndende. Izi zinamupatsa chithandizo chapadera chomwe akaidi ena sanalandire. ACB anamva madandaulo awa ndipo anayamba mlandu wotsutsana naye. ACB anali okonzeka kuyitana mboni 15 mpaka 18.\n\nMlanduwu unayamba pa Meyi 13, 2026. Mboni ziwiri zinabwera kukhothi ndikupereka umboni. Kenako mlanduwo unayima. Mtsogoleri wa Madandaulo a Anthu (DPP) anatumiza kalata pa Meyi 19, 2026. Kalatayo inauza ACB kuti ichotse mlanduwo. DPP inati zochita zoipa za ogwira ntchito m'ndende ziyenera kuthetsedwa kudzera m'njira zina za boma, osati kudzera m'makhothi. Peter Sambani, Chief Legal and Prosecution Officer wa ACB, anaika izi mu chikalata cholumbira kukhothi.\n\nAnthu ambiri ku Malawi akwiya ndi chisankhochi. Amati sichilungamo. Amafunsa kuti: ngati mlanduwo unali wolimba mokwanira kuti uyambe, bwanji usiye tsopano? Maloya ndi magulu omenyera ufulu akuti izi zikuwoneka zoyipa. Akuda nkhawa kuti zikusonyeza kuti anthu olemera komanso amphamvu amachitiridwa mosiyana. Amati anthu wamba amapita kundende chifukwa cha milandu ing'onoing'ono, koma anthu ofunikira amathawa. Anthu ena amati boma liyenera kufotokoza chifukwa chake linayimitsa mlanduwo.\n\nKhoti Lalikulu silinavomereze pempho loti mlanduwo uchotsedwe. Khotilo liyenerabe kusankha. Anthu ambiri aku Malawi akuyembekezera kuona zomwe woweruza milandu achite. Mlanduwu umatchedwa Mlandu Wachifwamba Nambala 5 wa 2025 mu Dipatimenti Yoona za Milandu Yachuma ku Khoti Lalikulu ku Lilongwe."
+      },
+      "ny_quality": 0.668
+    },
     {
       "id": "2026-06-11-attorney-general-fights-to-stop-mec-relocation-cou",
       "tag": "politics",
