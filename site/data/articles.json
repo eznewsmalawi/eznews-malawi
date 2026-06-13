@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-13T08:27:33.772156+00:00",
+  "generated_at": "2026-06-13T12:54:10.662285+00:00",
   "articles": [
+    {
+      "id": "2026-06-13-african-development-bank-warns-of-malawi-economic-",
+      "tag": "economy",
+      "published": "2026-06-13T08:24:28+00:00",
+      "en": {
+        "title": "African Development Bank Warns of Malawi Economic Problems",
+        "body": "The African Development Bank says Malawi faces big money problems. Real GDP growth was below two percent from 2020 to 2024. The bank says growth will reach two percent in 2025. Low growth, high prices, and money shortages are the main problems.",
+        "body_more": "The bank says two things are making the economy weak. On one side, people have less money. Prices are high. The government controls money tightly. People cannot buy as much. On the other side, bad weather has hurt farms. Farms make less food. Food prices go up.\n\nForeign exchange money is very low. It covers less than 0.7 months of imports. In 2024, Malawi bought more than three times more goods than it sold to other countries. The money exchange rate has become more stable, but the country still has very little foreign cash.\n\nThe World Bank also warned that Malawi is poor at managing money. This makes the fight against extreme poverty harder. The International Monetary Fund said reforms have stopped. Public debt is growing. Malawi wants to become a lower middle-income country by 2030 and an upper middle-income country by 2063. But the current growth of 1.8 percent is too slow. The population grows at 2.7 percent each year. This is faster than the economy grows.\n\nHowever, the African Development Bank sees hope ahead. It projects that real GDP growth will reach 3.8 percent in 2026. This growth will come from farms recovering, tourism growing again, and new mining projects. Christopher Mbukwa, an economics teacher at Mzuzu University, says rising poverty shows past programmes have failed. The National Planning Commission agrees. It says the gap between economic growth and population growth is making the 2063 goal harder to reach."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/afdb-flags-malawis-economic-hurdles/"
+        },
+        {
+          "name": "Business Malawi",
+          "url": "https://www.businessmalawi.com/afdb-flags-economic-headwinds-threatening-malawi-business-growth/"
+        }
+      ],
+      "ny": {
+        "title": "Banki Yachitukuko ku Africa Yachenjeza Mavuto Azachuma ku Malawi",
+        "body": "Banki Yachitukuko ku Africa ikunena kuti dziko la Malawi likukumana ndi mavuto azachuma ambiri. Kukula kwenikweni kwa GDP kunali pansi pa magawo awiri pa zana kuyambira 2020 mpaka 2024. Bankiyo ikunena kuti kukula kudzafika pa magawo awiri pa zana mu 2025. Kukula kochepa, mitengo yokwera, ndi kusowa kwa ndalama ndiye mavuto akulu.",
+        "body_more": "Bankiyi ikunena kuti zinthu ziwiri zikufooketsa chuma. Kumbali imodzi, anthu ali ndi ndalama zochepa. Mitengo ndi yokwera. Boma limayang'anira ndalama mwamphamvu. Anthu sangagule zambiri. Kumbali ina, nyengo yoipa yawononga minda. Minda imapanga chakudya chochepa. Mitengo ya chakudya ikukwera.\n\nNdalama zosinthira ndalama zakunja ndi zotsika kwambiri. Zimaphimba zinthu zosakwana miyezi 0.7 kuchokera kumayiko ena. Mu 2024, Malawi idagula zinthu zochulukirapo katatu kuposa zomwe idagulitsa kumayiko ena. Mtengo wosintha ndalama wakhala wokhazikika, koma dzikolo likadali ndi ndalama zochepa zakunja.\n\nBanki Yapadziko Lonse idachenjezanso kuti Malawi ndi yosauka pakuwongolera ndalama. Izi zimapangitsa kuti nkhondo yolimbana ndi umphawi wadzaoneni ikhale yovuta. Bungwe la International Monetary Fund lati kusintha kwatha. Ngongole za anthu onse zikukulirakulira. Malawi ikufuna kukhala dziko lotsika lapakati pofika chaka cha 2030 ndi dziko lokwera lapakati pofika chaka cha 2063. Koma kukula kwa 1.8 peresenti komwe kukuchitika panopa ndi kochedwa kwambiri. Chiwerengero cha anthu chikukwera ndi 2.7 peresenti chaka chilichonse. Izi ndi zachangu kuposa momwe chuma chikukulira.\n\nKomabe, Banki Yachitukuko ya ku Africa ikuwona chiyembekezo patsogolo. Likulingalira kuti kukula kwenikweni kwa GDP kudzafika pa 3.8 peresenti mu 2026. Kukula kumeneku kudzachokera ku minda yomwe ikuchira, zokopa alendo zikukulirakuliranso, ndi mapulojekiti atsopano a migodi. Christopher Mbukwa, mphunzitsi wa zachuma ku Mzuzu University, akuti kukwera kwa umphawi kukuwonetsa kuti mapulogalamu akale alephera. National Planning Commission ikuvomereza. Likuti kusiyana pakati pa kukula kwachuma ndi kukula kwa anthu kukupangitsa kuti cholinga cha 2063 chikhale chovuta kuchikwaniritsa."
+      },
+      "ny_quality": 0.66
+    },
     {
       "id": "2026-06-13-president-mutharika-leaves-for-south-africa-on-pri",
       "tag": "politics",
