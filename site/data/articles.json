@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-12T19:12:05.060073+00:00",
+  "generated_at": "2026-06-13T08:27:33.772156+00:00",
   "articles": [
+    {
+      "id": "2026-06-13-president-mutharika-leaves-for-south-africa-on-pri",
+      "tag": "politics",
+      "published": "2026-06-12T20:26:51+00:00",
+      "en": {
+        "title": "President Mutharika Leaves for South Africa on Private Visit",
+        "body": "President Peter Mutharika left Malawi on Friday for South Africa on a private visit. He departed from Kamuzu International Airport in Lilongwe at 2:00 pm with the First Lady. This is his third private trip to South Africa in the past six months. The President said he would return in a few days.",
+        "body_more": "Before he left, Mutharika told people he was going on a short trip and that everything was under control in Malawi. He was in good spirits and spoke warmly with staff members at State House. The First Lady went with him, along with Press Secretary Maulidi.\n\nState House gave no details about why the President was going or what he would do in South Africa. This lack of information has caused questions from people and politicians. Some ask what a \"private visit\" means when a sitting President travels, because his trips use State money and need security from government.\n\nBoth Vice Presidents did not go with the President. First Vice President Jane Ansah was in Blantyre. Second Vice President Enock Chihana was in Ntcheu for events about the late Saulos Chilima's tombstone. In the past, one Vice President usually went on such trips.\n\nUDF President Atupele Muluzi said Mutharika should use this visit to talk to South Africa's leaders about attacks on foreign people there. Many Malawians live and work in South Africa and send money home. Muluzi said the President should help protect Malawians abroad. People are watching to see if State House gives more facts about this trip."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/mutharika-heads-to-south-africa-again-questions-emerge-over-repeated-private-visits/"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/mutharika-off-to-south-africas-private-trip-in-high-spirits/"
+        }
+      ],
+      "ny": {
+        "title": "Purezidenti Mutharika Apita ku South Africa Pa Ulendo Wapadera",
+        "body": "Purezidenti Peter Mutharika adachoka ku Malawi Lachisanu kupita ku South Africa paulendo wake wachinsinsi. Adachoka pa Kamuzu International Airport ku Lilongwe nthawi ya 2:00 pm ndi Mkazi Wachiwiri. Uwu ndi ulendo wake wachitatu wachinsinsi ku South Africa m'miyezi isanu ndi umodzi yapitayi. Purezidenti adati abwerera m'masiku ochepa.",
+        "body_more": "Asananyamuke, Mutharika anauza anthu kuti akupita paulendo waufupi ndipo zonse zili bwino ku Malawi. Anali ndi mzimu wabwino ndipo analankhula mwachikondi ndi ogwira ntchito ku State House. Mkazi Woyamba anapita naye, pamodzi ndi Mlembi wa Nkhani Maulidi.\n\nState House sinapereke tsatanetsatane wa chifukwa chake Purezidenti akupita kapena zomwe angachite ku South Africa. Kusowa kwa chidziwitso kumeneku kwapangitsa anthu ndi andale kufunsa mafunso. Ena amafunsa kuti \"ulendo wachinsinsi\" umatanthauza chiyani Purezidenti akamayenda, chifukwa maulendo ake amagwiritsa ntchito ndalama za Boma ndipo amafunika chitetezo kuchokera ku boma.\n\nA Vice President onse awiri sanapite ndi Purezidenti. Wachiwiri kwa Purezidenti Jane Ansah anali ku Blantyre. Wachiwiri kwa Purezidenti Enock Chihana anali ku Ntcheu pazochitika zokhudza mwala wa manda wa malemu Saulos Chilima. Kale, Wachiwiri kwa Purezidenti nthawi zambiri ankapita paulendo wotere.\n\nPurezidenti wa UDF Atupele Muluzi anati Mutharika ayenera kugwiritsa ntchito ulendowu kulankhula ndi atsogoleri a South Africa za kuukira anthu akunja kumeneko. Anthu ambiri aku Malawi amakhala ndi kugwira ntchito ku South Africa ndikutumiza ndalama kunyumba. Muluzi anati Purezidenti ayenera kuthandiza kuteteza anthu aku Malawi akunja. Anthu akuyang'ana kuti aone ngati Nyumba Yamalamulo ipereka zambiri zokhudza ulendowu."
+      },
+      "ny_quality": 0.724
+    },
     {
       "id": "2026-06-12-escom-and-police-fight-power-line-theft-with-chief",
       "tag": "economy",
