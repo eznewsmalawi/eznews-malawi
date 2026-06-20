@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-06-20T12:54:32.648594+00:00",
+  "generated_at": "2026-06-20T18:18:12.164358+00:00",
   "articles": [
+    {
+      "id": "2026-06-19-record-4000-runners-join-be-more-race-in-lilongwe",
+      "tag": "sport",
+      "published": "2026-06-20T13:47:09+00:00",
+      "en": {
+        "title": "Record 4000 runners join Be More Race in Lilongwe",
+        "body": "Over 4000 runners will race on Saturday at Bingu National Stadium in Lilongwe for the Standard Bank Be More Race. This is the highest number of people ever to join the race. Tamanda Ng'ombe, the bank's head of brand and marketing, said the race has grown since it started in 2017. The race is now in its eighth year.",
+        "body_more": "The race has four sections. The 21 kilometre section has 520 runners. The 10 kilometre section has 1268 runners. The 5 kilometre section has 1850 runners. The children's section has 440 runners. This year's theme is 'Keep growing'.\n\nNg'ombe said the race day will have music from popular Malawian artists, family fun, food stalls and a market for small shops. The race will use new tracking technology to time the runners. This helps to make the race fair for all runners, from young people to professionals. The timing is the same as in big international races.\n\nAthletics Malawi president Kondwani Chamwala said the race shows how running brings people together. He said it helps people live healthy lives and build community spirit. He wished all runners well. The Blantyre Joggers Club has 20 people racing. Their vice-president Limbani Nsapato said they trained hard for this race, including a recent fun run at Kamuzu Stadium.\n\nThe race will give out K15.9 million in prize money. Each winner in the 21 kilometre race will get K2.5 million. The bank will match all the money from entry fees. This money will help build a sports place at a school so young people can run and be healthy."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/be-more-race-registers-record-turnout/"
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/record-4000-runners-set-to-storm-lilongwe-for-standard-bank-be-more-race/?utm_source=rss&utm_medium=rss&utm_campaign=record-4000-runners-set-to-storm-lilongwe-for-standard-bank-be-more-race"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/record-turnout-for-2026-be-more-race-on-saturday/"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/06/20/mdf-pair-conquer-be-more-race/"
+        }
+      ],
+      "ny": {
+        "title": "Anthu 4000 othamanga alowa nawo mpikisano wa Be More ku Lilongwe",
+        "body": "Othamanga opitilira 4000 adzathamanga Loweruka ku Bingu National Stadium ku Lilongwe pa mpikisano wa Standard Bank Be More Race. Ichi ndi chiwerengero chachikulu cha anthu omwe adalowa nawo mpikisanowu. Tamanda Ng'ombe, mkulu wa kampani yotsatsa malonda ku bankiyi, adati mpikisanowu wakula kuyambira pomwe unayamba mu 2017. Mpikisanowu tsopano uli m'chaka chachisanu ndi chitatu.",
+        "body_more": "Mpikisanowu uli ndi magawo anayi. Gawo la makilomita 21 lili ndi othamanga 520. Gawo la makilomita 10 lili ndi othamanga 1268. Gawo la makilomita 5 lili ndi othamanga 1850. Gawo la ana lili ndi othamanga 440. Mutu wa chaka chino ndi 'Pitirizani kukula'.\n\nNg'ombe adati tsiku la mpikisano lidzakhala ndi nyimbo kuchokera kwa ojambula otchuka aku Malawi, zosangalatsa za mabanja, malo ogulitsira chakudya komanso msika wa masitolo ang'onoang'ono. Mpikisanowu udzagwiritsa ntchito ukadaulo watsopano wotsatira nthawi yothamanga. Izi zimathandiza kuti mpikisano ukhale wolungama kwa othamanga onse, kuyambira achinyamata mpaka akatswiri. Nthawi yake ndi yofanana ndi m'mipikisano yayikulu yapadziko lonse lapansi.\n\nPurezidenti wa Athletics Malawi Kondwani Chamwala adati mpikisanowu ukuwonetsa momwe kuthamanga kumabweretsera anthu pamodzi. Anati kumathandiza anthu kukhala ndi moyo wathanzi ndikumanga mzimu wa anthu ammudzi. Anafunira othamanga onse zabwino. Blantyre Joggers Club ili ndi anthu 20 omwe akuthamanga. Wachiwiri kwa purezidenti wawo Limbani Nsapato adati adaphunzira mwakhama mpikisanowu, kuphatikizapo kuthamanga kosangalatsa komwe kunachitika posachedwapa ku Kamuzu Stadium.\n\nMpikisanowu upereka ndalama zokwana K15.9 miliyoni. Wopambana aliyense pa mpikisano wa makilomita 21 adzalandira K2.5 miliyoni. Banki idzagwiritsa ntchito ndalama zonse zomwe zimaperekedwa kuchokera ku ndalama zolowera. Ndalamazi zithandiza kumanga malo ochitira masewera kusukulu kuti achinyamata athe kuthamanga ndikukhala ndi thanzi labwino."
+      },
+      "ny_quality": 0.71
+    },
     {
       "id": "2026-06-20-malawian-in-us-becomes-ambassador-for-lingadzi-pol",
       "tag": "society",
@@ -104,36 +138,6 @@
         "body_more": "Silver yalowa mumasewerawa ili bwino. Yapambana masewera anayi, yagoletsa kamodzi ndipo yataya kamodzi. Osewera awo akutsogolo apeza zigoli 10 ndipo alola zigoli ziwiri zokha. Civil yataya masewera atatu motsatizana ndipo ikuyembekeza kusintha zinthu. Magulu onsewa akufuna kupambana ufulu wodzitamandira wa likulu la dzikolo.\n\nUwu udzakhala mpikisano wa 29 wa ligi pakati pa Silver ndi Civil. M'masewera awo 28 apitawa, Silver yapambana nthawi 13, Civil yapambana nthawi zisanu ndi zitatu, ndipo masewera asanu ndi awiri atha ofanana. Silver yapeza zigoli 36 motsutsana ndi zigoli 10 za Civil. Mpikisano pakati pa magulu awiriwa ndi wamphamvu ndipo nthawi zambiri umagawa mabanja ku Lilongwe.\n\nMphunzitsi wa Silver Peter Mgangira adzadalira osewera akutsogolo Charles Chipala ndi Festus Duwe. Duwe adasamuka kuchoka ku Civil kupita ku Silver kumayambiriro kwa nyengo. Wosewera wina yemwe adachoka ku Civil kupita ku Silver ndi Yankho Billiati. Amuna onsewa adzakopa chidwi akabwerera ku Area 9. Kaputeni wa Civil Righteous Banda wasewera masewera onse nyengo ino ndipo adzatsogolera timu yake. Mphunzitsi Abbas Makawa akuyembekeza kuti osewera a Madalitso Maso ndi Frank Chizuze azitha kupeza zigoli.\n\nMakawa adati timu yake yachita masewera olimbitsa thupi mwakhama ndipo ikukhulupirira kuti ikhoza kupambana. Mphunzitsi Woyamba Wothandizira wa Silver, Mapopa, Kent Msukwa, adati a Bankers ali okonzeka ndipo akufuna mfundo zitatuzi. Iye adati masewera a derby nthawi zonse amakhala ovuta koma Silver yagwira ntchito pa chilichonse. Masewerawa ayamba Loweruka ku Civo Stadium ku Lilongwe."
       },
       "ny_quality": 0.857
-    },
-    {
-      "id": "2026-06-19-record-4000-runners-join-be-more-race-in-lilongwe",
-      "tag": "sport",
-      "published": "2026-06-19T15:27:11+00:00",
-      "en": {
-        "title": "Record 4000 runners join Be More Race in Lilongwe",
-        "body": "Over 4000 runners will race on Saturday at Bingu National Stadium in Lilongwe for the Standard Bank Be More Race. This is the highest number of people ever to join the race. Tamanda Ng'ombe, the bank's head of brand and marketing, said the race has grown since it started in 2017. The race is now in its eighth year.",
-        "body_more": "The race has four sections. The 21 kilometre section has 520 runners. The 10 kilometre section has 1268 runners. The 5 kilometre section has 1850 runners. The children's section has 440 runners. This year's theme is 'Keep growing'.\n\nNg'ombe said the race day will have music from popular Malawian artists, family fun, food stalls and a market for small shops. The race will use new tracking technology to time the runners. This helps to make the race fair for all runners, from young people to professionals. The timing is the same as in big international races.\n\nAthletics Malawi president Kondwani Chamwala said the race shows how running brings people together. He said it helps people live healthy lives and build community spirit. He wished all runners well. The Blantyre Joggers Club has 20 people racing. Their vice-president Limbani Nsapato said they trained hard for this race, including a recent fun run at Kamuzu Stadium.\n\nThe race will give out K15.9 million in prize money. Each winner in the 21 kilometre race will get K2.5 million. The bank will match all the money from entry fees. This money will help build a sports place at a school so young people can run and be healthy."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/be-more-race-registers-record-turnout/"
-        },
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/record-4000-runners-set-to-storm-lilongwe-for-standard-bank-be-more-race/?utm_source=rss&utm_medium=rss&utm_campaign=record-4000-runners-set-to-storm-lilongwe-for-standard-bank-be-more-race"
-        },
-        {
-          "name": "Maravi Post",
-          "url": "https://www.maravipost.com/record-turnout-for-2026-be-more-race-on-saturday/"
-        }
-      ],
-      "ny": {
-        "title": "Anthu 4000 othamanga alowa nawo mpikisano wa Be More ku Lilongwe",
-        "body": "Othamanga opitilira 4000 adzathamanga Loweruka ku Bingu National Stadium ku Lilongwe pa mpikisano wa Standard Bank Be More Race. Ichi ndi chiwerengero chachikulu cha anthu omwe adalowa nawo mpikisanowu. Tamanda Ng'ombe, mkulu wa kampani yotsatsa malonda ku bankiyi, adati mpikisanowu wakula kuyambira pomwe unayamba mu 2017. Mpikisanowu tsopano uli m'chaka chachisanu ndi chitatu.",
-        "body_more": "Mpikisanowu uli ndi magawo anayi. Gawo la makilomita 21 lili ndi othamanga 520. Gawo la makilomita 10 lili ndi othamanga 1268. Gawo la makilomita 5 lili ndi othamanga 1850. Gawo la ana lili ndi othamanga 440. Mutu wa chaka chino ndi 'Pitirizani kukula'.\n\nNg'ombe adati tsiku la mpikisano lidzakhala ndi nyimbo kuchokera kwa ojambula otchuka aku Malawi, zosangalatsa za mabanja, malo ogulitsira chakudya komanso msika wa masitolo ang'onoang'ono. Mpikisanowu udzagwiritsa ntchito ukadaulo watsopano wotsatira nthawi yothamanga. Izi zimathandiza kuti mpikisano ukhale wolungama kwa othamanga onse, kuyambira achinyamata mpaka akatswiri. Nthawi yake ndi yofanana ndi m'mipikisano yayikulu yapadziko lonse lapansi.\n\nPurezidenti wa Athletics Malawi Kondwani Chamwala adati mpikisanowu ukuwonetsa momwe kuthamanga kumabweretsera anthu pamodzi. Anati kumathandiza anthu kukhala ndi moyo wathanzi ndikumanga mzimu wa anthu ammudzi. Anafunira othamanga onse zabwino. Blantyre Joggers Club ili ndi anthu 20 omwe akuthamanga. Wachiwiri kwa purezidenti wawo Limbani Nsapato adati adaphunzira mwakhama mpikisanowu, kuphatikizapo kuthamanga kosangalatsa komwe kunachitika posachedwapa ku Kamuzu Stadium.\n\nMpikisanowu upereka ndalama zokwana K15.9 miliyoni. Wopambana aliyense pa mpikisano wa makilomita 21 adzalandira K2.5 miliyoni. Banki idzagwiritsa ntchito ndalama zonse zomwe zimaperekedwa kuchokera ku ndalama zolowera. Ndalamazi zithandiza kumanga malo ochitira masewera kusukulu kuti achinyamata athe kuthamanga ndikukhala ndi thanzi labwino."
-      },
-      "ny_quality": 0.71
     },
     {
       "id": "2026-06-19-mzuzu-youth-ask-government-to-control-south-africa",
