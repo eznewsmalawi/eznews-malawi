@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-25T13:23:18.054293+00:00",
+  "generated_at": "2026-06-25T19:08:59.400934+00:00",
   "articles": [
+    {
+      "id": "2026-06-25-old-mining-rules-slow-down-malawi-s-sector-growth",
+      "tag": "economy",
+      "published": "2026-06-25T16:22:13+00:00",
+      "en": {
+        "title": "Old mining rules slow down Malawi's sector growth",
+        "body": "Malawi still uses mining rules from 1985, even though the country made new laws in 2019 and 2023. The old rules slow down growth in the mining sector. The government drafted new rules to go with the 2023 law, but has not yet published them. This leaves the mining sector unclear and hard to work with.",
+        "body_more": "The official form for a Reserved Minerals Licence still names the Mines and Minerals (Reserved Minerals Licence) Regulations of 1985 as the law it follows. This is even though Malawi passed a new Mines and Minerals Act in 2019 and then Law No. 25 of 2023. The 2023 law covers all prospecting, exploration and mining of minerals in the country.\n\nThe Ministry of Mining asked people to give feedback on ten sets of draft Mineral Title Regulations. These rules would cover exploration licences, mining licences, community development agreements and mine rehabilitation. The deadline for feedback was June 30, 2024. But the new rules have not been published in the Gazette since then. The Mining and Minerals Regulatory Authority (MMRA) was made under the 2023 law to run the sector and check that licence holders follow the rules. Without new published rules, the MMRA cannot fully enforce the new law.\n\nKennedy Rashid, the National Coordinator of the Natural Resources Justice Network (NRJN), said that using old rules creates a gap in how the sector is run. He said this risks making things unclear for investors and reducing protection for communities. Mining expert Grain Malunga said the delay is likely because the Ministry of Justice must check the rules before they are published.\n\nMining Minister Thoko Tembo said the new rules were drafted after the 2019 Act was passed. The 2023 changes moved power from the ministry to the MMRA, so all draft rules had to be checked again. The ministry and MMRA then made ten sets of Mineral Title Regulations and one more set on mineral processing and value addition. This follows a 2025 Presidential Order that bans the export of raw minerals."
+      },
+      "sources": [
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/archaic-regulation-stifles-malawi-mining-sector-growth/?utm_source=rss&utm_medium=rss&utm_campaign=archaic-regulation-stifles-malawi-mining-sector-growth"
+        },
+        {
+          "name": "Business Malawi",
+          "url": "https://www.businessmalawi.com/regulatory-bottleneck-cripples-malawis-mining-growth-the-times-group/"
+        }
+      ],
+      "ny": {
+        "title": "Malamulo akale a migodi achepetsa kukula kwa gawo la Malawi",
+        "body": "Dziko la Malawi likugwiritsabe ntchito malamulo a migodi kuyambira mu 1985, ngakhale kuti dzikolo linapanga malamulo atsopano mu 2019 ndi 2023. Malamulo akalewa amachepetsa kukula kwa gawo la migodi. Boma linalemba malamulo atsopano kuti agwirizane ndi lamulo la 2023, koma silinawasindikizebe. Izi zikusiya gawo la migodi losamveka bwino komanso lovuta kugwira ntchito nalo.",
+        "body_more": "Fomu yovomerezeka ya Reserved Minerals Licence imatchulabe Mines and Minerals (Reserved Minerals Licence) Regulations ya 1985 ngati lamulo lomwe ikutsatira. Izi zili choncho ngakhale kuti Malawi idapereka Mines and Minerals Act yatsopano mu 2019 kenako Law No. 25 ya 2023. Lamulo la 2023 limakhudza kufufuza, kufufuza ndi migodi yonse ya mchere mdziko muno.\n\nUnduna wa Migodi udapempha anthu kuti apereke ndemanga pa magawo khumi a Mineral Title Regulations. Malamulowa adzakhudza zilolezo zofufuzira, zilolezo za migodi, mapangano opititsa patsogolo anthu ammudzi komanso kukonzanso migodi. Tsiku lomaliza lopereka ndemanga linali pa June 30, 2024. Koma malamulo atsopanowa sanasindikizidwe mu Gazette kuyambira pamenepo. Mining and Minerals Regulatory Authority (MMRA) idapangidwa motsatira lamulo la 2023 kuti liyendetse gawoli ndikuwonetsetsa kuti eni zilolezo akutsatira malamulowo. Popanda malamulo atsopano ofalitsidwa, MMRA singathe kukakamiza lamulo latsopanoli mokwanira.\n\nKennedy Rashid, Wogwirizanitsa Dziko Lonse wa Natural Resources Justice Network (NRJN), anati kugwiritsa ntchito malamulo akale kumapangitsa kuti gawoli lisamayendetsedwe bwino. Iye anati izi zingachititse kuti zinthu zisamveke bwino kwa osunga ndalama komanso kuchepetsa chitetezo cha anthu ammudzi. Katswiri wa migodi Grain Malunga anati kuchedwaku kungachitike chifukwa Unduna wa Zachilungamo uyenera kuyang'ana malamulowo asanafalitsidwe.\n\nNduna ya Zamigodi Thoko Tembo adati malamulo atsopanowa adalembedwa lamulo la 2019 litaperekedwa. Kusintha kwa 2023 kunasuntha mphamvu kuchokera ku unduna kupita ku MMRA, kotero malamulo onse okonzedwa adayenera kuyang'aniridwanso. Unduna ndi MMRA kenako adapanga magulu khumi a Mineral Title Regulations ndi lina lowonjezera pa kukonza mchere ndi kuwonjezera phindu. Izi zikutsatira Lamulo la Purezidenti la 2025 lomwe limaletsa kutumiza kunja kwa mchere wosaphika."
+      },
+      "ny_quality": 0.554
+    },
     {
       "id": "2026-06-25-chiefs-reject-road-shutdown-plan-in-karonga",
       "tag": "society",
