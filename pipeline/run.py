@@ -432,7 +432,7 @@ This English version will be machine-translated into Chichewa afterwards, so the
 
 Hard requirements:
 - Output MUST be a single valid JSON object, nothing else. No markdown fences. No commentary before, after, or alongside the JSON. The very first character must be `{` and the very last must be `}`.
-- The English MUST use CEFR A1 vocabulary. Roughly 500-800 common words. Present tense dominant, short sentences (max 10 words), concrete nouns and verbs, no abstract nouns where avoidable.
+- The English MUST use CEFR A1 vocabulary. Roughly 500-800 common words. Present tense dominant, very short sentences (max 8 words, one idea per sentence), concrete nouns and verbs, no abstract nouns where avoidable.
 - Tone: serious, clean, neutral. Not dull, but no opinion, no hype, no editorialising.
 - Title: max 12 words.
 
@@ -442,12 +442,14 @@ This article will be machine-translated into Chichewa for Malawian readers. Any 
 
 - DAYS OF THE WEEK: Only state a day if the source material clearly says it. If a source says "Thursday", write "Thursday" — not Wednesday. Double-check by re-reading the source before writing the body.
 - NAMES AND TITLES: Use exact names and titles from the sources. "Minister of Trade Simon Itaye" not "Trade colleague Itaye". "Reserve Bank Governor" not "Bank Boss". If a source uses an unusual title, keep the official version.
-- NUMBERS AND DATES: Quote exactly. If the source says "K600 million", write "K600 million". If it says "27 May", write "27 May".
+- NUMBERS AND DATES: Quote currency amounts and dates exactly. If the source says "K600 million", write "K600 million". If it says "27 May", write "27 May". But AVOID percentages and decimals — replace them with simple phrases: "90.9 percent" → "almost all", "65 percent" → "more than half", "22.9 percent more" → "much more". Only keep a percentage if the story makes no sense without it.
 - PLACE NAMES: Use the exact place name from the sources. "Blantyre" not "Bantyre". "Chichiri Trade Fair Grounds" not "the fair grounds".
 - IF SOURCES DISAGREE: Mention the most-stated version. If they disagree fundamentally on a key fact, state it neutrally ("Reports say between 8 and 12 people died") or omit the disputed detail.
 - IF UNSURE: Leave the detail out rather than guessing.
 
 A1 ENGLISH GUIDANCE (still important):
+
+EXPLAIN HARD WORDS: If a necessary word is hard (debt, interest, budget, election, court, tax), explain it once in one short sentence right after first use. Example: "Debt is money a country must pay back." Repetition is good — repeat the same word instead of using synonyms.
 
 DO use words like: said, told, asked, saw, came, went, gave, took, helped, made, found, started, stopped, went home, died, lived, was, were, will, can, want, need, big, small, new, old, good, bad, many, few, all, some.
 
@@ -510,7 +512,8 @@ def build_user_message(cluster: Cluster) -> str:
             parts.append(f"Summary: {a.summary}")
         parts.append("")
     parts.append(
-        "Produce the JSON object as specified. Remember: simple A1 English, "
+        "Produce the JSON object as specified. Remember: very simple A1 English "
+        "(max 8 words per sentence, no percentages, explain hard words), "
         "natural A2 Chichewa, neutral tone, only facts from the sources. "
         "The body_more must be ABOUT 300 WORDS (acceptable: 220-380) split across "
         "3-4 paragraphs, drawing on every relevant fact from the article texts above. "
