@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-10T08:28:51.219470+00:00",
+  "generated_at": "2026-07-10T13:16:07.462620+00:00",
   "articles": [
     {
       "id": "2026-07-10-parliament-fights-deadlock-over-zamba-hotel-inquir",
       "tag": "politics",
-      "published": "2026-07-10T07:26:47+00:00",
+      "published": "2026-07-10T12:11:06+00:00",
       "en": {
         "title": "Parliament fights deadlock over Zamba hotel inquiry testimony",
         "body": "The Speaker of Parliament is trying to solve a disagreement about a big hotel deal. Colleen Zamba was a top government worker. She must tell Parliament what she knows about a hotel that cost K128 billion. A group called the Public Accounts Committee wants her to speak, but she is in South Africa.",
@@ -18,6 +18,10 @@
         {
           "name": "Nyasa Times",
           "url": "https://www.nyasatimes.com/amaryllis-probe-deadlock-govt-pac-clash-over-zambas-appearance/?utm_source=rss&utm_medium=rss&utm_campaign=amaryllis-probe-deadlock-govt-pac-clash-over-zambas-appearance"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/group-wants-hotel-probe-report-tabled/?utm_source=rss&utm_medium=rss&utm_campaign=group-wants-hotel-probe-report-tabled"
         }
       ],
       "ny": {
@@ -26,6 +30,58 @@
         "body_more": "Sipikala, Sameer Suleman, anati akumana ndi mtsogoleri wa komitiyi, Steven Malondera kuti apeze njira yoti Zamba achitire umboni. Akhoza kulankhula kudzera pa kanema kuchokera ku South Africa. Lipoti la komitiyi lokhudza mgwirizano wa hoteloyi linakanidwa chifukwa Zamba sanapereke umboni wake. Hoteloyi idagulidwa ndi Public Service Pension Trust Fund. Ndalama za penshoni ndi ndalama zomwe antchito amasunga akakalamba.\n\nKoma pali vuto lalikulu. Boma layambitsa mlandu kukhothi motsutsana ndi Zamba. Akuimbidwa mlandu wogwiritsa ntchito molakwika udindo wake pa mgwirizano womwewo wa hoteloyi. Loya wake George Kadzipatike adati lamuloli limaletsa Nyumba Yamalamulo kulankhula za nkhani zomwe zili kukhothi. Lamuloli limatchedwa Standing Order 192. Chifukwa chake Zamba sangalankhule ndi komitiyi pamene mlanduwo ukupitirira. Boma likuumirira kuti Zamba ayenera kupereka umboni lipotilo lisanagawidwe ku Nyumba Yamalamulo.\n\nMalonda adati boma silikunena zoona. Iye anati: ngati boma likufunadi kuti Zamba alankhule, liyenera kuyimitsa mlanduwo kukhothi kaye. Mtsogoleri wa Nyumba Yamalamulo, Jappie Mhango, sakugwirizana. Iye anati umboni wa Zamba ndi wofunika kwambiri ndipo sungachedwe. Gulu lotchedwa National Advocacy Platform linati Nyumba Yamalamulo iyenera kumaliza lipotilo isanafike pa Julayi 31. Iwo anati antchito ayenera mayankho okhudza ndalama zawo. Banki Yaikulu ya Malawi idauza boma kuti lisagule hoteloyo, koma mgwirizanowu unapitirira."
       },
       "ny_quality": 0.622
+    },
+    {
+      "id": "2026-07-10-malawi-doubles-university-tuition-fees-from-2026",
+      "tag": "society",
+      "published": "2026-07-10T11:12:15+00:00",
+      "en": {
+        "title": "Malawi doubles university tuition fees from 2026",
+        "body": "Malawi's public universities have doubled tuition fees starting in 2026. University of Malawi, Mzuzu University, Luanar, Must and Mubas have raised annual fees from K650,000 to K1,300,000. Kuhes has raised fees from K1,000,000 to K2,000,000. The universities say rising costs made this necessary. Minister of Education Bright Msaka told Parliament the decision is final.",
+        "body_more": "The universities explained the fee increase was needed because of rising costs to deliver education. The last fee change was in 2023. Minister Msaka said the government worked with the Ministry of Finance on this decision and held talks before the announcement. He said no student will drop out of university because of the higher fees.\n\nMsaka told journalists that the government has given more money to the Higher Education Students' Loans and Grants Board. This board gives loans and grants to poor students. The minister said all students who qualify can now get loans to pay fees and living costs. He said the government spends about K8 million to teach one student at university. Students now pay only K1.3 million. This means families and the government together pay for education.\n\nMany students and families are worried about the new fees. Some students have struggled to pay the old fee of K650,000. Thousands had to find money from social media and kind people to pay. Universities do not have enough space for students to live. Many students must rent rooms far from campus in private hostels that cost much money. Some Kuhes students now use space at Mubas because Kuhes does not have enough buildings. The minister said the government wants to give quality education and help students have access to it. He said strong universities will help Malawi reach its goals for 2063."
+      },
+      "sources": [
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/tuition-fees-hike-raises-questions-about-access-and-student-welfare/?utm_source=rss&utm_medium=rss&utm_campaign=tuition-fees-hike-raises-questions-about-access-and-student-welfare"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/no-student-will-be-left-behind-despite-university-tuition-fees-hike-is-education-minister-msaka-sensible-enough-or-another-crappy-excuse/"
+        }
+      ],
+      "ny": {
+        "title": "Malawi yawonjezera kawiri ndalama zolipirira maphunziro a ku yunivesite kuyambira 2026",
+        "body": "Mayunivesite aboma ku Malawi achulukitsa kawiri ndalama zolipirira maphunziro kuyambira mu 2026. Mayunivesite a Malawi, Mzuzu University, Luanar, Must ndi Mubas akweza ndalama zolipirira pachaka kuyambira K650,000 mpaka K1,300,000. Kuhes akweza ndalama zolipirira kuyambira K1,000,000 mpaka K2,000,000. Mayunivesitewa akuti kukwera kwa ndalama zomwe zimawononga ndalama kwapangitsa kuti izi zikhale zofunikira. Nduna ya Maphunziro Bright Msaka adauza Nyumba Yamalamulo kuti chisankhocho ndi chomaliza.",
+        "body_more": "Mayunivesite adafotokoza kuti kukwera kwa ndalama zolipirira maphunziro kumafunika chifukwa cha kukwera kwa ndalama zolipirira maphunziro. Kusintha komaliza kwa ndalama zolipirira kunali mu 2023. Nduna Msaka adati boma lidagwira ntchito ndi Unduna wa Zachuma pa chisankhochi ndipo lidakambirana asanalengeze. Adati palibe wophunzira amene adzasiya yunivesite chifukwa cha kukwera kwa ndalama zolipirira.\n\nMsaka adauza atolankhani kuti boma lapereka ndalama zambiri ku Bungwe la Ngongole ndi Ndalama Zolipirira Ophunzira a Maphunziro Apamwamba. Bungweli limapereka ngongole ndi ndalama zothandizira ophunzira osauka. Ndunayo idati ophunzira onse omwe ali oyenerera tsopano akhoza kupeza ngongole zolipirira ndalama zolipirira ndi ndalama zogulira zinthu. Adati boma limagwiritsa ntchito ndalama zokwana K8 miliyoni kuphunzitsa wophunzira m'modzi ku yunivesite. Ophunzira tsopano amalipira K1.3 miliyoni yokha. Izi zikutanthauza kuti mabanja ndi boma pamodzi amalipira maphunziro.\n\nOphunzira ambiri ndi mabanja akuda nkhawa ndi ndalama zatsopanozi. Ophunzira ena avutika kulipira ndalama zakale za K650,000. Anthu masauzande ambiri adayenera kupeza ndalama kuchokera kuma social media ndi anthu okoma mtima kuti alipire. Mayunivesite alibe malo okwanira oti ophunzira azikhala. Ophunzira ambiri ayenera kubwereka zipinda kutali ndi sukulu m'ma hostel achinsinsi omwe amawononga ndalama zambiri. Ophunzira ena aku Kuhes tsopano amagwiritsa ntchito malo ku Mubas chifukwa ku Kuhes kulibe nyumba zokwanira. Ndunayo inati boma likufuna kupereka maphunziro abwino ndikuthandiza ophunzira kuti apeze mwayi wolowamo. Iye anati mayunivesite olimba athandiza Malawi kukwaniritsa zolinga zake za 2063."
+      },
+      "ny_quality": 0.738
+    },
+    {
+      "id": "2026-07-10-man-arrested-after-wife-dies-at-refugee-camp",
+      "tag": "society",
+      "published": "2026-07-10T11:04:19+00:00",
+      "en": {
+        "title": "Man arrested after wife dies at refugee camp",
+        "body": "Police in Dowa have arrested a 44-year-old Congolese man named Wilonje Ettando. He is suspected of killing his 22-year-old wife, Mapendo Assan, at Dzaleka Refugee Camp. The arrest follows a domestic dispute about a pregnancy.",
+        "body_more": "Ettando and his wife's relatives took Assan to Dzaleka Health Centre early on 9 July. They said she had suddenly become ill. When she arrived at the health centre, doctors found her already dead. Medical staff saw suspicious marks on her body.\n\nPolice were told right away. The body was moved to Dowa District Hospital for a postmortem examination. A postmortem is a medical check done on a dead person to find the cause of death. Doctors found that Assan died from suffocation caused by strangulation. They also saw marks on her neck and fingers. Medical tests showed that Assan was not pregnant. This was important because Ettando had disputed with his wife over pregnancy. He believed she was pregnant by another man.\n\nEttando had arrived at Dzaleka Refugee Camp from Mozambique just two days before Assan died. Dzaleka Refugee Camp is in Dowa district. Police say Ettando will go to court soon. He will be charged with murder. Murder is the unlawful killing of a person. Police spokesperson Sub Inspector Alice Sitima gave details of the case to the public. Investigations are still continuing as police work to gather more evidence."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/wife-found-dead-after-dispute-husband-arrested/?utm_source=rss&utm_medium=rss&utm_campaign=wife-found-dead-after-dispute-husband-arrested"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/07/10/pregnancy-row-at-dzaleka-turns-fatal/"
+        }
+      ],
+      "ny": {
+        "title": "Mwamuna wamangidwa mkazi wake atamwalira pamsasa wa othawa kwawo",
+        "body": "Apolisi ku Dowa amanga mwamuna wazaka 44 wa ku Congo dzina lake Wilonje Ettando. Akukayikiridwa kuti wapha mkazi wake wazaka 22, Mapendo Assan, ku Dzaleka Refugee Camp. Kumangidwa kumeneku kukutsatira mkangano wapakhomo wokhudza mimba.",
+        "body_more": "Ettando ndi achibale a mkazi wake adapita ndi Assan ku Dzaleka Health Centre koyambirira kwa pa 9 Julayi. Anati mwadzidzidzi adadwala. Atafika ku chipatala, madokotala adamupeza atamwalira kale. Ogwira ntchito zachipatala adawona zipsera zokayikitsa pathupi lake.\n\nApolisi adauzidwa nthawi yomweyo. Mtembowo udasamutsidwira ku Chipatala cha Dowa District kuti akawunikidwe pambuyo pa imfa. Kuwunika pambuyo pa imfa ndi kufufuza kwachipatala komwe kumachitika pa munthu wakufa kuti apeze chomwe chachititsa imfayo. Madokotala adapeza kuti Assan adamwalira chifukwa cha kupuma movutikira chifukwa cha kumenyedwa. Adawonanso zipsera pakhosi ndi zala zake. Mayeso azachipatala adawonetsa kuti Assan sanali ndi pakati. Izi zinali zofunika chifukwa Ettando adakangana ndi mkazi wake chifukwa cha mimba. Ankakhulupirira kuti anali ndi pakati ndi mwamuna wina.\n\nEttando adafika ku Dzaleka Refugee Camp kuchokera ku Mozambique masiku awiri okha Assan asanamwalire. Dzaleka Refugee Camp ili m'chigawo cha Dowa. Apolisi akuti Ettando apita kukhothi posachedwa. Adzaimbidwa mlandu wakupha. Kupha munthu ndi kupha munthu mosaloledwa. Wolankhulira apolisi, Sub Inspector Alice Sitima, adapereka tsatanetsatane wa nkhaniyi kwa anthu onse. Kafukufuku akupitirirabe pamene apolisi akugwira ntchito yosonkhanitsa umboni wina."
+      },
+      "ny_quality": 0.795
     },
     {
       "id": "2026-07-10-malawi-lacks-strong-systems-to-manage-its-growing-",
