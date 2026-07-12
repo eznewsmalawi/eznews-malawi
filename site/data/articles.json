@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-07-12T12:03:44.049133+00:00",
+  "generated_at": "2026-07-12T18:02:51.350242+00:00",
   "articles": [
+    {
+      "id": "2026-07-12-aid-groups-say-malawi-high-commission-fails-refuge",
+      "tag": "international",
+      "published": "2026-07-12T14:43:35+00:00",
+      "en": {
+        "title": "Aid groups say Malawi High Commission fails refugees in South Africa",
+        "body": "Groups that help people say Malawi's High Commission in Pretoria is treating Malawians badly. These Malawians ran away from attacks on foreigners in South Africa. The groups say over 100 people sleep in a cold basement with no beds, blankets or food. They sent a letter on July 4, 2026 to the High Commissioner, Stella Ndau.",
+        "body_more": "The letter says many Malawians come to the High Commission every day seeking safety. Men, women, old people and babies have arrived. The High Commission lets them stay on the grounds but does not give them warm rooms or proper care. They sleep on hard, bare concrete. Over 100 people share one toilet. The air is not clean. Many people are getting upper respiratory infections — sickness that makes it hard to breathe.\n\nThe groups say these bad conditions are dangerous. Old people and babies can get pneumonia and hypothermia — sickness from the cold. The groups are asking the High Commission to give the Malawians warm rooms inside, more toilets that work, blankets, mattresses, blankets and heating. They also want a doctor to help the sick people.\n\nAfter the letter was sent, aid workers met with High Commissioner Stella Ndau on Wednesday. Mariam Jooma Carikci, who was there, said the High Commissioner told them the High Commission does not have money to house people inside. She said the mission can only give buses to take people back to Malawi. Ndau did not answer questions from news reporters. Charles Nkhalamba, who speaks for the Ministry of Foreign Affairs, also did not answer questions.\n\nBy Wednesday, 38,094 Malawians had been sent back home from South Africa. Five people died on the journey. One more person died at Mwanza District Hospital after coming home. The problems in South Africa began because of anti-immigrant marches. The March and March Movement says it will march every Thursday to tell foreigners to leave."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/malawians-abandoned-in-pretoria-basement/"
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/abandoned-in-pretoria-aid-groups-accuse-malawi-mission-of-leaving-xenophobia-victims-in-basement/?utm_source=rss&utm_medium=rss&utm_campaign=abandoned-in-pretoria-aid-groups-accuse-malawi-mission-of-leaving-xenophobia-victims-in-basement"
+        }
+      ],
+      "ny": {
+        "title": "Mabungwe othandiza ati bungwe la Malawi High Commission lalephera kupulumutsa anthu othawa kwawo ku South Africa",
+        "body": "Magulu omwe amathandiza anthu akuti Bungwe Lalikulu la Malawi ku Pretoria likuchitira nkhanza anthu aku Malawi. Anthu aku Malawi awa athawa kuukiridwa ndi alendo ku South Africa. Maguluwa akuti anthu opitilira 100 amagona m'chipinda chozizira chopanda mabedi, mabulangeti kapena chakudya. Anatumiza kalata pa Julayi 4, 2026 kwa Komiseri Wamkulu, Stella Ndau.",
+        "body_more": "Kalatayo ikunena kuti anthu ambiri aku Malawi amabwera ku High Commission tsiku lililonse kufunafuna chitetezo. Amuna, akazi, okalamba ndi makanda afika. High Commission imawalola kukhala pabwalo koma siwapatsa zipinda zofunda kapena chisamaliro choyenera. Amagona pa konkire yolimba, yopanda kanthu. Anthu opitilira 100 amagawana chimbudzi chimodzi. Mpweya si woyera. Anthu ambiri akudwala matenda opatsirana m'mapapo apamwamba - matenda omwe amachititsa kuti zikhale zovuta kupuma.\n\nMaguluwa akuti mavuto oipawa ndi oopsa. Okalamba ndi makanda amatha kutenga chibayo ndi hypothermia - matenda ochokera ku chimfine. Maguluwa akupempha High Commission kuti ipatse a Malawi zipinda zofunda mkati, zimbudzi zambiri zomwe zimagwira ntchito, mabulangete, matiresi, mabulangete ndi zotenthetsera. Akufunanso dokotala woti athandize odwala.\n\nKalatayo itatumizidwa, ogwira ntchito zothandizira anakumana ndi High Commissioner Stella Ndau Lachitatu. Mariam Jooma Carikci, yemwe analipo, adati High Commissioner adawauza kuti High Commission ilibe ndalama zosungira anthu mkati. Iye adati ntchitoyo imangopereka mabasi oti atenge anthu kubwerera ku Malawi. Ndau sanayankhe mafunso ochokera kwa atolankhani. Charles Nkhalamba, yemwe amalankhula mu Unduna wa Zachilendo, nayenso sanayankhe mafunso.\n\nPofika Lachitatu, anthu 38,094 aku Malawi anali atabwezedwa kwawo kuchokera ku South Africa. Anthu asanu anamwalira paulendowo. Munthu winanso mmodzi anamwalira ku Chipatala cha Mwanza District atabwerera kwawo. Mavuto ku South Africa anayamba chifukwa cha ziwonetsero zotsutsana ndi anthu othawa kwawo. Bungwe la March and March Movement likunena kuti liziwonetsa ziwonetsero Lachinayi lililonse kuti liuze alendo kuti achoke."
+      },
+      "ny_quality": 0.607
+    },
     {
       "id": "2026-07-12-ekhaya-beats-big-bullets-to-reach-cup-semi-finals",
       "tag": "sport",
