@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-07-15T12:20:33.989251+00:00",
+  "generated_at": "2026-07-15T18:13:08.897155+00:00",
   "articles": [
+    {
+      "id": "2026-07-15-businessman-tells-mps-of-delays-to-fertiliser-plan",
+      "tag": "economy",
+      "published": "2026-07-15T12:35:55+00:00",
+      "en": {
+        "title": "Businessman tells MPs of delays to fertiliser plant",
+        "body": "A businessman named Napoleon Dzombe told MPs on Wednesday about long delays to his fertiliser factory in Dowa. The factory has not been built because of slow approval. Dzombe said the delays hurt him and scared away other investors.",
+        "body_more": "Dzombe came before a joint parliamentary committee that looks at why the project was slow. He said he wanted to build the Mulalo Granular Fertiliser Production Factory to help Malawi get more fertiliser. But the government took too long to give approval.\n\nDzombe said the delays made him feel unwelcome in his own country. Banks stopped believing in the project. He had to pay K10 million to the Malawi Environment Protection Authority for an environmental check. This is a test to see if a factory will harm nature and people. Dzombe said these high costs and long waits stop investors from coming to Malawi. He also said he lost K500 million when a bus terminal project failed before. The 26-hectare land for the factory is his, he said. A title deed was given in 1979, but the paper was lost.\n\nThe Malawi Environment Protection Authority said it finished checking the factory plan and approved it. The director, Dr Wilfred Kadewa, said delays came because Dzombe did not answer questions about waste, safety, water, and pollution. Once he fixed these things, the board said yes to the project. The factory will be built near Kang'oma River."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/delays-to-dowa-fertiliser-plant-have-taken-personal-and-financial-toll-mps-told/?utm_source=rss&utm_medium=rss&utm_campaign=delays-to-dowa-fertiliser-plant-have-taken-personal-and-financial-toll-mps-told"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/07/15/dzombe-criticises-delays-in-fertiliser-factory-approval/"
+        }
+      ],
+      "ny": {
+        "title": "Wabizinesi akuuza aphungu a nyumba yamalamulo za kuchedwa kwa fakitale ya feteleza",
+        "body": "Munthu wamalonda dzina lake Napoleon Dzombe anauza aphungu a nyumba yamalamulo Lachitatu za kuchedwa kwa nthawi yayitali ku fakitale yake ya feteleza ku Dowa. Fakitaleyo sinamangidwe chifukwa chovomerezedwa pang'onopang'ono. Dzombe adati kuchedwako kunamupweteka komanso kuopseza amalonda ena.",
+        "body_more": "Dzombe adafika pamaso pa komiti yogwirizana ya nyumba yamalamulo yomwe imayang'ana chifukwa chake ntchitoyi inali yochedwa. Anati akufuna kumanga fakitale yopanga feteleza ya Mulalo Granular kuti athandize Malawi kupeza feteleza wochulukirapo. Koma boma linatenga nthawi yayitali kuti livomereze.\n\nDzombe adati kuchedwa kumeneku kunamupangitsa kumva kuti sakulandiridwa m'dziko lake. Mabanki adasiya kukhulupirira ntchitoyi. Anayenera kulipira K10 miliyoni ku Malawi Environment Protection Authority kuti akafufuze zachilengedwe. Iyi ndi mayeso oti awone ngati fakitale ingavulaze chilengedwe ndi anthu. Dzombe adati ndalama zambirizi komanso kudikira kwa nthawi yayitali kumaletsa amalonda kubwera ku Malawi. Anatinso adataya K500 miliyoni pomwe ntchito yomanga basi idalephera kale. Malo a mahekitala 26 a fakitale ndi ake, adatero. Chikalata chovomerezeka chinaperekedwa mu 1979, koma pepalalo linatayika.\n\nMalawi Environment Protection Authority adati adamaliza kuyang'ana mapulani a fakitale ndikuvomereza. Mtsogoleri, Dr Wilfred Kadewa, adati kuchedwa kunabwera chifukwa Dzombe sanayankhe mafunso okhudza zinyalala, chitetezo, madzi, ndi kuipitsidwa. Atakonza zinthuzi, bungweli linavomereza ntchitoyi. Fakitaleyi idzamangidwa pafupi ndi mtsinje wa Kang'oma."
+      },
+      "ny_quality": 0.55
+    },
     {
       "id": "2026-07-15-malawi-learns-from-india-s-education-plans",
       "tag": "society",
