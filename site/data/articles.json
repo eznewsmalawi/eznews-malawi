@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-08-03T08:34:40.871768+00:00",
+  "generated_at": "2026-08-03T18:53:56.898335+00:00",
   "articles": [
+    {
+      "id": "2026-08-03-parliament-celebrates-malawi-women-s-football-team",
+      "tag": "sport",
+      "published": "2026-08-03T18:12:02+00:00",
+      "en": {
+        "title": "Parliament celebrates Malawi women's football team at WAFCON",
+        "body": "Parliament stopped work on Monday to celebrate the Malawi Women's Football Team, the Scorchers, at the 2026 Women's Africa Cup of Nations in Morocco. Speaker Sameer Suleman said the team's play had lifted the nation's spirit. He called for all MPs to meet the team at the airport when they come home.",
+        "body_more": "Suleman told Parliament the Scorchers had done more than people hoped. He said they rewrote Malawi's football story. He asked for more money for women's football so the team can stay strong. \"These young women have carried the flag with honour,\" he said. \"They deserve to be celebrated by the entire country.\"\n\nThe Scorchers won two big games in Morocco. They beat Nigeria 3-2 in their first game. Then they beat Egypt 3-1 in their second game. The wins put Malawi at the top of their group. Faith Chimzimu, Rose Kabzere and Temwa Chawinga scored against Egypt. Fans back home watched and cheered at watch parties. One fan, Lucy Francis, said \"I am very happy to have witnessed the Scorchers win this game against Egypt.\"\n\nNational Bank of Malawi (NBM) plc held watch parties in Blantyre and Lilongwe so fans could watch the games together. Bernard Masi from NBM plc said the bank sponsors the Scorchers long-term, not just for this tournament. \"We are the proud sponsors of the Scorchers,\" he said. \"We will continue supporting the team.\"\n\nOn Monday, Minister of Gender Mary Navicha asked Speaker Suleman to let some women MPs travel to Morocco to cheer the team. Suleman said he would think about this. He also said he believed the Scorchers could win the whole tournament. Malawi's next game is against Zambia in their final group match."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/parliament-erupts-as-scorchers-wafcon-heroics-ignite-malaw/?utm_source=rss&utm_medium=rss&utm_campaign=parliament-erupts-as-scorchers-wafcon-heroics-ignite-malaw"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/08/03/navicha-wants-women-mps-to-cheer-scorchers-in-morocco/"
+        }
+      ],
+      "ny": {
+        "title": "Nyumba Yamalamulo Yakondwerera Timu Ya Mpira Ya Azimayi Ya Malawi ku WAFCON",
+        "body": "Nyumba Yamalamulo inayimitsa ntchito Lolemba kuti ikondwerere timu ya mpira wa azimayi ya Malawi, Scorchers, pa mpikisano wa Women's Africa Cup of Nations wa 2026 ku Morocco. Wokamba nkhani Sameer Suleman anati masewero a timuyi akweza mzimu wa dziko. Iye anapempha aphungu onse a nyumba yamalamulo kuti akakumane ndi timuyi pa eyapoti akabwerera kwawo.",
+        "body_more": "Suleman adauza Nyumba Yamalamulo kuti a Scorchers adachita zambiri kuposa momwe anthu ankayembekezera. Anati adalembanso nkhani ya mpira wa ku Malawi. Anapempha ndalama zambiri za mpira wa azimayi kuti timuyi ikhale yolimba. \"Atsikana awa anyamula mbendera mwaulemu,\" adatero. \"Ayenera kukondweretsedwa ndi dziko lonse.\"\n\nA Scorchers adapambana masewera awiri akuluakulu ku Morocco. Adagonjetsa Nigeria 3-2 pamasewera awo oyamba. Kenako adagonjetsa Egypt 3-1 pamasewera awo achiwiri. Kupambana kumeneku kunapangitsa Malawi kukhala pamwamba pa gulu lawo. Faith Chimzimu, Rose Kabzere ndi Temwa Chawinga adagoletsa motsutsana ndi Egypt. Mafani akunyumba adawonera ndikusangalala ndi maphwando owonera. Wokonda m'modzi, Lucy Francis, adati \"Ndili wokondwa kwambiri kuwona Scorchers ikupambana masewerawa motsutsana ndi Egypt.\"\n\nNational Bank of Malawi (NBM) plc idachita maphwando owonera ku Blantyre ndi Lilongwe kuti mafani athe kuwonera masewerawa pamodzi. Bernard Masi wa NBM plc adati bankiyo imathandizira a Scorchers kwa nthawi yayitali, osati mpikisano uno wokha. \"Ndife othandizira onyada a Scorchers,\" adatero. \"Tipitiliza kuthandizira gululo.\"\n\nLolemba, Nduna ya za Gender Mary Navicha adapempha Sipikala Suleman kuti alole azimayi ena a Nyumba Yamalamulo kuti apite ku Morocco kukalimbikitsa gululo. Suleman adati angaganizire izi. Anatinso akukhulupirira kuti Scorchers akhoza kupambana mpikisano wonse. Masewera otsatira a Malawi ndi motsutsana ndi Zambia pamasewera awo omaliza a gulu."
+      },
+      "ny_quality": 0.659
+    },
     {
       "id": "2026-08-03-imf-plans-new-money-deal-with-malawi-for-reforms",
       "tag": "economy",
