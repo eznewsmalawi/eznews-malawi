@@ -1,10 +1,36 @@
 {
-  "generated_at": "2026-08-11T11:49:34.391580+00:00",
+  "generated_at": "2026-08-11T18:01:17.229615+00:00",
   "articles": [
+    {
+      "id": "2026-08-11-continental-holdings-shares-start-trading-on-stock",
+      "tag": "economy",
+      "published": "2026-08-11T16:21:06+00:00",
+      "en": {
+        "title": "Continental Holdings shares start trading on stock market",
+        "body": "Continental Holdings (CHL) began trading on the Malawi Stock Exchange yesterday. Share prices rose sharply on the first day. CHL is the 17th company to list on the exchange. The shares closed at K342.17, up from the offer price of K195.",
+        "body_more": "The listing ceremony took place in Blantyre. Reserve Bank of Malawi Deputy Governor Henry Mathanga spoke at the event. He said the listing is important for Malawi's economic growth. Mathanga said the country needs more capital from inside and outside Malawi. He praised retail and institutional investors for their strong response to the offering.\n\nMathanga told investors that the financial sector has led the way in building Malawi's capital market. He said this sector has pushed for honesty, good management, and proper risk control. Malawi Stock Exchange Board Chairperson Professor James Kamwachale Khomba said CHL's listing shows people have faith in Malawi's economy and its capital market.\n\nCHL Group Chief Executive Officer Robert Abbey said the listing lets more Malawians invest and create wealth. Abbey said more than 10,000 new shareholders have joined the company. Exchange Chief Executive Officer John Robson Kamanga said CHL's listing meets a key goal the Exchange has had since 2021: to bring new companies to the market. Kamanga added that many ordinary Malawians now want to invest in the capital market to build wealth. The listing is expected to give more Malawians a chance to invest in financial services. It also gives CHL access to long-term capital to help the company grow."
+      },
+      "sources": [
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/chl-listing-sparks-malawi-stock-exchange-trading-surge/?utm_source=rss&utm_medium=rss&utm_campaign=chl-listing-sparks-malawi-stock-exchange-trading-surge"
+        },
+        {
+          "name": "MBC",
+          "url": "https://mbc.mw/chl-listed-on-malawi-stock-exchange/?utm_source=rss&utm_medium=rss&utm_campaign=chl-listed-on-malawi-stock-exchange"
+        }
+      ],
+      "ny": {
+        "title": "Magawo a Continental Holdings ayamba kugulitsa pamsika wamasheya",
+        "body": "Kampani ya Continental Holdings (CHL) inayamba kugulitsa pa Malawi Stock Exchange dzulo. Mitengo ya magawo inakwera kwambiri tsiku loyamba. CHL ndi kampani ya 17 kulembedwa pamndandanda wa magawo. Magawowa anatseka pa K342.17, kuchokera pa mtengo woperekedwa wa K195.",
+        "body_more": "Mwambo wolembetsa mabizinesi unachitikira ku Blantyre. Wachiwiri kwa Bwanamkubwa wa Reserve Bank of Malawi, Henry Mathanga, analankhula pamwambowu. Anati kulembetsa mabizinesi ndikofunikira pakukula kwachuma cha Malawi. Mathanga anati dzikolo likufunika ndalama zambiri kuchokera mkati ndi kunja kwa Malawi. Anayamika amalonda ogulitsa ndi mabungwe chifukwa cha kuyankha kwawo mwamphamvu ku zomwe apereka.\n\nMathanga anauza amalonda kuti gawo lazachuma latsogolera pakumanga msika wachuma ku Malawi. Anati gawoli lalimbikitsa kuwona mtima, kasamalidwe kabwino, komanso kuwongolera zoopsa moyenera. Wapampando wa bungwe la Malawi Stock Exchange, Pulofesa James Kamwachale Khomba, anati kulembetsa kwa CHL kukuwonetsa kuti anthu ali ndi chikhulupiriro mu chuma cha Malawi ndi msika wake wachuma.\n\nMkulu wa bungwe la CHL Group, Robert Abbey, anati kulembetsaku kumalola anthu ambiri aku Malawi kuti aike ndalama ndikupanga chuma. Abbey anati anthu opitilira 10,000 atsopano alowa nawo kampaniyo. Mkulu wa bungwe la Exchange, John Robson Kamanga, anati kulembetsa kwa CHL kukukwaniritsa cholinga chachikulu chomwe Exchange yakhala nacho kuyambira 2021: kubweretsa makampani atsopano pamsika. Kamanga anawonjezera kuti anthu ambiri aku Malawi tsopano akufuna kuyika ndalama pamsika wachuma kuti apange chuma. Mndandandawu ukuyembekezeka kupatsa mwayi anthu ambiri aku Malawi kuti azigwiritsa ntchito ndalama mu ntchito zachuma. Umaperekanso mwayi kwa CHL wopeza ndalama zogulira kampaniyi kwa nthawi yayitali."
+      },
+      "ny_quality": 0.689
+    },
     {
       "id": "2026-08-11-mcp-lawyer-kadzipatike-hands-himself-to-police-ove",
       "tag": "politics",
-      "published": "2026-08-11T09:45:41+00:00",
+      "published": "2026-08-11T16:18:14+00:00",
       "en": {
         "title": "MCP Lawyer Kadzipatike Hands Himself to Police Over Tax Issues",
         "body": "George Kadzipatike, a lawyer and MP for Dowa Kasangazi, went to Area 30 police station in Lilongwe. He handed himself to police over a tax warrant. Kadzipatike is the director of legal affairs for the Malawi Congress Party. He said he learned police wanted to arrest him on tax matters.",
@@ -18,6 +44,10 @@
         {
           "name": "Maravi Post",
           "url": "https://www.maravipost.com/mcp-legislator-kadzipatize-hands-over-to-fiscal-police-over-tax-evasion-arrest-warrant/"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/08/11/mcp-cries-foul-over-kadzipatike-arrest/"
         }
       ],
       "ny": {
@@ -13586,32 +13616,6 @@
         }
       ],
       "ny_quality": 0.6
-    },
-    {
-      "id": "2026-05-12-four-killed-in-mob-attacks-over-false-body-part-cl",
-      "tag": "society",
-      "published": "2026-05-12T13:01:47+00:00",
-      "en": {
-        "title": "Four Killed in Mob Attacks Over False Body Part Claims",
-        "body": "Four people died in mob attacks in Chikwawa and Nsanje on 8 and 9 May 2026. People said, without proof, that some men were stealing male body parts through witchcraft. This is not true. Police and local groups said the killings are very wrong. They ask people to report crimes to police, not to kill.",
-        "body_more": "The Malawi Police Service arrested over 45 people for spreading false stories about the missing body parts. A police officer said that rumours are not proof. \"No one should be hit or killed because of a story,\" the officer said. \"Bring suspects to us, not to the grave.\" President Peter Mutharika told his office to say that these killings are bad and not right for today. The President told police to work hard to catch all the people who did the killings.\n\nMASO, a group that works with migrants and communities, said Malawi has a big problem with wrong thinking. The group's leader, Dr. Harvey Chidoba Banda, said people must stop taking the law and making their own justice. He said the country has many cultures and beliefs, but all must be built on love, logic, and respect for human life. \"Taking the law into your own hands is not culture. It is crime,\" Dr. Banda said. He told government and other groups to work together to teach people to think better.\n\nThis is not the first time Malawi has had mob killings over witch stories. Human rights people say these events show that many people do not trust the police. A leader from Nsanje said chiefs, churches, and government must all speak together against the killings. MASO said it will do more work in towns and villages to teach people about human rights and how to solve fights the right way, through courts and police."
-      },
-      "ny": {
-        "title": "Anthu Anayi Aphedwa ndi Ziwopsezo za Gulu la Anthu Chifukwa cha Bodza Lonena za Ziwalo za Thupi",
-        "body": "Anthu anayi anamwalira pa ziwawa za anthu ku Chikwawa ndi Nsanje pa 8 ndi 9 Meyi 2026. Anthu anati, popanda umboni, kuti amuna ena akuba ziwalo za amuna pogwiritsa ntchito ufiti. Izi si zoona. Apolisi ndi magulu am'deralo anati kupha anthu kumeneku n'kolakwika kwambiri. Amapempha anthu kuti akanene milandu kwa apolisi, osati kupha.",
-        "body_more": "Apolisi aku Malawi agwira anthu opitilira 45 chifukwa chofalitsa nkhani zabodza zokhudza ziwalo za thupi zomwe zasowa. Wapolisi wina anati mphekesera sizowona. \"Palibe amene ayenera kumenyedwa kapena kuphedwa chifukwa cha nkhani,\" adatero wapolisiyo. \"Tibweretseni okayikira, osati kumanda.\" Purezidenti Peter Mutharika adauza ofesi yake kuti anene kuti kupha kumeneku ndi koipa ndipo sikoyenera lero. Purezidenti adauza apolisi kuti agwire ntchito molimbika kuti agwire anthu onse omwe adachita kupha anthuwo.\n\nMASO, gulu lomwe limagwira ntchito ndi anthu osamukira kumayiko ena ndi madera, lati Malawi ili ndi vuto lalikulu la kuganiza molakwika. Mtsogoleri wa gululo, Dr. Harvey Chidoba Banda, adati anthu ayenera kusiya kutenga malamulo ndikupanga chilungamo chawo. Iye adati dzikolo lili ndi zikhalidwe ndi zikhulupiriro zambiri, koma zonse ziyenera kumangidwa pa chikondi, malingaliro, ndi ulemu wa moyo wa munthu. \"Kutenga malamulo m'manja mwanu si chikhalidwe. Ndi mlandu,\" adatero Dr. Banda. Adauza boma ndi magulu ena kuti agwire ntchito limodzi kuphunzitsa anthu kuganiza bwino.\n\nIyi si nthawi yoyamba Malawi kukhala ndi kupha anthu chifukwa cha nkhani za mfiti. Anthu omenyera ufulu wa anthu akuti zochitikazi zikusonyeza kuti anthu ambiri sakhulupirira apolisi. Mtsogoleri wochokera ku Nsanje anati mafumu, matchalitchi, ndi boma ayenera kulankhulana motsutsana ndi kupha anthu kumeneku. MASO yati ichita ntchito yambiri m'matauni ndi m'midzi kuphunzitsa anthu za ufulu wa anthu komanso momwe angathetsere mikangano moyenera, kudzera m'makhothi ndi apolisi."
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/maso-demands-mindset-change-after-mob-killings-over-false-missing-body-parts-claims/"
-        },
-        {
-          "name": "Maravi Post",
-          "url": "https://www.maravipost.com/mutharika-condemns-mob-killings-over-missing-private-parts-rumors/"
-        }
-      ],
-      "ny_quality": 0.621
     }
   ]
 }
