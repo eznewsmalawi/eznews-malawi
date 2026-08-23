@@ -1,10 +1,34 @@
 {
-  "generated_at": "2026-08-22T17:27:01.033360+00:00",
+  "generated_at": "2026-08-23T05:34:42.522600+00:00",
   "articles": [
+    {
+      "id": "2026-08-22-malawi-s-money-reserves-grow-but-help-slow",
+      "tag": "economy",
+      "published": "2026-08-23T00:01:50+00:00",
+      "en": {
+        "title": "Malawi's money reserves grow, but help slow",
+        "body": "Malawi's foreign money reserves rose to $616.3 million in June 2026. This is enough money for 2.5 months of goods to buy from other countries. The money came from tobacco sales and private business. But experts say this is still not enough. Businesses still cannot find foreign money to buy things abroad.",
+        "body_more": "The Reserve Bank of Malawi said the money grew from $596.5 million in May. In June last year, the country had only $555.9 million. This is a rise of $60.4 million in one year. The bank said both the government and private business helped this grow.\n\nBut many experts are not happy. They say Malawi needs 3 months of money reserves. The country has only 2.5 months now. Economist Edward Lemani said this may not last. He said Malawi buys too many things from other countries and sells too few. Most money comes from tobacco sales, not from many types of business. Lemani said the country needs more exports from many types of work.\n\nBusinesses still have big problems. People cannot get foreign money to put on cards to travel. Factory owners cannot get money to buy things they need from abroad. Economist Christopher Mbukwa said the real test is this: Can businesses get foreign money fast? Does the price at the real market match the price at the bank? Mbukwa said Malawi must grow other types of business. Mining, tourism, and new business from other countries can help. But the country must stop using only tobacco to earn foreign money."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/forex-reserves-rise-but-businesses-await-relief/"
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/malawi-forex-reserves-up-11-but-shortages-persist/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-forex-reserves-up-11-but-shortages-persist"
+        },
+        {
+          "name": "Business Malawi",
+          "url": "https://www.businessmalawi.com/foreign-exchange-rise-provides-breathing-room-as-malawi-businesses-await-support/"
+        }
+      ]
+    },
     {
       "id": "2026-08-22-wanderers-return-to-top-after-beating-red-lions",
       "tag": "sport",
-      "published": "2026-08-22T15:09:04+00:00",
+      "published": "2026-08-22T19:23:30+00:00",
       "en": {
         "title": "Wanderers return to top after beating Red Lions",
         "body": "Mighty Wanderers won 2-1 against Red Lions on Saturday. The win took them to the top of the Malawi FDH Bank Premiership. Wanderers now have 29 points from 14 matches. They lead second-place Silver Strikers by just one point. One week remains in the first round of the league.",
@@ -18,8 +42,46 @@
         {
           "name": "Malawi24",
           "url": "https://malawi24.com/2026/08/22/wanderers-eye-recovery-against-red-lions/"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/wanderers-rise-again-2026-27-fdh-bank-premiership/"
         }
       ]
+    },
+    {
+      "id": "2026-08-21-soldier-lucius-banda-s-mausoleum-unveiled-in-balak",
+      "tag": "society",
+      "published": "2026-08-22T17:31:49+00:00",
+      "en": {
+        "title": "Soldier Lucius Banda's Mausoleum Unveiled in Balaka",
+        "body": "The mausoleum of musician Soldier Lucius Banda was unveiled in Sosola Village, Balaka. The mausoleum honors the life of one of Malawi's most famous musicians. Lucius died two years ago. His family built the mausoleum with help from close friends.",
+        "body_more": "The Lucius Banda Foundation will manage the mausoleum. This foundation will work to preserve and promote Lucius's life and music. Lucius was born and raised in Balaka. He became one of Malawi's most important musicians. His music career lasted 35 years. He made 20 albums and more than 400 songs. These songs spoke about poverty, unfair treatment, government problems, corruption, love, family and justice.\n\nLucius was also a politician. He was a Member of Parliament for Balaka North two times. He worked with two political parties: the United Democratic Front and the United Transformation Movement. Before he died, he was a presidential adviser on youth and culture under former president Lazarus Chakwera.\n\nThe mausoleum has photos, memorabilia and documents of his life and career. It shows his work in music and politics. His son Johnny Zembani Banda said the family wants to build a museum at the site. This museum will be a place where Malawians and visitors can learn about Lucius's life. The museum will show his music, photographs, instruments, belongings and recordings. It will help young people understand the history and society in which Lucius made his music.\n\nAfter the mausoleum was unveiled, there was a celebration at Balaka Stadium. Many artists performed, including Phungu Joseph Nkasa, Coss Chiwalo, Zembani Band, Paul Subili, Alleluya Band, Black Missionaries and Lulu. Lulu worked with Soldier for many years before starting his own band called Mathumela Band. Lulu recently made a song called 'Soja' to remember Soldier."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/lucius-mausoleum-to-be-unveiled-tomorrow/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/soldiers-mausoleum-to-be-unveiled-today/?utm_source=rss&utm_medium=rss&utm_campaign=soldiers-mausoleum-to-be-unveiled-today"
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/emotional-scenes-as-lucius-banda-mausoleum-unveiled-in-balaka/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-scenes-as-lucius-banda-mausoleum-unveiled-in-balaka"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/08/22/chihana-praises-late-lucius-banda/"
+        }
+      ],
+      "ny": {
+        "title": "Nyumba Yaikulu ya Msilikali Lucius Banda Yatsegulidwa ku Balaka",
+        "body": "Manda a woimba Soldier Lucius Banda adawululidwa ku Sosola Village, Balaka. Mandawa amalemekeza moyo wa m'modzi mwa oimba otchuka kwambiri ku Malawi. Lucius anamwalira zaka ziwiri zapitazo. Banja lake linamanga mandawa mothandizidwa ndi mabwenzi apamtima.",
+        "body_more": "Lucius Banda Foundation idzayang'anira mabwinja a nyumbayi. Maziko awa adzagwira ntchito yosunga ndi kukweza moyo ndi nyimbo za Lucius. Lucius anabadwira ndikuleredwa ku Balaka. Anakhala m'modzi mwa oimba ofunikira kwambiri ku Malawi. Ntchito yake yoimba inatenga zaka 35. Anapanga ma Albums 20 ndi nyimbo zoposa 400. Nyimbozi zinkanena za umphawi, nkhanza zosalungama, mavuto aboma, ziphuphu, chikondi, banja ndi chilungamo.\n\nLucius analinso wandale. Anali membala wa Nyumba Yamalamulo ya Balaka North kawiri. Anagwira ntchito ndi zipani ziwiri zandale: United Democratic Front ndi United Transformation Movement. Asanamwalire, anali mlangizi wa purezidenti pa achinyamata ndi chikhalidwe pansi pa purezidenti wakale Lazarus Chakwera.\n\nMabwinja a nyumbayi ali ndi zithunzi, zokumbukira ndi zikalata za moyo wake ndi ntchito yake. Akuwonetsa ntchito yake mu nyimbo ndi ndale. Mwana wake wamwamuna Johnny Zembani Banda adati banjali likufuna kumanga nyumba yosungiramo zinthu zakale pamalopo. Nyumba yosungiramo zinthu zakale iyi idzakhala malo omwe anthu aku Malawi ndi alendo angaphunzire za moyo wa Lucius. Nyumba yosungiramo zinthu zakaleyi idzawonetsa nyimbo zake, zithunzi, zida, katundu wake ndi zojambulira zake. Zithandiza achinyamata kumvetsetsa mbiri ndi chikhalidwe cha anthu omwe Lucius adapangira nyimbo zake.\n\nPambuyo poti manda a anthu adawululidwa, panali chikondwerero ku Balaka Stadium. Oimba ambiri adachita sewero, kuphatikizapo Phungu Joseph Nkasa, Coss Chiwalo, Zembani Band, Paul Subili, Alleluya Band, Black Missionaries ndi Lulu. Lulu adagwira ntchito ndi Soldier kwa zaka zambiri asanayambitse gulu lake lotchedwa Mathumela Band. Posachedwapa Lulu adapanga nyimbo yotchedwa 'Soja' yokumbukira Soldier."
+      },
+      "ny_quality": 0.734
     },
     {
       "id": "2026-08-22-high-court-grants-bail-to-activist-sylvester-namiw",
@@ -84,36 +146,6 @@
           "url": "https://www.businessmalawi.com/zambia-certifies-usingini-coffee-gateway-to-malawi-business-growth/"
         }
       ]
-    },
-    {
-      "id": "2026-08-21-soldier-lucius-banda-s-mausoleum-unveiled-in-balak",
-      "tag": "society",
-      "published": "2026-08-22T11:43:34+00:00",
-      "en": {
-        "title": "Soldier Lucius Banda's Mausoleum Unveiled in Balaka",
-        "body": "The mausoleum of musician Soldier Lucius Banda was unveiled in Sosola Village, Balaka. The mausoleum honors the life of one of Malawi's most famous musicians. Lucius died two years ago. His family built the mausoleum with help from close friends.",
-        "body_more": "The Lucius Banda Foundation will manage the mausoleum. This foundation will work to preserve and promote Lucius's life and music. Lucius was born and raised in Balaka. He became one of Malawi's most important musicians. His music career lasted 35 years. He made 20 albums and more than 400 songs. These songs spoke about poverty, unfair treatment, government problems, corruption, love, family and justice.\n\nLucius was also a politician. He was a Member of Parliament for Balaka North two times. He worked with two political parties: the United Democratic Front and the United Transformation Movement. Before he died, he was a presidential adviser on youth and culture under former president Lazarus Chakwera.\n\nThe mausoleum has photos, memorabilia and documents of his life and career. It shows his work in music and politics. His son Johnny Zembani Banda said the family wants to build a museum at the site. This museum will be a place where Malawians and visitors can learn about Lucius's life. The museum will show his music, photographs, instruments, belongings and recordings. It will help young people understand the history and society in which Lucius made his music.\n\nAfter the mausoleum was unveiled, there was a celebration at Balaka Stadium. Many artists performed, including Phungu Joseph Nkasa, Coss Chiwalo, Zembani Band, Paul Subili, Alleluya Band, Black Missionaries and Lulu. Lulu worked with Soldier for many years before starting his own band called Mathumela Band. Lulu recently made a song called 'Soja' to remember Soldier."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/lucius-mausoleum-to-be-unveiled-tomorrow/"
-        },
-        {
-          "name": "Daily Times",
-          "url": "https://times.mw/soldiers-mausoleum-to-be-unveiled-today/?utm_source=rss&utm_medium=rss&utm_campaign=soldiers-mausoleum-to-be-unveiled-today"
-        },
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/emotional-scenes-as-lucius-banda-mausoleum-unveiled-in-balaka/?utm_source=rss&utm_medium=rss&utm_campaign=emotional-scenes-as-lucius-banda-mausoleum-unveiled-in-balaka"
-        }
-      ],
-      "ny": {
-        "title": "Nyumba Yaikulu ya Msilikali Lucius Banda Yatsegulidwa ku Balaka",
-        "body": "Manda a woimba Soldier Lucius Banda adawululidwa ku Sosola Village, Balaka. Mandawa amalemekeza moyo wa m'modzi mwa oimba otchuka kwambiri ku Malawi. Lucius anamwalira zaka ziwiri zapitazo. Banja lake linamanga mandawa mothandizidwa ndi mabwenzi apamtima.",
-        "body_more": "Lucius Banda Foundation idzayang'anira mabwinja a nyumbayi. Maziko awa adzagwira ntchito yosunga ndi kukweza moyo ndi nyimbo za Lucius. Lucius anabadwira ndikuleredwa ku Balaka. Anakhala m'modzi mwa oimba ofunikira kwambiri ku Malawi. Ntchito yake yoimba inatenga zaka 35. Anapanga ma Albums 20 ndi nyimbo zoposa 400. Nyimbozi zinkanena za umphawi, nkhanza zosalungama, mavuto aboma, ziphuphu, chikondi, banja ndi chilungamo.\n\nLucius analinso wandale. Anali membala wa Nyumba Yamalamulo ya Balaka North kawiri. Anagwira ntchito ndi zipani ziwiri zandale: United Democratic Front ndi United Transformation Movement. Asanamwalire, anali mlangizi wa purezidenti pa achinyamata ndi chikhalidwe pansi pa purezidenti wakale Lazarus Chakwera.\n\nMabwinja a nyumbayi ali ndi zithunzi, zokumbukira ndi zikalata za moyo wake ndi ntchito yake. Akuwonetsa ntchito yake mu nyimbo ndi ndale. Mwana wake wamwamuna Johnny Zembani Banda adati banjali likufuna kumanga nyumba yosungiramo zinthu zakale pamalopo. Nyumba yosungiramo zinthu zakale iyi idzakhala malo omwe anthu aku Malawi ndi alendo angaphunzire za moyo wa Lucius. Nyumba yosungiramo zinthu zakaleyi idzawonetsa nyimbo zake, zithunzi, zida, katundu wake ndi zojambulira zake. Zithandiza achinyamata kumvetsetsa mbiri ndi chikhalidwe cha anthu omwe Lucius adapangira nyimbo zake.\n\nPambuyo poti manda a anthu adawululidwa, panali chikondwerero ku Balaka Stadium. Oimba ambiri adachita sewero, kuphatikizapo Phungu Joseph Nkasa, Coss Chiwalo, Zembani Band, Paul Subili, Alleluya Band, Black Missionaries ndi Lulu. Lulu adagwira ntchito ndi Soldier kwa zaka zambiri asanayambitse gulu lake lotchedwa Mathumela Band. Posachedwapa Lulu adapanga nyimbo yotchedwa 'Soja' yokumbukira Soldier."
-      },
-      "ny_quality": 0.734
     },
     {
       "id": "2026-08-22-malawi-scorchers-get-money-after-big-success",
@@ -184,26 +216,6 @@
         "body_more": "Boma, lotsogozedwa ndi Mlembi Wamkulu Justin Saidi ndi Nduna Chimwemwe Chipungu, linapempha khoti kuti lichotse kuimitsa mlanduwo. Kuimitsa mlandu ndi lamulo lomwe limaletsa mlandu kuti usapitirire. Loya Wamkulu Frank Mbeta anati kuimitsa mlanduwo kuyenera kuchotsedwa kuti boma lipemphe kuti mlanduwo uchotsedwe.\n\nChipani chotsutsa cha Malawi Congress Party (MCP) ndi atatu mwa opanga malamulo ake adatsutsa dongosolo losamutsa anthu kukhothi pa June 5. Tsiku limenelo, Woweruza Nyirenda adawapatsa lamulo loletsa, kapena kuletsa, kusamuka ku Blantyre. Kenako adayimitsa mlanduwo podikira chigamulo cha Woweruza Wamkulu pankhani ya ngati nkhani za malamulo zili pachiwopsezo. Nkhani za malamulo ndi mafunso okhudza ngati china chake chikutsatira malamulo omwe ali mu Constitution ya dzikolo.\n\nMu chigamulo chake Lachinayi, Woweruza Nyirenda adati mafunso omwe afunsidwa ayenera kugamulidwa kudzera mukuwunikanso kwa khothi. Kuwunikanso kwa milandu ndi mtundu wa mlandu wa khothi komwe oweruza amafufuza ngati boma likuchita zinthu mwalamulo. Woweruzayo adati nkhanizo sizingagamulidwe bwino kudzera mu umboni wolembedwa wosavuta. Anachenjeza kuti kuchita izi kungawononge kufunika kwa malamulo a malamulo ku Malawi.\n\nLoya wa chipani cha MCP, George Kadzipatike, adati makasitomala ake ali ndi ufulu wotsutsa chisankhochi chifukwa amatenga nawo mbali pa zisankho. Iye anati Purezidenti alibe mphamvu zolamula bungwe lodziyimira pawokha kuti lipereke chigamulo kudzera mu Lamulo la Akuluakulu. Malamulo a Akuluakulu ndi malamulo olembedwa ochokera kwa Purezidenti. Khothi tsopano lifufuza ngati Purezidenti ali ndi mphamvu zovomerezeka zosamukira bungwe lodziyimira pawokha, komanso ngati kusamutsaku kukuphwanya magawo 75 ndi 76 a Malamulo Oyendetsera Dziko. Pakadali pano, MEC yachedwetsa zisankho ku Nsanje South ndi Mangochi East chifukwa cha kusowa kwa zipangizo komanso mavuto olowera m'nyumba yake yosungiramo zinthu yotsekedwa ku Lilongwe."
       },
       "ny_quality": 0.633
-    },
-    {
-      "id": "2026-08-22-malawi-s-money-reserves-grow-but-help-slow",
-      "tag": "economy",
-      "published": "2026-08-22T05:43:00+00:00",
-      "en": {
-        "title": "Malawi's money reserves grow, but help slow",
-        "body": "Malawi's foreign money reserves rose to $616.3 million in June 2026. This is enough money for 2.5 months of goods to buy from other countries. The money came from tobacco sales and private business. But experts say this is still not enough. Businesses still cannot find foreign money to buy things abroad.",
-        "body_more": "The Reserve Bank of Malawi said the money grew from $596.5 million in May. In June last year, the country had only $555.9 million. This is a rise of $60.4 million in one year. The bank said both the government and private business helped this grow.\n\nBut many experts are not happy. They say Malawi needs 3 months of money reserves. The country has only 2.5 months now. Economist Edward Lemani said this may not last. He said Malawi buys too many things from other countries and sells too few. Most money comes from tobacco sales, not from many types of business. Lemani said the country needs more exports from many types of work.\n\nBusinesses still have big problems. People cannot get foreign money to put on cards to travel. Factory owners cannot get money to buy things they need from abroad. Economist Christopher Mbukwa said the real test is this: Can businesses get foreign money fast? Does the price at the real market match the price at the bank? Mbukwa said Malawi must grow other types of business. Mining, tourism, and new business from other countries can help. But the country must stop using only tobacco to earn foreign money."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/forex-reserves-rise-but-businesses-await-relief/"
-        },
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/malawi-forex-reserves-up-11-but-shortages-persist/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-forex-reserves-up-11-but-shortages-persist"
-        }
-      ]
     },
     {
       "id": "2026-08-21-court-frees-activist-namiwa-on-bail-with-strict-ru",
