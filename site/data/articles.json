@@ -1,30 +1,10 @@
 {
-  "generated_at": "2026-08-25T05:37:48.095936+00:00",
+  "generated_at": "2026-08-25T11:35:15.596447+00:00",
   "articles": [
-    {
-      "id": "2026-08-25-malawi-launches-five-year-tax-plan-to-raise-more-m",
-      "tag": "economy",
-      "published": "2026-08-25T04:20:00+00:00",
-      "en": {
-        "title": "Malawi launches five-year tax plan to raise more money",
-        "body": "Malawi's tax authority launched a five-year plan on Monday in Blantyre. Finance Minister Joseph Mwanamvekha said the plan will help Malawi raise more money locally. The authority collected K1.40 trillion in tax in one quarter. The new plan runs from 2026 to 2031.",
-        "body_more": "Minister Mwanamvekha called the tax authority the \"engine room of the nation.\" He said the plan is a contract between government and Malawians. The money raised will pay for schools, clinics, roads and public services. Mwanamvekha said Malawi must stop relying on money from other countries. Donor support is falling because of world money problems and wars.\n\nMRA Board Chairperson MacFussy Kawawa said the authority did very well before. It reached almost all its targets in the last six years. It hit all targets in four of those six years. The new plan will focus on finding more taxpayers. It will use new computer systems. It will check who pays tax and who does not. The plan will also give better help to people who pay tax.\n\nMRA Commissioner General Felix Tambulasi said success depends on having good staff and good systems. He said the authority will check its people and systems carefully. Tambulasi said Malawi's tax amount must grow from sixteen percent now to twenty percent by 2031. This will take hard work but the authority will measure if it gets better each year. Mwanamvekha warned that customs money will fall. Regional trade deals mean less customs tax. So the country needs more money from regular taxes on goods and income. Stronger tax money will help pay for the national budget and the National Economic Recovery Plan without needing help from other countries."
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/mwanamvekha-mra-is-the-engine-room-of-the-nation-as-five-year-plan-launches/?utm_source=rss&utm_medium=rss&utm_campaign=mwanamvekha-mra-is-the-engine-room-of-the-nation-as-five-year-plan-launches"
-        },
-        {
-          "name": "Malawi24",
-          "url": "https://malawi24.com/2026/08/25/mra-strategy-plan-targets-stronger-domestic-revenue-for-malawi/"
-        }
-      ]
-    },
     {
       "id": "2026-08-25-nocma-loses-k700-million-in-cyber-fraud-scam",
       "tag": "economy",
-      "published": "2026-08-24T19:25:18+00:00",
+      "published": "2026-08-25T10:33:01+00:00",
       "en": {
         "title": "Nocma loses K700 million in cyber fraud scam",
         "body": "Cyber criminals stole K700 million from Malawi's fuel company. The National Oil Company of Malawi (Nocma) sent the money to a fake bank account on April 29, 2026. The scammers pretended to be Mozhandling Limited, a Mozambican firm. Nocma only found out two weeks later when the real company asked for payment.",
@@ -38,6 +18,102 @@
         {
           "name": "Malawi24",
           "url": "https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/"
+        },
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/nocma-duped-k700-million-opens-probe/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/nocma-in-k700-million-payment-fraud-probe/?utm_source=rss&utm_medium=rss&utm_campaign=nocma-in-k700-million-payment-fraud-probe"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/why-nocma-could-be-robbed-mk700m-on-daylight-million/"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-group-questions-acting-acb-chief-over-failed-job-t",
+      "tag": "politics",
+      "published": "2026-08-25T09:15:38+00:00",
+      "en": {
+        "title": "Group questions acting ACB chief over failed job test",
+        "body": "Citizen Alliance says the government should explain why Gabriel Chembezi leads the Anti-Corruption Bureau as acting chief when he failed the test for the full job. The group says this is a problem for Malawi's anti-corruption work. Baxton Nkhoma leads Citizen Alliance. He says the ACB needs a leader that people can trust.",
+        "body_more": "On 24 August 2026, Nkhoma made a public statement. He said the latest job search for a new ACB Director General did not find a person who met the required level. Chembezi took the test but did not pass it. Yet Chembezi still leads the ACB in an acting way.\n\nNkhoma asked: if Chembezi did not pass the test for the full job, why is he good enough for the acting job? Citizen Alliance says this is not an attack on Chembezi as a person. It is a question about how the ACB is run and whether people can trust it. The government says the acting appointment is allowed by law. But Citizen Alliance says that law alone is not enough. The ACB fights corruption. It must have a leader with real skill, good character and the trust of the public.\n\nCitizen Alliance says the acting arrangement was meant to be short. But it has gone on for a long time. This can hurt how people see the ACB. Nkhoma said: the fight against corruption cannot have uncertainty at the top. The group wants a new job search. It must be open, fair and independent. It must have clear rules about skill, honesty and experience. The group wants the government to say what went wrong in the last search. Was the test right? Was the process strong enough? What will change next time? The group asks the President, the Ministry of Justice and Parliament to move fast. Malawi needs a real ACB Director General, the group said."
+      },
+      "sources": [
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/08/25/govt-pressed-over-failed-acb-acting-director/"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/citizen-alliance-questions-acting-acb-chief-gabriel-chembezis-legibility-after-interviews-failure/"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-malawi-launches-five-year-tax-plan-to-raise-more-m",
+      "tag": "economy",
+      "published": "2026-08-25T06:36:00+00:00",
+      "en": {
+        "title": "Malawi launches five-year tax plan to raise more money",
+        "body": "Malawi's tax authority launched a five-year plan on Monday in Blantyre. Finance Minister Joseph Mwanamvekha said the plan will help Malawi raise more money locally. The authority collected K1.40 trillion in tax in one quarter. The new plan runs from 2026 to 2031.",
+        "body_more": "Minister Mwanamvekha called the tax authority the \"engine room of the nation.\" He said the plan is a contract between government and Malawians. The money raised will pay for schools, clinics, roads and public services. Mwanamvekha said Malawi must stop relying on money from other countries. Donor support is falling because of world money problems and wars.\n\nMRA Board Chairperson MacFussy Kawawa said the authority did very well before. It reached almost all its targets in the last six years. It hit all targets in four of those six years. The new plan will focus on finding more taxpayers. It will use new computer systems. It will check who pays tax and who does not. The plan will also give better help to people who pay tax.\n\nMRA Commissioner General Felix Tambulasi said success depends on having good staff and good systems. He said the authority will check its people and systems carefully. Tambulasi said Malawi's tax amount must grow from sixteen percent now to twenty percent by 2031. This will take hard work but the authority will measure if it gets better each year. Mwanamvekha warned that customs money will fall. Regional trade deals mean less customs tax. So the country needs more money from regular taxes on goods and income. Stronger tax money will help pay for the national budget and the National Economic Recovery Plan without needing help from other countries."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/mwanamvekha-mra-is-the-engine-room-of-the-nation-as-five-year-plan-launches/?utm_source=rss&utm_medium=rss&utm_campaign=mwanamvekha-mra-is-the-engine-room-of-the-nation-as-five-year-plan-launches"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/08/25/mra-strategy-plan-targets-stronger-domestic-revenue-for-malawi/"
+        },
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/minister-challenges-mra-tosustain-tax-revenue-gains/"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-father-and-son-teams-meet-in-cup-final-this-sunday",
+      "tag": "sport",
+      "published": "2026-08-25T06:10:22+00:00",
+      "en": {
+        "title": "Father and son teams meet in cup final this Sunday",
+        "body": "Mighty Wanderers and Ekhaya FC will play in the Airtel Top 8 final this Sunday at Bingu National Stadium in Lilongwe. The two teams are owned by father and son. Thomson Mpinganjira owns Wanderers. His son William owns Ekhaya FC. This is the first time father and son teams have met in a major final in Malawi.",
+        "body_more": "Thomson said he will not know his son's name on the pitch. \"He is loved as a son, but in this field, I do not know his name,\" he said. \"That's the beauty of football. You compete on the pitch.\" Thomson said the match is unique and has never happened in Malawi football before. He said people call it the 'Mpinganjira derby'.\n\nThomson said he was surprised when William took Ekhaya to the Super League. He said he is very proud that Ekhaya made it to the final. William pays for the team from his own money. Thomson said Ekhaya is a young team with much energy. He said if Ekhaya wins, it will be their biggest win ever. \"The consequences are far-reaching,\" Thomson said.\n\nWilliam said the final is a unique story for Malawi football. He said both teams will try hard to win. \"I believe Ekhaya will win,\" he said. \"The pressure is on Mighty Wanderers, not Ekhaya FC.\" William said Malawi football is the real winner because this shows people care about the game. He said this creates jobs for players and helps find new talent. William said Ekhaya is still growing. \"We are building with ambition,\" he said. This is Ekhaya's first major cup final. Mighty Wanderers has won many finals before. The winner will get K40 million."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/mpinganjira-derby-peaks-for-zamadolo-final/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/william-mpinganjiras-ekhaya-dare-his-fathers-wanderers-in-airtel-top-8-final/?utm_source=rss&utm_medium=rss&utm_campaign=william-mpinganjiras-ekhaya-dare-his-fathers-wanderers-in-airtel-top-8-final"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-25-malawi-seeks-new-money-plan-for-voter-lessons",
+      "tag": "politics",
+      "published": "2026-08-25T05:20:54+00:00",
+      "en": {
+        "title": "Malawi seeks new money plan for voter lessons",
+        "body": "Electoral groups in Malawi want a new way to pay for voter education ahead of the 2030 General Election. They say foreign donors give less money now. The government, private sector, faith groups and communities must help pay and teach voters more about elections.",
+        "body_more": "At a Post-Election Review National Conference in Lilongwe, Malawi Electoral Commission Chairperson Justice Annabel Mtalimanja said development partners must treat electoral support as a continuous investment. She explained that credible elections cannot depend on money that only arrives close to polling day. \"It is imperative for development partners to view electoral support as a continuous investment in democratic governance rather than assistance that begins shortly before polling and ends once results are declared,\" she said.\n\nCivil Society Elections Integrity Forum chairperson Benedicto Kondowe said civil society organisations need between K25 billion and K30 billion each year from now until 2030 to provide continuous civic and voter education. Chisankho Watch chairperson Bishop Gilford Matonga suggested that the Malawi Electoral Commission and National Initiative for Civic Education Trust could help close the funding gap by using their existing resources to work with more organisations. This approach would increase reach without creating new structures.\n\nThe calls follow concerns from the 2025 General Election review. That review found that civic and voter education was insufficient and poorly delivered. Only a few accredited organisations had money to work in rural communities, where voter education is needed most. In 2025, about 155,225 votes were declared null and void. Voter turnout was 76.4 percent, with 5,502,982 people casting ballots. United Nations Resident Coordinator Rebecca Adda-Dontoh called for continued investment to strengthen institutions that protect democratic processes."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/stakeholders-brainstorm-voter-education-financing/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/mec-pleads-for-steady-funding-ahead-of-2030/?utm_source=rss&utm_medium=rss&utm_campaign=mec-pleads-for-steady-funding-ahead-of-2030"
         }
       ]
     },
@@ -13492,85 +13568,6 @@
         "body_more": "Ophunzira okwana 162,967 alemba mayeso a JCE ku Malawi konse. Mayesowa apitirira mpaka pa 10 June 2026. Maneb, bungwe la Malawi National Examinations Board, apereka mayesowo.\n\nMsaka anati magulu owunikira apeza kuti ntchitoyi yayenda bwino komanso mwadongosolo. Iye anati palibe vuto lalikulu lomwe labwera ku ofesi yake kuyambira pomwe mayeso adayamba Lolemba. \"Awa ndi mayeso abwino kwambiri komanso okonzedwa bwino kwambiri,\" adatero Msaka. Anatinso uku ndi kuyamba kwa sukulu ya sekondale yaulere kwa ophunzira ambiri, chifukwa boma limalipira ndalama zawo zolipirira mayeso.\n\nKu Lilongwe Girls Secondary School, ophunzira 160 alemba JCE. Mphunzitsi wamkulu Loyce Kumtamula adati sukuluyo yakonzeka mokwanira. Iye anati ophunzira amatsatira malamulo a mayeso ndipo oyang'anira amagwira ntchito bwino. \"Njirayo yakhala yolongosoka. Pali mgwirizano wabwino pakati pa ophunzira ndi oyang'anira,\" adatero Kumtamula. Chaka chatha, Lilongwe Girls Secondary School inali ndi chiŵerengero chopambana 100%. Chaka chino, Kumtamula adati sukuluyo ikuyembekezeranso zotsatira zomwezo.\n\nMsaka adayamikiranso aphunzitsi, atsogoleri a masukulu ndi ogwira ntchito za mayeso. Iye anati anathandiza ophunzira kukonzekera ndikuonetsetsa kuti mapepala a mayeso afika m'masukulu panthawi yake. Onse, ophunzira 614,915 alemba mayeso onse chaka chino — JCE, MSCE ndi PSLCE. Mwa awa, 316,764 ndi akazi ndipo 309,428 ndi amuna. Mayeso a JCE ndi gawo lofunika kwambiri m'masukulu aku Malawi, monga momwe amanenera ngati ophunzira angapite kusukulu ya sekondale."
       },
       "ny_quality": 0.593
-    },
-    {
-      "id": "2026-06-03-malawi-treasury-stops-payments-for-contracts-signe",
-      "tag": "economy",
-      "published": "2026-06-03T11:17:33+00:00",
-      "en": {
-        "title": "Malawi Treasury Stops Payments for Contracts Signed in 2023-2025",
-        "body": "The Ministry of Finance has frozen all payments for government contracts signed between September 1, 2023 and September 1, 2025. Secretary to the Treasury Cliff Chiunda ordered the review in a memo on May 29, 2026. All government offices must give details of these contracts to the National Audit Office and Attorney General by June 20, 2026.",
-        "body_more": "The frozen contracts include all agreements, guarantees, consents and employment-related deals signed in that period. The government will not pay for any work or services linked to these contracts until the review is done. Chiunda asked for the original contract amounts, any changes to the costs, reasons for the price increases, and proof that the correct approval process was followed.\n\nPublic finance expert Dalitso Kubalasa said the review is important. He told The Nation newspaper that many of Malawi's money problems come from contracts signed quietly with guarantees or consent clauses. \"When these agreements are reviewed properly, we are not just checking for legal mistakes, but rather protecting the money meant for hospitals, for roads, for schools,\" Kubalasa said. Scotland-based economist Velli Nyirongo agreed that the review can help identify contracts that put the government at risk or have unfair terms. He said other countries have lost large sums of money from poorly negotiated contracts.\n\nCorporate governance expert Jimmy Lipunga said the exercise will help Treasury understand what hidden costs and guarantees the government owes. Lawyer Benedicto Kondowe warned that the government must follow the law when reviewing contracts. \"Any decision must follow due process and be supported by evidence to avoid exposing the State to legal liability,\" he said.\n\nThe contract review follows a payroll check that started in December 2025. That check aimed to find ghost workers and stop overspending on government salaries, which rose from K479.6 billion in 2021-22 to a projected K1.6 trillion in 2025-26."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/treasury-cracks-the-whip/"
-        },
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/treasury-suspends-funding-for-government-contracts-signed-between-2023-and-2025/"
-        }
-      ],
-      "ny": {
-        "title": "Boma la Malawi Laletsa Kulipira Mapangano Osainidwa mu 2023-2025",
-        "body": "Unduna wa Zachuma waletsa kulipira konse kwa mapangano a boma omwe adasainidwa pakati pa Seputembala 1, 2023 ndi Seputembala 1, 2025. Mlembi wa Zachuma Cliff Chiunda adalamula kuti kuwunikiraku kubwerezedwenso mu chikalata cholembedwa pa Meyi 29, 2026. Maofesi onse aboma ayenera kupereka tsatanetsatane wa mapanganowa ku Ofesi Yoyang'anira Maakaunti Yadziko Lonse ndi Attorney General pofika pa Juni 20, 2026.",
-        "body_more": "Mapangano oletsedwawa akuphatikizapo mapangano onse, zitsimikizo, mapangano ndi mapangano okhudzana ndi ntchito omwe adasainidwa nthawi imeneyo. Boma silidzalipira ntchito iliyonse kapena ntchito zokhudzana ndi mapanganowa mpaka kuwunikaku kutatha. Chiunda adapempha ndalama zoyambirira za mapangano, kusintha kulikonse kwa ndalama, zifukwa zomwe mitengo idakwera, komanso umboni woti njira yolondola yovomerezera idatsatiridwa.\n\nKatswiri wazachuma cha boma Dalitso Kubalasa adati kuwunikaku ndikofunikira. Adauza nyuzipepala ya The Nation kuti mavuto ambiri azachuma ku Malawi amachokera ku mapangano omwe adasainidwa mwakachetechete ndi zitsimikizo kapena zigawo zovomerezeka. \"Mapanganowa akawunikidwa bwino, sitikungoyang'ana zolakwika zamalamulo, koma m'malo mwake tikuteteza ndalama zomwe zimapangidwira zipatala, misewu, masukulu,\" adatero Kubalasa. Velli Nyirongo, katswiri wazachuma wochokera ku Scotland, adavomereza kuti kuwunikaku kungathandize kuzindikira mapangano omwe amaika boma pachiwopsezo kapena omwe ali ndi malamulo osalungama. Adati mayiko ena ataya ndalama zambiri kuchokera ku mapangano omwe sanagwirizane bwino.\n\nKatswiri wa kayendetsedwe ka makampani Jimmy Lipunga adati ntchitoyi ithandiza Treasury kumvetsetsa ndalama zobisika komanso chitsimikizo chomwe boma liyenera kulipira. Loya Benedicto Kondowe adachenjeza kuti boma liyenera kutsatira lamulo powunikira mapangano. \"Chisankho chilichonse chiyenera kutsatira njira yoyenera ndikuthandizidwa ndi umboni kuti Boma lisapatsidwe mlandu wovomerezeka,\" adatero.\n\nKuwunikanso kwa mgwirizanowu kukutsatira kuwunika kwa malipiro komwe kunayamba mu Disembala 2025. Cholinga cha cheke chimenecho chinali kupeza antchito osagwira ntchito ndikusiya kugwiritsa ntchito ndalama zambiri pa malipiro a boma, zomwe zidakwera kuchoka pa K479.6 biliyoni mu 2021-22 kufika pa K1.6 trilioni yomwe ikuyembekezeredwa mu 2025-26."
-      },
-      "ny_quality": 0.67
-    },
-    {
-      "id": "2026-06-03-new-tool-to-measure-malawi-s-social-progress-launc",
-      "tag": "society",
-      "published": "2026-06-03T11:06:11+00:00",
-      "en": {
-        "title": "New Tool to Measure Malawi's Social Progress Launched",
-        "body": "Mary Navicha, the Minister of Gender, Community Development and Social Welfare, launched the Umunthu Social Index on Tuesday in Lilongwe. The new tool will measure how well Malawi is making social progress and development. The launch took place at the Umunthu Social Impact Forum, where government leaders, businesses and aid groups met to plan for the future.",
-        "body_more": "Navicha told the forum that Malawi must find new ways to pay for development work at home. She said many aid groups rely too much on money from other countries. \"Some donors are withdrawing support from projects,\" she said. \"Organisations must rethink their funding models and innovate beyond traditional donor dependence.\" The minister said the forum helps people brainstorm ideas on how to improve lives using local resources.\n\nWilson Chivhanga, the chief executive of Thrive Afrika, said the new index is not meant to shame organisations. \"It is a mirror,\" he said. \"It helps us understand where we are performing well and where improvements are needed.\" The index will track how well Malawi's social impact ecosystem works. Early results show that communities participate well in projects, but the country faces challenges in using data and raising money locally.\n\nNavicha said the index comes at a critical time as Malawi works towards Malawi 2063, a plan for the nation to become wealthy and self-reliant. She noted that President Arthur Peter Mutharika has stressed the importance of Umunthu values, which teach that people must work together. She gave the example of the K5 billion Constituency Development Fund, which brings development money to all parts of the country. Ruth Kulaisi, the Conference Organising Chairperson, said the index will help track progress in health, education, civic participation and media access using evidence-based numbers."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/minister-urges-csos-to-reduce-dependence/"
-        },
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/new-umunthu-social-index-unveiled-to-measure-malawis-social-impact-and-development-progress/"
-        }
-      ],
-      "ny": {
-        "title": "Chida Chatsopano Choyesera Kupita Patsogolo kwa Anthu ku Malawi Chatsegulidwa",
-        "body": "Mary Navicha, Nduna ya za Jenda, Chitukuko cha Anthu ndi Ubwino wa Anthu, adayambitsa Umunthu Social Index Lachiwiri ku Lilongwe. Chida chatsopanochi chidzayesa momwe dziko la Malawi likuyendera bwino komanso chitukuko cha anthu. Kuyambitsaku kunachitika ku Umunthu Social Impact Forum, komwe atsogoleri a boma, mabizinesi ndi magulu othandizira adakumana kuti akonzekere tsogolo.",
-        "body_more": "Navicha adauza msonkhanowo kuti Malawi iyenera kupeza njira zatsopano zolipirira ntchito zachitukuko kunyumba. Iye adati magulu ambiri othandizira amadalira kwambiri ndalama zochokera kumayiko ena. \"Opereka ena akuchotsa thandizo kuchokera ku mapulojekiti,\" adatero. \"Mabungwe ayenera kuganiziranso njira zawo zopezera ndalama ndikusintha zinthu kupitirira kudalira opereka chithandizo.\" Ndunayo idati msonkhanowu umathandiza anthu kuganizira malingaliro amomwe angakulitsire miyoyo pogwiritsa ntchito zinthu zakomweko.\n\nWilson Chivhanga, mkulu wa Thrive Afrika, adati mndandanda watsopanowu sunapangidwe kuti uchititse manyazi mabungwe. \"Ndi galasi,\" adatero. \"Umatithandiza kumvetsetsa komwe tikuchita bwino komanso komwe kusintha kukufunika.\" Mndandandawu udzatsatira momwe chilengedwe cha Malawi chimakhudzira anthu. Zotsatira zoyambirira zikuwonetsa kuti madera akutenga nawo mbali bwino m'mapulojekiti, koma dzikolo likukumana ndi zovuta pakugwiritsa ntchito deta ndikusonkhanitsa ndalama zakomweko.\n\nNavicha adati mndandandawu ukubwera panthawi yofunika kwambiri pamene Malawi ikugwira ntchito ku Malawi 2063, dongosolo loti dzikolo likhale lolemera komanso lodzidalira. Adanenanso kuti Purezidenti Arthur Peter Mutharika wagogomezera kufunika kwa mfundo za Umunthu, zomwe zimaphunzitsa kuti anthu ayenera kugwira ntchito limodzi. Iye anapereka chitsanzo cha ndalama zokwana K5 biliyoni za Constituency Development Fund, zomwe zimabweretsa ndalama zachitukuko m'madera onse a dzikolo. Ruth Kulaisi, Wapampando Wokonzekera Msonkhano, anati mndandandawu uthandiza kutsata kupita patsogolo kwa zaumoyo, maphunziro, kutenga nawo mbali kwa anthu wamba komanso kupeza mwayi wofalitsa nkhani pogwiritsa ntchito manambala ozikidwa pa umboni."
-      },
-      "ny_quality": 0.616
-    },
-    {
-      "id": "2026-06-03-parliament-checks-new-diplomats-for-malawi",
-      "tag": "politics",
-      "published": "2026-06-03T07:00:38+00:00",
-      "en": {
-        "title": "Parliament checks new diplomats for Malawi",
-        "body": "Parliament's Public Appointments Committee is interviewing people chosen to be ambassadors and high commissioners for Malawi. The hearings started in Lilongwe on June 1 and will run until June 7, 2026. About 20 people are being checked to see if they can do the job well.",
-        "body_more": "The committee chair Felix Njawala said lawmakers want to understand how the nominees will help Malawi abroad. He said some people have worked as diplomats for many different governments over 15 to 20 years, and the committee is learning from their success.\n\nRight now, Malawi only asks that diplomats be Malawian citizens. There are no rules about school qualifications or work skills needed. Njawala said this may need to change because diplomacy is hard work today. The Foreign Ministry said it is writing new rules and will bring them to Parliament. The ministry also wants to start checking how well diplomats do their jobs, and to have clear rules about when to call them home.\n\nOn the first day, the committee spoke to four people: Benedicto Wokomaatani Malunga for the United Kingdom, Edward Sawerengera for the United States, Evans Matabwa for Germany, and Yusuf Aufi for Kenya. Sawerengera said he wants to bring American business and money to Malawi if the Parliament says yes. He said Malawi needs help to grow, and America has money and skill to share.\n\nExperts say Malawi has 25 diplomatic offices around the world. Some say these missions do not bring back enough trade, money, or visitors to pay for them. They say diplomats should focus on getting investment and trade, not just having nice parties. President Peter Mutharika has chosen 13 ambassadors, nine high commissioners, and four consul-generals. The committee will keep talking to the rest of the people chosen for places like South Africa, Tanzania, Egypt, China, and other countries."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/malawi-diplomats-role-faces-fresh-scrutiny/"
-        },
-        {
-          "name": "Daily Times",
-          "url": "https://times.mw/pac-members-query-new-diplomats-appointments/?utm_source=rss&utm_medium=rss&utm_campaign=pac-members-query-new-diplomats-appointments"
-        }
-      ],
-      "ny": {
-        "title": "Nyumba Yamalamulo ikuyang'ana akazembe atsopano ku Malawi",
-        "body": "Komiti Yoona za Kusankhidwa kwa Anthu ku Nyumba Yamalamulo ikukambirana ndi anthu omwe asankhidwa kukhala akazembe ndi makomishina akuluakulu a Malawi. Misonkhanoyi inayamba ku Lilongwe pa June 1 ndipo ipitilira mpaka June 7, 2026. Anthu pafupifupi 20 akuwunikidwa kuti awone ngati angathe kugwira ntchitoyo bwino.",
-        "body_more": "Wapampando wa komiti Felix Njawala anati opanga malamulo akufuna kumvetsetsa momwe osankhidwawo angathandizire Malawi kunja. Anati anthu ena agwira ntchito ngati ma diplomat m'maboma osiyanasiyana kwa zaka 15 mpaka 20, ndipo komitiyi ikuphunzira kuchokera ku kupambana kwawo.\n\nPakadali pano, Malawi ikupempha kuti ma diplomat akhale nzika za ku Malawi. Palibe malamulo okhudza ziyeneretso za kusukulu kapena luso la ntchito lomwe likufunika. Njawala anati izi zingafunike kusintha chifukwa ma diplomat ndi ntchito yovuta masiku ano. Unduna wa Zakunja unati ukulemba malamulo atsopano ndipo udzawabweretsa ku Nyumba Yamalamulo. Undunawu ukufunanso kuyamba kuwona momwe ma diplomat amachitira ntchito zawo bwino, komanso kukhala ndi malamulo omveka bwino okhudza nthawi yoti awaitanire kwawo.\n\nPa tsiku loyamba, komitiyi idalankhula ndi anthu anayi: Benedicto Wokomaatani Malunga wa ku United Kingdom, Edward Sawerengera wa ku United States, Evans Matabwa wa ku Germany, ndi Yusuf Aufi wa ku Kenya. Sawerengera adati akufuna kubweretsa mabizinesi aku America ndi ndalama ku Malawi ngati Nyumba Yamalamulo ivomereza. Anati Malawi ikufunika thandizo kuti ikule, ndipo America ili ndi ndalama ndi luso logawana.\n\nAkatswiri akuti Malawi ili ndi maofesi 25 a zandale padziko lonse lapansi. Ena amati mautumikiwa sabweretsa malonda okwanira, ndalama, kapena alendo okwanira kuti awalipire. Amati andale ayenera kuyang'ana kwambiri pakupeza ndalama ndi malonda, osati kungokhala ndi maphwando abwino. Purezidenti Peter Mutharika wasankha akazembe 13, makomishinala asanu ndi anayi, ndi akazembe anayi. Komitiyi ipitiliza kulankhula ndi anthu ena onse omwe asankhidwa m'malo monga South Africa, Tanzania, Egypt, China, ndi mayiko ena."
-      },
-      "ny_quality": 0.531,
-      "ny_needs_review": true
     }
   ]
 }
