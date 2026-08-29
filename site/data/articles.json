@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-29T11:33:03.662400+00:00",
+  "generated_at": "2026-08-29T19:39:40.070919+00:00",
   "articles": [
+    {
+      "id": "2026-08-29-cotton-crop-falls-short-by-more-than-half",
+      "tag": "economy",
+      "published": "2026-08-29T12:19:30+00:00",
+      "en": {
+        "title": "Cotton Crop Falls Short by More Than Half",
+        "body": "Malawi's cotton season closed this week with very low output. The country made 4,500 metric tonnes of cotton. This was far below the goal of 22,800 metric tonnes. Cotton output dropped by more than half from last year's 10,000 metric tonnes. The Cotton Council of Malawi and Cotton Farmers Association both confirmed the market closure on August 23, 2026.",
+        "body_more": "Only 7,000 farmers grew cotton this year, down from 26,000 last year. Yohane Jim, field manager at Malawi Cotton Company, said farmers left the sector because of problems from the previous year. The Cotton Management Information System is a digital platform that tracks cotton sales and payments. This system had big problems. Some farmers did not get their money on time. Other farmers did not get paid at all. Jim said this caused many farmers to stop growing cotton.\n\nTwo large cotton buying companies did not work this season. Malawi Cotton Company and Masapa Cotton Ginners both stayed away. They said the low amount of cotton made it not worth their time. Labson Zidana is president of the Cotton Farmers Association. He said prices were fair at K1,500 per kilogramme, which is the government price. But he said the total amount of cotton was very low, maybe only 5,000 metric tonnes.\n\nDuncan Warren is a cotton farmer and former chair of the Cotton Council. He said the government does not help the cotton sector grow. Since 2010, when the government paid for inputs and Malawi made 100,000 metric tonnes, output has stayed at about 10,000 metric tonnes. Warren said other countries use money to help farmers buy new seeds that grow better. Malawi does not do this. He said cotton is very important for making things in Malawi and for bringing in money from other countries. Without government help, the cotton sector will stay weak."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/low-cotton-output-dampens-season/"
+        },
+        {
+          "name": "Business Malawi",
+          "url": "https://www.businessmalawi.com/malawis-cotton-crisis-compromises-seasonal-economic-growth/"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-soldier-guilty-of-sexual-abuse-of-15-year-old-girl",
+      "tag": "society",
+      "published": "2026-08-29T11:35:14+00:00",
+      "en": {
+        "title": "Soldier Guilty of Sexual Abuse of 15-Year-Old Girl",
+        "body": "A soldier has been found guilty of having sex with a 15-year-old girl four times. Diof Simaone, age 36, works at Kamuzu Barracks in Lilongwe. The court heard the abuse happened between April and August 2025. The girl became pregnant. Sentencing will happen on Tuesday.",
+        "body_more": "The Senior Resident Magistrate Court in Lilongwe found Simaone guilty on Friday, August 28, 2026. The court is called a magistrate court — it is where a judge hears cases and decides if someone did wrong. Prosecutor Thandizo Chingaru told the court that Simaone had sex with the child four times. Three times happened at a guest house in Area 44. One time happened at Simaone's own house. The girl gave birth to a baby boy in January 2026.\n\nThe girl's mother works as a cleaner at Kamuzu Barracks. She reported what happened to Area 23 Police Unit, and police arrested Simaone. Prosecutor Chingaru asked the court to give the harshest punishment. He said Simaone was a military officer and should have protected the girl, not hurt her. A military officer is a soldier with a duty to keep people safe.\n\nSimaone asked the court for forgiveness. He told the magistrate he wanted to support the girl and the baby. He also asked the victim, her mother, the court, and the whole nation to forgive him. He said what he did was wrong. Simaone comes from Nakoka Village in Traditional Authority Mwambo in Zomba District.\n\nMagistrate Bracious Kondowe found Simaone guilty. Kondowe has not yet decided on the punishment. Simaone will learn his sentence on Tuesday next week."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/court-convicts-soldier-for-defiling-15-year-old-sentencing-set-for-tuesday/?utm_source=rss&utm_medium=rss&utm_campaign=court-convicts-soldier-for-defiling-15-year-old-sentencing-set-for-tuesday"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/malawi-court-convicts-mdf-soldier-diof-simaone-for-sexual-abuse-with-minor/"
+        }
+      ]
+    },
     {
       "id": "2026-08-29-miss-malawi-outfit-gets-mocked-on-social-media",
       "tag": "society",
@@ -22,9 +62,29 @@
       ]
     },
     {
+      "id": "2026-08-29-police-remove-all-traffic-aides-after-bribe-video",
+      "tag": "politics",
+      "published": "2026-08-29T07:58:00+00:00",
+      "en": {
+        "title": "Police remove all traffic aides after bribe video",
+        "body": "Malawi Police Service told all traffic aides to stop work on 27 August 2026. They must go back to normal duties at their stations. This follows a video that went viral on social media. The video showed a traffic police officer asking for K20,000 from a minibus driver in Blantyre. K20,000 is money. A bribe is money you give someone to do something wrong.",
+        "body_more": "The police order came from headquarters and affects police stations across all of Malawi. All regional police leaders and station heads must follow the order. If they do not follow it, they will face punishment. The message came from Lael Chitembo, the deputy director of human resource management at the police.\n\nPolice spokesperson Gladys Chiwaula and her deputy Alfred Chimthere did not answer calls or messages about the order. Police sources say traffic aides are officers sent from police headquarters to help in traffic work and criminal investigations. Attachés are officers sent by station or regional leaders. These officers have no special training.\n\nCoxley Kamange, secretary general of the Minibus Owners Association of Malawi, said well done to the police. He said the police are stopping corruption. He called on the Inspector General to arrest and take to court the traffic officer in the video. He said this officer brought shame to the police service.\n\nGovernance commentator Undule Mwakasungula said the order was right. He said the police chief has power over how police work and where police go. He said the order helps the police keep rules and send officers to the right places. But he said people must watch to see if removing traffic aides makes roads less safe."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/police-withdraw-traffic-aides-attaches/"
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/k20000-bribe-video-forces-police-to-clean-house-traffic-aides-sent-packing/?utm_source=rss&utm_medium=rss&utm_campaign=k20000-bribe-video-forces-police-to-clean-house-traffic-aides-sent-packing"
+        }
+      ]
+    },
+    {
       "id": "2026-08-29-president-mutharika-promises-better-funding-for-ri",
       "tag": "politics",
-      "published": "2026-08-29T05:30:23+00:00",
+      "published": "2026-08-29T07:37:00+00:00",
       "en": {
         "title": "President Mutharika promises better funding for rights body",
         "body": "President Arthur Peter Mutharika met with outgoing commissioners of the Malawi Human Rights Commission (MHRC) at Kamuzu Palace in Lilongwe. He promised that his government will give the Commission more money. The MHRC is a body that protects human rights in Malawi.",
@@ -38,6 +98,38 @@
         {
           "name": "Malawi24",
           "url": "https://malawi24.com/2026/08/29/mutharika-for-better-funded-mhrc/"
+        },
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/apm-pledges-better-funding-to-mhrc/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/peter-mutharika-hails-mhrc-commits-to-rights-protection/?utm_source=rss&utm_medium=rss&utm_campaign=peter-mutharika-hails-mhrc-commits-to-rights-protection"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/mutharika-committed-to-promote-human-rights/"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-29-water-board-boss-suspended-over-money-and-appointm",
+      "tag": "economy",
+      "published": "2026-08-29T07:18:00+00:00",
+      "en": {
+        "title": "Water Board Boss Suspended Over Money and Appointments",
+        "body": "Yeremia Chihana, chief of the Blantyre Water Board, is suspended again. The board says he did wrong things. He got money without asking. He appointed a person without permission. This is his second suspension in five months.",
+        "body_more": "On Thursday, 28 August 2026, the board suspended Chihana. Board chair Stanely Chirwa wrote the letter. Chihana faces three main charges. First, he wrote to the Secretary to the Treasury Cliff Chiunda. Chihana said the board approved a modernisation plan. Modernisation means making something new and better. But the board says this meeting never happened. Chihana falsely claimed the board gave approval at a March 15 2026 meeting.\n\nSecond, Chihana appointed Lon Zizwe as acting director of finance. He did this alone on August 17 2026. The board says only the board can make these appointments. The board letter says this appointment is invalid. Charles Msusa is the real acting director, not Zizwe.\n\nThird, Chihana obtained a K500 million overdraft facility from First Capital Bank. An overdraft is borrowed money. He did this on July 23 2026 without board approval. The board did not know about this money.\n\nChihana tells a different story. He says he is being punished because he refused to travel to Lilongwe for a meeting about a $13 million World Bank project. He claims the board did not follow the right process for this project. He says some board members want to stop reforms. Chihana says he will challenge the suspension in court. He is now barred from entering any board office and cannot contact staff or suppliers."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/chihana-suspended-again/"
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/chihana-explodes-my-suspension-is-about-world-bank-projects-not-misconduct/?utm_source=rss&utm_medium=rss&utm_campaign=chihana-explodes-my-suspension-is-about-world-bank-projects-not-misconduct"
         }
       ]
     },
@@ -13291,110 +13383,6 @@
         "body_more": "Mbeta akunena kuti aphungu atatu a MCP a Nyumba Yamalamulo — Emmanuel Chambulanyina Jere, Abraham Mwakhwawa ndi Daniel Chitonya Mwanyongo — si antchito kapena atsogoleri a MEC. Iye akuti sanawonetse momwe kusunthaku kuwapwetekera. \"Palibe aliyense mwa omwe akupempha kuti achite izi ndi membala kapena wantchito wa Malawi Electoral Commission,\" Mbeta akunena m'mapepala a khothi.\n\nWoyimira milandu wamkulu akuti MEC yokha yapita kale kukhothi pankhani yomweyi. Iye akuti palibe chifukwa choti aphungu atatuwa abweretse mlandu wina. Akulozera ku mlandu wakale wa khothi wokhudza wolimbikitsa ufulu wa anthu Limbani Phiri. Pankhaniyi, khothi linati opemphawo analibe udindo chifukwa sanatsimikizire kuti adakumana ndi mavuto mosiyana ndi anthu wamba. Mbeta akunena kuti aphungu a MCP ali pamalo omwewo.\n\nMbeta akunenanso kuti nkhaniyi siyenera kuonedwa ngati nkhani yokhudza malamulo. Iye akunena kuti aphungu akutsutsa momwe lamuloli linachitikira, osati lamulolo lokha. Mlanduwu unachokera ku Executive Order Number One ya 2025, yomwe Purezidenti Peter Mutharika adapereka kuti likulu la MEC lisamukire. Mlembi wa Purezidenti Justin Saidi adapereka lamulo pa February 27, 2026, kuti achite izi. Unduna wa Zamalo, Nyumba ndi Chitukuko cha Mizinda unaganiza zosakonzanso lendi ya MEC ku Lilongwe.\n\nPa June 5, 2026, Woweruza milandu Kenyatta Nyirenda adapatsa MCP ndi opanga malamulo atatu chilolezo chotsutsa kusamutsidwa kukhothi. Analetsanso boma kusamutsa MEC mpaka khothi litapanga chisankho. Tsopano Mbeta akufuna khothi lisinthe chilolezocho ndikuletsa lamulo loletsa."
       },
       "ny_quality": 0.654
-    },
-    {
-      "id": "2026-06-11-school-gives-full-scholarship-to-lone-girl-exam-ca",
-      "tag": "society",
-      "published": "2026-06-11T06:05:18+00:00",
-      "en": {
-        "title": "School gives full scholarship to lone girl exam candidate",
-        "body": "Maranatha Academy has given a full secondary school scholarship to Duwama Muhammad, a 16-year-old from Mangale Primary School in Mangochi. She was the only girl who took the 2026 Primary School Leaving Certificate of Education examinations at the school. Managing Director Dr Ernest Kaonga also gave her K500,000 per term for living costs.",
-        "body_more": "Duwama's achievement stands out in her community. Between 2017 and 2021, no girls sat for the examinations at Mangale Primary School. Her decision to take the exams shows courage in a place where many girls leave school early due to marriage and pregnancy.\n\nMangale Primary School Head Teacher Boniface Gomiwa said Duwama is a top student. He noted that the school faces serious problems. By 2024, it had only four classrooms and no houses for teachers. Some teachers walk up to 10 kilometres to reach the school. The school was built in 1975.\n\nDr Kaonga said the scholarship is an investment in Malawi's future. He stated: \"We believe every talented girl deserves a fair chance to reach her full potential, regardless of her background.\" The K500,000 per term will cover all her school needs so she can focus on her studies.\n\nCivil Society Education Coalition Executive Director Benedicto Kondowe praised the scholarship. He called on other people, schools and companies to help more poor girls stay in school. He said chiefs and community leaders must protect girls from early marriage and child labour. He also named successful women in Malawi — Vice President Dr Jane Ansah, Electoral Commission Chairperson Annabel Mtalimanja, and National Examinations Board Executive Director Dr Dorothy Nampota — as role models for girls to follow."
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/maranatha-academy-opens-doors-of-opportunity-for-mangochis-lone-pslce-girl-candidate/"
-        },
-        {
-          "name": "MBC",
-          "url": "https://mbc.mw/maranatha-girls-academy-offers-full-scholarship-to-mangale-learner/?utm_source=rss&utm_medium=rss&utm_campaign=maranatha-girls-academy-offers-full-scholarship-to-mangale-learner"
-        }
-      ],
-      "ny": {
-        "title": "Sukulu imapereka maphunziro onse kwa wophunzira yemwe ali ndi mayeso a mtsikana yekha",
-        "body": "Maranatha Academy yapereka ndalama zonse za sukulu ya sekondale kwa Duwama Muhammad, mtsikana wazaka 16 wochokera ku Sukulu ya Pulayimale ya Mangale ku Mangochi. Iye ndiye mtsikana yekhayo amene adalemba mayeso a 2026 Primary School Leaving Certificate of Education kusukuluyi. Mtsogoleri wamkulu Dr Ernest Kaonga adamupatsanso K500,000 pa semesita iliyonse yolipirira ndalama zogulira zinthu.",
-        "body_more": "Kupambana kwa Duwama kumawonekera kwambiri mdera lake. Pakati pa 2017 ndi 2021, palibe atsikana omwe adachita mayeso ku Sukulu ya Pulayimale ya Mangale. Kusankha kwake kulemba mayeso kukuwonetsa kulimba mtima pamalo omwe atsikana ambiri amasiya sukulu msanga chifukwa cha ukwati ndi mimba.\n\nMphunzitsi Wamkulu wa Sukulu ya Pulayimale ya Mangale, Boniface Gomiwa, adati Duwama ndi wophunzira wabwino kwambiri. Ananena kuti sukuluyi ikukumana ndi mavuto akulu. Pofika chaka cha 2024, inali ndi makalasi anayi okha ndipo inalibe nyumba za aphunzitsi. Aphunzitsi ena amayenda makilomita 10 kuti akafike kusukuluyi. Sukuluyi idamangidwa mu 1975.\n\nDr Kaonga adati maphunzirowa ndi ndalama zomwe zingathandize tsogolo la Malawi. Anati: \"Timakhulupirira kuti mtsikana aliyense waluso ayenera kukhala ndi mwayi wokwanira kuti akwaniritse luso lake lonse, mosasamala kanthu za mbiri yake.\" K500,000 pa semesita iliyonse idzakwaniritsa zosowa zake zonse kusukulu kuti athe kuyang'ana kwambiri maphunziro ake.\n\nMtsogoleri Wamkulu wa Civil Society Education Coalition, Benedicto Kondowe, adayamika maphunzirowa. Adapempha anthu ena, masukulu ndi makampani kuti athandize atsikana osauka ambiri kuti apitirize sukulu. Iye anati mafumu ndi atsogoleri ammudzi ayenera kuteteza atsikana ku ukwati wachinyamata komanso kugwiritsa ntchito ana mwankhanza. Anatchulanso akazi opambana ku Malawi — Wachiwiri kwa Purezidenti Dr. Jane Ansah, Wapampando wa Electoral Commission Annabel Mtalimanja, ndi Mtsogoleri Wamkulu wa National Examinations Board Dr. Dorothy Nampota — ngati zitsanzo zabwino kwa atsikana."
-      },
-      "ny_quality": 0.665
-    },
-    {
-      "id": "2026-06-11-poet-chiwamba-and-singer-sangie-join-music-and-poe",
-      "tag": "society",
-      "published": "2026-06-11T06:05:00+00:00",
-      "en": {
-        "title": "Poet Chiwamba and singer Sangie join music and poetry together",
-        "body": "Poet Robert Chiwamba and musician Sangie have made a new song and poem together. The work is called Chikondano. It is based on a Christian hymn. Chiwamba and Sangie take turns to sing and speak the words. Chikondano came out yesterday and got over 50,000 views on YouTube in one day.",
-        "body_more": "Chiwamba said music and poetry are like two sides of the same coin. \"Music is just the song form of spoken words,\" he said. He told a person yesterday that when artists work together from different types of art, they can reach each other's fans. \"We both get new ideas and make better art,\" he said.\n\nChikondano is the first song from Chiwamba's new album. The album is called Evangelist Shadreck Wame and will come out on August 3, 2026. It has eight songs and two poems. Sangie sings on all eight songs. This album marks Chiwamba's 15 years as a poet. He is the head of the Poetry Association of Malawi.\n\nChiwamba and Sangie have worked together two times before. Their first work was Ngwazi Zazikazi in 2018. This song won a big award from the European Union. It was the best communications work from a European Union project in the world. Their second work is Mtanda. It got 750,000 views on YouTube.\n\nSangie said she was happy to work with Chiwamba. She said the work brought her to new fans who like poetry. \"These people do not just listen to music. They think about the words,\" she said. Sangie is known for her song Mayi Wangwiro. Chiwamba told her to pick the hymns for the album. Some hymns Sangie knew. Others she had to learn when she first heard them. The song was made at Don Foxxy Productions. The video shows singers from St Peter's and Paul Balaka Anglican Parish."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/chiwamba-sangie-bring-out-the-beauty-in-music-poetry/"
-        },
-        {
-          "name": "Daily Times",
-          "url": "https://times.mw/robert-chiwamba-sangie-raise-music-poetry-connection/?utm_source=rss&utm_medium=rss&utm_campaign=robert-chiwamba-sangie-raise-music-poetry-connection"
-        }
-      ],
-      "ny": {
-        "title": "Wolemba ndakatulo Chiwamba ndi woimba Sangie akugwirizana nyimbo ndi ndakatulo",
-        "body": "Wolemba ndakatulo Robert Chiwamba ndi woimba nyimbo Sangie apanga nyimbo yatsopano ndi ndakatulo pamodzi. Ntchitoyi imatchedwa Chikondano. Imachokera pa nyimbo yachikhristu. Chiwamba ndi Sangie amasinthasintha kuyimba ndikulankhula mawu. Chikondano adatuluka dzulo ndipo adapeza ma view opitilira 50,000 pa YouTube tsiku limodzi.",
-        "body_more": "Chiwamba anati nyimbo ndi ndakatulo zili ngati mbali ziwiri za ndalama imodzi. \"Nyimbo ndi nyimbo chabe ya mawu olankhulidwa,\" adatero. Dzulo adauza munthu wina kuti ojambula akamagwira ntchito limodzi kuchokera ku mitundu yosiyanasiyana ya zaluso, amatha kufikira mafani a wina ndi mnzake. \"Tonsefe timapeza malingaliro atsopano ndikupanga zaluso zabwino,\" adatero.\n\nChikondano ndi nyimbo yoyamba kuchokera mu album yatsopano ya Chiwamba. Album iyi imatchedwa Evangelist Shadreck Wame ndipo idzatulutsidwa pa Ogasiti 3, 2026. Ili ndi nyimbo zisanu ndi zitatu ndi ndakatulo ziwiri. Sangie amaimba pa nyimbo zonse zisanu ndi zitatu. Album iyi ikukumbukira zaka 15 za Chiwamba monga wolemba ndakatulo. Iye ndi mtsogoleri wa Poetry Association of Malawi.\n\nChiwamba ndi Sangie agwira ntchito limodzi kawiri kale. Ntchito yawo yoyamba inali Ngwazi Zazikazi mu 2018. Nyimboyi idapambana mphoto yayikulu kuchokera ku European Union. Unali ntchito yabwino kwambiri yolumikizirana kuchokera ku projekiti ya European Union padziko lonse lapansi. Ntchito yawo yachiwiri ndi Mtanda. Idawonedwa ndi anthu 750,000 pa YouTube.\n\nSangie anati anali wokondwa kugwira ntchito ndi Chiwamba. Anati ntchitoyi inamubweretsa kwa mafani atsopano omwe amakonda ndakatulo. \"Anthu awa samangomvera nyimbo zokha. Amaganizira za mawu,\" adatero. Sangie amadziwika ndi nyimbo yake ya Mayi Wangwiro. Chiwamba anamuuza kuti asankhe nyimbo za mu album. Nyimbo zina zomwe Sangie ankadziwa. Zina anayenera kuphunzira atazimva koyamba. Nyimboyi inapangidwa ku Don Foxxy Productions. Kanemayo akuwonetsa oimba ochokera ku St Peter's ndi Paul Balaka Anglican Parish."
-      },
-      "ny_quality": 0.625
-    },
-    {
-      "id": "2026-06-11-fdh-bank-gives-k100m-to-team-malawi-for-commonweal",
-      "tag": "economy",
-      "published": "2026-06-11T05:42:53+00:00",
-      "en": {
-        "title": "FDH Bank gives K100m to Team Malawi for Commonwealth Games",
-        "body": "FDH Bank Plc gave K100 million to help Team Malawi get ready for the 2026 Commonwealth Games in Glasgow, Scotland. The games will happen from 23 July to 2 August. FDH Bank's Head of Personal Business Banking Daniel Pinto Khamula gave the money on Wednesday at a ceremony. Sports Ministry PS Jameson Ndalama and Malawi Olympic Committee Vice President Francis Kakhuta-Banda were there.",
-        "body_more": "Khamula said the bank sees this as a duty to help Malawi grow. \"We look at it as a national duty. It is a patriotic thing to do,\" he said. He told people that the private sector must help the country grow, not wait for others to do the work. \"We don't believe that this is something that other people need to do for us. We believe that as Malawians, we need to participate in our own growth,\" Khamula said. He added that the bank wants the money to push athletes to train hard and do well.\n\nMalawi National Council of Sports Acting Chief Executive Officer Ivy Chinangwa said the gift comes at the right time. She said companies and sports must work together so athletes have enough money to race well in other countries. Francis Kakhuta-Banda also asked other big companies to give money to help Team Malawi. \"Participation in international competitions requires substantial financial resources, and increased corporate support would help athletes focus on training and performance,\" Banda said.\n\nThis gift comes as FDH Bank grows bigger. On Thursday, at the bank's 19th Annual General Meeting, Managing Director Noel Mkulichi said the bank bought Ecobank Mozambique. Mkulichi said this move helps FDH Bank serve more people across Southern Africa and do trade with other countries. The bank's profit after tax was K147.8 billion for the year ending 31 December 2025. This is up from K74.1 billion the year before. Frank Harawa from the Minority Shareholders Association said the move into Mozambique is good for long-term growth."
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/fdh-bank-plc-injects-k100m-into-team-malawis-commonwealth-games/"
-        },
-        {
-          "name": "Maravi Post",
-          "url": "https://www.maravipost.com/fdh-bank-plc-deepens-regional-footprint-with-mozambique-expansion-strategy/"
-        }
-      ],
-      "ny": {
-        "title": "Banki ya FDH yapereka K100m ku Team Malawi pa Masewera a Commonwealth",
-        "body": "FDH Bank Plc yapereka K100 miliyoni kuti ithandize Team Malawi kukonzekera Masewera a Commonwealth a 2026 ku Glasgow, Scotland. Masewerawa adzachitika kuyambira pa 23 Julayi mpaka 2 Ogasiti. Mtsogoleri wa Banki ya Zamalonda ya FDH Bank, Daniel Pinto Khamula, adapereka ndalamazo Lachitatu pamwambo. Wapampando wa Unduna wa Zamasewera, Jameson Ndalama, ndi Wachiwiri kwa Purezidenti wa Komiti ya Olimpiki ya Malawi, Francis Kakhuta-Banda, analipo.",
-        "body_more": "Khamula anati banki ikuona izi ngati udindo wothandiza Malawi kukula. \"Timaona izi ngati udindo wa dziko. Ndi chinthu chokonda dziko,\" adatero. Anauza anthu kuti mabungwe achinsinsi ayenera kuthandiza dziko kukula, osati kudikira kuti ena agwire ntchitoyo. \"Sitikhulupirira kuti ichi ndi chinthu chomwe anthu ena ayenera kutichitira. Tikukhulupirira kuti monga a Malawi, tiyenera kutenga nawo mbali pakukula kwathu,\" adatero Khamula. Anawonjezera kuti banki ikufuna ndalamazo kuti ikakamize othamanga kuti azichita masewera olimbitsa thupi mwakhama komanso bwino.\n\nWoyang'anira wamkulu wa bungwe la Malawi National Council of Sports, Ivy Chinangwa, anati mphatsoyi ikubwera panthawi yoyenera. Anati makampani ndi masewera ayenera kugwirira ntchito limodzi kuti othamanga akhale ndi ndalama zokwanira kuti azitha kuthamanga bwino m'maiko ena. Francis Kakhuta-Banda adapemphanso makampani ena akuluakulu kuti apereke ndalama zothandizira Team Malawi. \"Kutenga nawo mbali pa mpikisano wapadziko lonse kumafuna ndalama zambiri, ndipo thandizo lowonjezera la makampani lingathandize othamanga kuyang'ana kwambiri pa maphunziro ndi magwiridwe antchito,\" adatero Banda.\n\nMphatso iyi ikubwera pamene FDH Bank ikukula. Lachinayi, pa Msonkhano Wapachaka wa Banki wa 19, Mtsogoleri Wamkulu Noel Mkulichi adati bankiyo idagula Ecobank Mozambique. Mkulichi adati izi zimathandiza FDH Bank kutumikira anthu ambiri ku South Africa konse komanso kuchita malonda ndi mayiko ena. Phindu la bankiyo pambuyo pa msonkho linali K147.8 biliyoni chaka chomwe chimatha pa 31 Disembala 2025. Izi zakwera kuchokera ku K74.1 biliyoni chaka chatha. Frank Harawa wochokera ku Minority Shareholders Association adati kusamukira ku Mozambique ndikwabwino pakukula kwanthawi yayitali."
-      },
-      "ny_quality": 0.653
-    },
-    {
-      "id": "2026-06-10-court-frees-east-bridge-tobacco-after-acb-loss",
-      "tag": "politics",
-      "published": "2026-06-10T12:00:16+00:00",
-      "en": {
-        "title": "Court Frees East Bridge Tobacco After ACB Loss",
-        "body": "A high court judge in Lilongwe has ruled that the Anti-Corruption Bureau (ACB) acted unlawfully when it stopped East Bridge from accessing tobacco held at Limbe Leaf Tobacco warehouses. Judge Redson Kapindu made the decision on Wednesday. The court said the ACB abused its power and must pay costs to East Bridge.",
-        "body_more": "East Bridge's lawyer, Chimwemwe Kalua, explained what happened. The ACB first issued a restriction notice in February this year. When that notice expired, the ACB issued a new one on May 19, 2026 instead of asking the court to renew the old one. Kalua argued this was wrong. The court agreed. \"The court has agreed with us that what the director did was an improper exercise of power,\" Kalua said. \"The process was irregular and illegal.\"\n\nThe ACB had stopped East Bridge from moving or selling its tobacco as part of a criminal investigation. The investigation started after the Ministry of Agriculture made a complaint. The ACB restricted tobacco held at several places: warehouses in Njewa and Kanengo in Lilongwe, and Luwinga in Mzuzu. The restricted tobacco belonged to East Bridge Tobacco Buying Limited, East Bridge Commodities and Logistics, and East Bridge Estate SRL. According to the ACB's acting chief Gabriel Chembezi, the tobacco was bought using K45.5 billion of public funds.\n\nThree years ago, the Malawi Government hired East Bridge to supply 600,000 metric tonnes of fertiliser. In return, East Bridge was to give the government agricultural produce such as tobacco and soya beans. The court's decision now means East Bridge can remove its tobacco from the warehouses and do business with it again. The ACB did not make any comment after the ruling."
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/east-bridge-wins-court-battle-against-acb-over-restriction-on-tobacco-stocks/"
-        },
-        {
-          "name": "Daily Times",
-          "url": "https://times.mw/court-rebuffs-acb/?utm_source=rss&utm_medium=rss&utm_campaign=court-rebuffs-acb"
-        }
-      ],
-      "ny": {
-        "title": "Khoti Lamasula Fodya wa East Bridge Pambuyo Pa Kutayika kwa ACB",
-        "body": "Woweruza milandu wa khoti lalikulu ku Lilongwe wagamula kuti bungwe lolimbana ndi ziphuphu (ACB) lachita zinthu mopanda lamulo pamene linaletsa East Bridge kugwiritsa ntchito fodya womwe uli m'nyumba zosungiramo zinthu za Limbe Leaf Tobacco. Woweruza milandu Redson Kapindu adapanga chisankho Lachitatu. Khotilo linati bungwe la ACB lidagwiritsa ntchito mphamvu zake molakwika ndipo liyenera kulipira ndalama ku East Bridge.",
-        "body_more": "Loya wa East Bridge, Chimwemwe Kalua, anafotokoza zomwe zinachitika. ACB idapereka chidziwitso choyamba choletsa malonda mu February chaka chino. Chidziwitsocho chitatha ntchito, ACB idapereka chatsopano pa Meyi 19, 2026 m'malo mopempha khothi kuti lisinthe chakale. Kalua adati izi zinali zolakwika. Khothi linavomereza. \"Khothi lavomerezana nafe kuti zomwe director adachita zinali kugwiritsa ntchito mphamvu molakwika,\" adatero Kalua. \"Ndondomekoyi inali yosaloledwa komanso yosaloledwa.\"\n\nACB idaletsa East Bridge kusuntha kapena kugulitsa fodya wake ngati gawo la kafukufuku waupandu. Kafukufukuyu adayamba Unduna wa Zaulimi utapereka madandaulo. ACB idaletsa fodya yomwe idachitikira m'malo angapo: m'nyumba zosungiramo katundu ku Njewa ndi Kanengo ku Lilongwe, ndi Luwinga ku Mzuzu. Fodya woletsedwayo anali wa East Bridge Tobacco Buying Limited, East Bridge Commodities and Logistics, ndi East Bridge Estate SRL. Malinga ndi mkulu wa ACB, Gabriel Chembezi, fodyayo idagulidwa pogwiritsa ntchito ndalama za boma za K45.5 biliyoni.\n\nZaka zitatu zapitazo, Boma la Malawi linalemba ntchito East Bridge kuti ipereke matani 600,000 a feteleza. Pobwezera, East Bridge inali kupatsa boma zokolola zaulimi monga fodya ndi soya. Chigamulo cha khoti tsopano chikutanthauza kuti East Bridge ikhoza kuchotsa fodya wake m'nyumba zosungiramo katundu ndikuchita bizinesi nayo kachiwiri. ACB sananene chilichonse pambuyo pa chigamulocho."
-      },
-      "ny_quality": 0.734
     }
   ]
 }
