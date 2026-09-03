@@ -1,10 +1,30 @@
 {
-  "generated_at": "2026-09-03T09:34:09.440529+00:00",
+  "generated_at": "2026-09-03T14:57:04.358194+00:00",
   "articles": [
+    {
+      "id": "2026-09-03-dpp-leader-attacks-speaker-over-party-unity",
+      "tag": "politics",
+      "published": "2026-09-03T14:40:11+00:00",
+      "en": {
+        "title": "DPP leader attacks Speaker over party unity",
+        "body": "The ruling Democratic Progressive Party is in conflict. Secretary General Peter Mukhito has attacked Speaker of Parliament Sameer Suleman. Mukhito says Suleman must respect President Arthur Peter Mutharika. He says no person is bigger than the party. The dispute started after Suleman held a press conference on Thursday.",
+        "body_more": "At the press conference, Suleman raised many problems. He spoke about the Salima water project. He spoke about passport delays. He spoke about power cuts from ESCOM and EGENCO. He spoke about NOCMA contracts, agriculture, mining and the tobacco sector. He also raised problems with the courts and prisons.\n\nMukhito says Suleman's role is to check the government. But he says Suleman must not create a second centre of power. Mukhito says Parliament, the Executive, and the Courts must stay separate. Mukhito told Suleman that senior party members must show restraint and respect. He says they must respect the President and the party.\n\nMukhito said that President Mutharika and the government were given a mandate by Malawians to govern and deliver development. He says the DPP recognises that the issues Suleman raised are important. But he says the party will not accept conduct that weakens the President's authority or creates unnecessary conflict. Mukhito said \"Political maturity demands consultation before confrontation.\" He said \"Accountability should strengthen Government, not paralyse it.\"\n\nThe conflict shows tension at the top of Malawi's government. Suleman holds two roles: he is Speaker of Parliament and he is on the DPP Central Executive Committee. Mukhito says Suleman must exercise the Speaker role with fairness to the Constitution. But Mukhito also says Suleman must remember that the DPP party put him in that position. The DPP says it will not hide wrongdoing, but it wants its leaders to stay united and focused on delivering development."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/dpp-issues-blistering-rebuke-to-speaker-over-competing-center-of-power/?utm_source=rss&utm_medium=rss&utm_campaign=dpp-issues-blistering-rebuke-to-speaker-over-competing-center-of-power"
+        },
+        {
+          "name": "Malawi24",
+          "url": "https://malawi24.com/2026/09/03/dpp-tears-into-itself-as-mukhito-takes-on-suleman/"
+        }
+      ]
+    },
     {
       "id": "2026-09-02-former-mera-boss-charged-with-hacking-president-s-",
       "tag": "politics",
-      "published": "2026-09-03T07:24:46+00:00",
+      "published": "2026-09-03T12:20:36+00:00",
       "en": {
         "title": "Former MERA boss charged with hacking President's phone",
         "body": "Collins Magalasi, the former boss of Malawi Energy Regulatory Authority (MERA), has been charged with aiding another person to commit a crime. He appeared before Chief Resident Magistrate Austin Banda on Wednesday. The court heard that Magalasi allegedly helped an IT expert hack the phone of President Peter Mutharika and senior government officials between June and August 2026.",
@@ -26,6 +46,70 @@
         {
           "name": "Nation Online",
           "url": "https://mwnation.com/police-claim-apm-hack-plot-in-magalasi-case/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/magalasi-bail-ruling-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=magalasi-bail-ruling-thursday"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-malawi-airports-lack-safety-equipment-inquiry-hear",
+      "tag": "politics",
+      "published": "2026-09-03T12:09:08+00:00",
+      "en": {
+        "title": "Malawi airports lack safety equipment, inquiry hears",
+        "body": "Parliament's Ad-hoc Committee investigating the June 10 2024 military plane crash that killed Vice-President Saulos Chilima and eight others heard yesterday that Malawi's airports lack key safety equipment and proper certification. Former acting director Samuel Kalua told the inquiry at Parliament Building in Lilongwe that airports need significant investment in navigation equipment and infrastructure.",
+        "body_more": "Kalua said Malawi's major airports were not certified partly because the Civil Aviation Authority faced its own deficiencies. He cited Mzuzu Airport, which was registered but not licensed. He explained that airport registration means checking whether an aerodrome has the runway, landing aids, safety systems and fencing required for safe aircraft operations.\n\nAt Kamuzu International Airport in Lilongwe, the instrument landing system was switched off because it was giving wrong guidance after it was not recalibrated for some time. Kalua said officers had to turn it off so pilots could land safely without wrong directions. Bakili Muluzi International Airport in Chileka, Blantyre has had no instrument landing system since 2010. This forces pilots to rely on their own judgement when landing.\n\nAt the time of the crash, Malawi's airports did not have voice and data recording equipment to preserve communications between pilots and air traffic controllers. Kalua said the system was only installed in 2025. He also said Malawi operated without radar for 27 years, and radar was installed in 2019. Kalua said aviation operations are hampered because airports are run under a government department rather than an adequately resourced aviation authority. He told the committee that running an airport under a department is subject to government bureaucracy.\n\nFormer briefing officer Mary Chirwa, who worked in the Department of Civil Aviation for 37 years, said she was on duty at Kamuzu International Airport on June 10 2024. She said Major Flora Seleman, the co-pilot, had filed a flight plan indicating the crew intended to use a different route after encountering bad weather on the normal route during a previous flight from Mzuzu to Lilongwe earlier that day."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/airports-in-dire-need-witness/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/ex-aviation-authority-chief-exposes-airport-safety-gaps/?utm_source=rss&utm_medium=rss&utm_campaign=ex-aviation-authority-chief-exposes-airport-safety-gaps"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-wanderers-coach-ready-for-big-match-against-simba",
+      "tag": "sport",
+      "published": "2026-09-03T12:05:30+00:00",
+      "en": {
+        "title": "Wanderers coach ready for big match against Simba",
+        "body": "Mighty Wanderers Football Club has a new interim coach. His name is MacDonald Nginde Mtetemera. He will lead Wanderers in a big match against Simba Sports Club from Tanzania. The match is at Bingu National Stadium in Lilongwe. It starts this coming Sunday. Wanderers need to win to move forward in the Caf Champions League competition.",
+        "body_more": "Mtetemera got the job after Bob Mpinganjira was stopped from coaching. This happened after Wanderers lost 2-1 to Ekhaya Football Club in the Airtel Top 8 final. That match was also at Bingu National Stadium.\n\nMtetemera says the team must stay together. He told fans: \"I want to ask the Wanderers family to stay united. There is nothing to stop us if we are united.\" He also said the match will be hard, but Wanderers can win. \"On paper it is a hard game,\" he said. \"But on the pitch it can be very different. We will try everything to move to the next round.\"\n\nWanderers asked all fans to help Mtetemera. The club said in a statement on Tuesday: \"We ask everyone to stand behind our new coach. Give him full help now.\" Mark Chimwenje is the Wanderers National Supporters' Chairperson. He also gave his help to Mtetemera. \"We have the best squad in the country,\" Chimwenje said. \"We need to stay united to reach our goal this year.\"\n\nTickets for the match cost K5,000 for a normal seat. VIP seats cost K25,000. The club will sell tickets on the day of the match. Wanderers will go to Tanzania next week for the second part of this tie. The team that wins will play either De Augsto or Fomboni in the next round."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/nothing-to-hold-us-back-mtetemera-rallies-wanderers-ahead-of-crucial-simba-clash/?utm_source=rss&utm_medium=rss&utm_campaign=nothing-to-hold-us-back-mtetemera-rallies-wanderers-ahead-of-crucial-simba-clash"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/mtetemera-ready-for-big-task/?utm_source=rss&utm_medium=rss&utm_campaign=mtetemera-ready-for-big-task"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-big-bullets-and-silver-strikers-ticket-prices-go-u",
+      "tag": "sport",
+      "published": "2026-09-03T12:01:16+00:00",
+      "en": {
+        "title": "Big Bullets and Silver Strikers ticket prices go up",
+        "body": "The Super League of Malawi has raised ticket prices for a big football match. FCB Nyasa Big Bullets will play Silver Strikers on Saturday at Mpira Stadium. Tickets for the open stand now cost K15,000. They cost K10,000 before. The price went up because the stadium is small.",
+        "body_more": "Mpira Stadium can hold only 3,000 people. The match is very important. Many fans want to see it. The Super League raised prices to control how many people come. SULOM Vice-General Secretary Donnex Chilonga said the small stadium needs fewer fans. \"Mpira Stadium is a small facility for this type of match. That is why we have increased the gate charges to control the crowd,\" Chilonga said.\n\nThe league also made other changes for safety. They will sell tickets only on match day. This stops fake tickets. More police and stewards will work at the match. Gates will open early. There will be more places to buy tickets. This will stop long lines at the gates.\n\nAlbert Chigoga is the Chief Executive Officer of Big Bullets. He said the club is ready. \"We have increased the number of security agencies. There is additional security personnel,\" Chigoga said. The match is very important for the title race. Silver Strikers leads the table with 29 points. Big Bullets is fourth with 27 points. The winner will move up in the race for the title."
+      },
+      "sources": [
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/gate-charges-raised-50-for-bullets-silver-strikers-showdown/?utm_source=rss&utm_medium=rss&utm_campaign=gate-charges-raised-50-for-bullets-silver-strikers-showdown"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/sulom-hikes-bullets-silver-match-charges/?utm_source=rss&utm_medium=rss&utm_campaign=sulom-hikes-bullets-silver-match-charges"
         }
       ]
     },
@@ -13091,110 +13175,6 @@
         "body_more": "A Scorchers adapambana mpikisanowu atagonjetsa Angola 2-0 pamasewera onse. Masewera awo a Gulu C ndi awa: Nigeria pa 28 Julayi pa Al Madina Stadium ku Rabat, Egypt pa 1 Ogasiti pa Moulay Hassan Stadium ku Rabat, ndi Zambia pa 5 Ogasiti pa Al Madina Stadium ku Rabat.\n\nMagulu awiri apamwamba okha kuchokera mu gulu lililonse ndi omwe adzapita ku kotala fainali. Osewera mu semi-final adzapita ku Fifa Women's World Cup chaka chamawa ku Brazil. Osewera mu kotala fainali adzasewera malo ena a World Cup.\n\nA Scorchers akhala ndi zotsatira zosiyana mpikisano usanachitike. Adagonja 5-0 ndi Australia ndi 3-2 ndi India pa Fifa Women's Series ku Nairobi, Kenya, mu Epulo. Kumayambiriro kwa Juni, adagonja 1-0 ndi Tanzania ndipo adagonja 0-0 pamasewera ochezeka ku Dar es Salaam, Tanzania. Kupambana komaliza kwa timuyi kunali pa mpikisano wa 2025 Cosafa Women's Championship mu Januwale, pomwe idagonjetsa Lesotho 8-1 ndi Angola 1-0 ku Old Peter Mokaba Stadium ku Polokwane, South Africa.\n\nMphunzitsi Lovemore Fazili adati timuyi yakonzeka. \"Taphunzira zambiri kuchokera ku mpikisanowu ku Tanzania ndipo izi zitithandiza kukonzekera bwino masewera omaliza a Wafcon. Osewera ambiri andipatsa chifukwa chokhulupirira kuti tili panjira yoyenera komanso okonzeka mpikisanowu,\" adatero. Katswiri wa zamasewera Parry Chinyama adati timuyi ikufunika kusintha. \"Pali malo oti tisinthe. Ndikukhulupirira kuti gulu laukadaulo lidzathetsa zofookazo mpikisano usanachitike,\" adatero."
       },
       "ny_quality": 0.831
-    },
-    {
-      "id": "2026-06-17-church-gives-k11-5-million-help-to-storm-victims-i",
-      "tag": "society",
-      "published": "2026-06-17T11:50:42+00:00",
-      "en": {
-        "title": "Church Gives K11.5 Million Help to Storm Victims in Dowa",
-        "body": "A church group gave money and help to 155 families hit by bad storms in Dowa. On 17 June 2026, the church brought iron sheets and plastic covers to Kashangula Ground. The hailstorm came on 6 June 2026 and damaged homes and crops. Apostle Clifford Kawinga led the Salvation For All Ministries International group.",
-        "body_more": "The hailstorm on 6 June 2026 brought heavy rain and large pieces of ice. The storm tore iron sheets from roofs and broke homes. It also flattened maize fields and other crops. Many families had no safe place to sleep. They stayed under torn plastic sheets or in broken houses.\n\nApostle Kawinga said the church wanted to help families rebuild. \"Eleven days ago, the hailstorms stole roofs and destroyed crops,\" he said. \"Today, we have come to Kashangula not only to pray with them but also to help them rebuild.\" Each family got iron sheets and plastic covers to fix their homes.\n\nThe church checked which families needed the most help. The 155 families got the help at Kashangula Ground, in the area of Village Head Kashangula and Senior Chief Inkosi Mponela. The relief materials were worth K11.5 million. The church said the storm hit parts of both Dowa and Lilongwe.\n\nApostle Kawinga said the church will do more work. The Salvation For All Ministries International group will watch how families rebuild. The church also plans to build new houses for the affected families. The group said this will help families rebuild their lives and feel hope again."
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/apostle-kawingas-ministry-delivers-k11-5-million-lifeline-to-155-hailstorm-victims-in-dowa/?utm_source=rss&utm_medium=rss&utm_campaign=apostle-kawingas-ministry-delivers-k11-5-million-lifeline-to-155-hailstorm-victims-in-dowa"
-        },
-        {
-          "name": "Maravi Post",
-          "url": "https://www.maravipost.com/apostle-kawingas-salvation-ministries-reaches-out-dowa-communities-with-humanitarian-aid/"
-        }
-      ],
-      "ny": {
-        "title": "Tchalitchi Chapereka Thandizo la K11.5 Miliyoni kwa Omwe Anakhudzidwa ndi Mphepo Yamkuntho ku Dowa",
-        "body": "Gulu la mpingo linapereka ndalama ndi kuthandiza mabanja 155 omwe anakhudzidwa ndi mphepo yamkuntho ku Dowa. Pa 17 June 2026, tchalitchicho chinabweretsa mapepala achitsulo ndi zophimba zapulasitiki ku Kashangula Ground. Mvula yamkuntho inagwa pa 6 June 2026 ndipo inawononga nyumba ndi mbewu. Mtumwi Clifford Kawinga anatsogolera gulu la Salvation For All Ministries International.",
-        "body_more": "Mvula yamkuntho ya pa 6 June 2026 inabweretsa mvula yamphamvu ndi chisanu chachikulu. Mphepo yamkuntho inang'amba mapepala achitsulo padenga ndikuswa nyumba. Inaphwanyanso minda ya chimanga ndi mbewu zina. Mabanja ambiri analibe malo abwino ogona. Anakhala pansi pa mapepala apulasitiki osweka kapena m'nyumba zosweka.\n\nApostle Kawinga anati tchalitchichi chikufuna kuthandiza mabanja kumanganso nyumba. \"Masiku khumi ndi limodzi apitawo, mvula yamkuntho inaba madenga ndikuwononga mbewu,\" adatero. \"Lero, tabwera ku Kashangula osati kungopemphera nawo komanso kuwathandiza kumanganso nyumba.\" Banja lililonse linalandira mapepala achitsulo ndi zophimba zapulasitiki kuti akonze nyumba zawo.\n\nTchalitchichi chinayang'ana mabanja omwe amafunikira thandizo kwambiri. Mabanja 155 adalandira thandizo ku Kashangula Ground, mdera la Village Head Kashangula ndi Senior Chief Inkosi Mponela. Zipangizo zothandizira zinali zamtengo wapatali wa K11.5 miliyoni. Tchalitchichi chinati mphepo yamkunthoyo inagunda mbali zina za Dowa ndi Lilongwe.\n\nApostle Kawinga anati tchalitchichi chichita ntchito yambiri. Gulu la Salvation For All Ministries International lidzayang'ana momwe mabanja amamangiranso nyumba. Tchalitchichi chikukonzekeranso kumanga nyumba zatsopano za mabanja omwe akhudzidwa. Gululo linati izi zithandiza mabanja kumanganso miyoyo yawo ndikukhalanso ndi chiyembekezo."
-      },
-      "ny_quality": 0.611
-    },
-    {
-      "id": "2026-06-17-girl-from-mangochi-wins-big-scholarship-to-study-i",
-      "tag": "society",
-      "published": "2026-06-17T09:48:16+00:00",
-      "en": {
-        "title": "Girl from Mangochi Wins Big Scholarship to Study in India",
-        "body": "Duwama Muhammad, a student from Mangochi, has won a full scholarship to study at Sharda University in India. She is already studying at Maranatha Academy with help from a scholarship. Ernest Kaonga, the director of Maranatha Academy, helped her get this new chance. The university will pay for all her school costs in India.",
-        "body_more": "Muhammad sat her Primary School Leaving Certificate of Education exams at Mangale Primary School in Mangochi. She was the first girl to take these tests at that school since 2017. After she finishes her secondary school work, she will be able to go to Sharda University in India to study.\n\nSharda University said in a statement that it was very happy with what Maranatha Academy is doing. The university said it was impressed that Maranatha Academy paid for Muhammad's whole secondary school education. Because of this, the university chose to give her a place to study in India after she finishes secondary school.\n\nErnest Kaonga, the director of Maranatha Academy, worked hard to help Muhammad get this chance. Sharda University said thank you to Kaonga for opening doors to good education for young people. The university said it wants to help young people grow, find their best talents, and become leaders in the world.\n\nMuhammad is now waiting for her Standard 8 exam results. The scholarship will help her go to university in India and study there. This chance is very big for her family and for Malawi. It shows how hard work and help from good people can change a young person's life and give them chances to learn in other countries."
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/ernest-kaongas-heart-for-education-shines-as-mangochi-girl-earns-prestigious-india-scholarship/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-kaongas-heart-for-education-shines-as-mangochi-girl-earns-prestigious-india-scholarship"
-        },
-        {
-          "name": "MBC",
-          "url": "https://mbc.mw/more-doors-open-for-muhammad/?utm_source=rss&utm_medium=rss&utm_campaign=more-doors-open-for-muhammad"
-        }
-      ],
-      "ny": {
-        "title": "Mtsikana wochokera ku Mangochi Wapambana Maphunziro Aakulu Ophunzirira ku India",
-        "body": "Duwama Muhammad, wophunzira wochokera ku Mangochi, wapambana maphunziro onse ophunzirira ku Sharda University ku India. Akuphunzira kale ku Maranatha Academy mothandizidwa ndi maphunziro. Ernest Kaonga, mkulu wa Maranatha Academy, adamuthandiza kupeza mwayi watsopanowu. Yunivesiteyo imulipirira ndalama zonse zolipirira sukulu yake ku India.",
-        "body_more": "Muhammad adachita mayeso ake a Primary School Leaving Certificate of Education ku Mangale Primary School ku Mangochi. Iye anali mtsikana woyamba kulemba mayeso amenewa kusukulu imeneyo kuyambira 2017. Akamaliza ntchito yake ya sekondale, adzatha kupita ku Sharda University ku India kukaphunzira.\n\nSharda University inanena m'mawu ake kuti ikusangalala kwambiri ndi zomwe Maranatha Academy ikuchita. Yunivesiteyo inati yasangalala kwambiri kuti Maranatha Academy yalipira maphunziro onse a Muhammad ku sekondale. Chifukwa cha izi, yunivesiteyo inasankha kumupatsa malo ophunzirira ku India akamaliza sukulu ya sekondale.\n\nErnest Kaonga, mkulu wa Maranatha Academy, adagwira ntchito mwakhama kuti athandize Muhammad kupeza mwayi umenewu. Sharda University yati zikomo kwa Kaonga chifukwa chotsegula zitseko za maphunziro abwino kwa achinyamata. Yunivesiteyo yati ikufuna kuthandiza achinyamata kukula, kupeza maluso awo abwino, ndikukhala atsogoleri padziko lonse lapansi.\n\nMuhammad tsopano akuyembekezera zotsatira zake za mayeso a Standard 8. Maphunzirowa amuthandiza kupita ku yunivesite ku India ndikuphunzira kumeneko. Mwayi uwu ndi waukulu kwambiri kwa banja lake komanso ku Malawi. Zimasonyeza momwe kugwira ntchito mwakhama ndi thandizo lochokera kwa anthu abwino kungasinthire moyo wa wachinyamata ndikumupatsa mwayi wophunzira m'maiko ena."
-      },
-      "ny_quality": 0.691
-    },
-    {
-      "id": "2026-06-17-muluzi-democracy-won-but-malawi-still-fights-pover",
-      "tag": "politics",
-      "published": "2026-06-17T06:44:40+00:00",
-      "en": {
-        "title": "Muluzi: Democracy Won, But Malawi Still Fights Poverty",
-        "body": "Former president Bakili Muluzi says democracy alone is not enough for Malawi. On June 14, 1993, Malawians voted to end one-party rule. Muluzi led the fight against dictator Kamuzu Banda and won the 1994 election. Now, 33 years later, he says people need food and jobs, not just freedom to speak.",
-        "body_more": "Muluzi told the press that Malawi won the battle for political freedoms, but millions of people still live in poverty. \"Democracy alone is not enough,\" he said. \"People have to eat. We have to liberalise our economy because poverty levels are very high.\"\n\nDuring his own time as president, Muluzi said he tried to fight poverty. He started the Malawi Social Action Fund (Masaf) and gave free primary school to all children. But he said more work needed to be done. He admitted that even these steps were not enough to help people escape hunger and unemployment.\n\nMuluzi also spoke about the dangers he faced when he worked inside the one-party state. He said he was arrested seven times in 1992. Police held him at Chichiri Prison. He remembered how supporters of Kamuzu Banda called democracy fighters \"abongololo\" — millipedes — to insult them. People were forced to buy party cards to see doctors in public hospitals. Even unborn babies needed cards. After three Cabinet ministers and one MP died in the 1983 Mwanza Accident, Muluzi and others decided the country needed change. He left the Malawi Congress Party in 1981 and helped start a secret group to push for democracy. \"I can only thank God that I came out alive,\" he said. When he became president in 1994, Muluzi set up an inquiry into the Mwanza deaths. Evidence showed the people were killed, not lost in an accident. The inquiry gave answers to grieving families."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/muluzi-on-democracy/"
-        },
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/democracy-alone-is-not-enough-people-must-eat-bakili-muluzi-says-malawis-freedom-dream-remains-unfinished/?utm_source=rss&utm_medium=rss&utm_campaign=democracy-alone-is-not-enough-people-must-eat-bakili-muluzi-says-malawis-freedom-dream-remains-unfinished"
-        }
-      ],
-      "ny": {
-        "title": "Muluzi: Demokalase Yapambana, Koma Malawi Ikumenyabe Umphawi",
-        "body": "Purezidenti wakale Bakili Muluzi akuti demokalase yokha sikokwanira ku Malawi. Pa June 14, 1993, anthu aku Malawi adavota kuti athetse ulamuliro wa chipani chimodzi. Muluzi adatsogolera nkhondo yolimbana ndi wolamulira wankhanza Kamuzu Banda ndipo adapambana chisankho cha 1994. Tsopano, patatha zaka 33, akunena kuti anthu amafunikira chakudya ndi ntchito, osati ufulu wolankhula wokha.",
-        "body_more": "Muluzi adauza atolankhani kuti Malawi idapambana nkhondo yomenyera ufulu wandale, koma anthu mamiliyoni ambiri akukhalabe mu umphawi. \"Demokalase yokha sikokwanira,\" adatero. \"Anthu ayenera kudya. Tiyenera kumasula chuma chathu chifukwa umphawi ndi wokwera kwambiri.\"\n\nPanthawi yake monga purezidenti, Muluzi adati adayesetsa kulimbana ndi umphawi. Adayambitsa Malawi Social Action Fund (Masaf) ndipo adapereka sukulu ya pulayimale yaulere kwa ana onse. Koma adati ntchito yambiri iyenera kuchitika. Adavomereza kuti ngakhale njira izi sizinali zokwanira kuthandiza anthu kuthawa njala ndi kusowa ntchito.\n\nMuluzi adalankhulanso za zoopsa zomwe adakumana nazo pamene ankagwira ntchito m'boma la chipani chimodzi. Adati adamangidwa kasanu ndi kawiri mu 1992. Apolisi adamugwira ku Chichiri Prison. Adakumbukira momwe othandizira Kamuzu Banda adatcha omenyera ufulu wa demokalase \"abongololo\" - ma millipedes - kuti awanyoze. Anthu adakakamizika kugula makadi achipani kuti akawone madokotala m'zipatala za boma. Ngakhale makanda osabadwa amafunikira makadi. Nduna zitatu za Cabinet ndi MP m'modzi atamwalira mu ngozi ya Mwanza mu 1983, Muluzi ndi ena adaganiza kuti dzikolo likufunika kusintha. Iye anasiya chipani cha Malawi Congress mu 1981 ndipo anathandiza kuyambitsa gulu lachinsinsi lolimbikitsa demokalase. \"Ndingothokoza Mulungu kuti ndinatuluka ndili moyo,\" adatero. Pamene anakhala purezidenti mu 1994, Muluzi anayambitsa kafukufuku wokhudza imfa za anthu a ku Mwanza. Umboni unasonyeza kuti anthuwo anaphedwa, osati atatayika pangozi. Kafukufukuyo anapereka mayankho kwa mabanja omwe anali ndi chisoni."
-      },
-      "ny_quality": 0.741
-    },
-    {
-      "id": "2026-06-17-vice-president-ansah-says-malawians-judge-for-them",
-      "tag": "politics",
-      "published": "2026-06-17T06:21:54+00:00",
-      "en": {
-        "title": "Vice President Ansah Says Malawians Judge for Themselves",
-        "body": "Vice President Jane Ansah has spoken about her role in government. She said people see what happens and make their own choices about it. Ansah gave an interview to Luntha Television on Tuesday. She said her work with the President is good and professional.",
-        "body_more": "Ansah talked about how she speaks with the President. She said she sends memos to him about her work, and he always sends back answers. \"When ambassadors from different countries came, I would write a memo to the President and a response would come,\" she said. \"So my relationship is good.\"\n\nThe Vice President explained that the Constitution does not give the Vice President a fixed job. Instead, the President decides what work she will do. During her eight months in office, Ansah said she did only the tasks the President gave her. One of her main jobs was work with the Department of Disaster Management Affairs, or DoDMA. She visited places like Nsanje and checked storage buildings to see if the country was ready for disasters. She said she found problems and told officials to fix them before the rainy season came.\n\nAnsah also answered questions about a trip to the United Kingdom in November. She said she asked the President for permission to go and collect her things after she moved to Malawi for campaign work. She said even while she was away, she could still work with DoDMA because preparations were already in place.\n\nWhen asked about reports that some of her duties were taken away, Ansah said the President has the power to give and take work. She said she had no comment on this because it is the President's choice under the Constitution. She also said that people will talk and she cannot stop them. \"Malawians here see things as they happen and they have their own expectations,\" she said. \"People will judge for themselves.\""
-      },
-      "sources": [
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/malawians-are-seeing-things-for-themselves-jane-ansah-breaks-silence-as-questions-over-her-treatment-refuse-to-fade/?utm_source=rss&utm_medium=rss&utm_campaign=malawians-are-seeing-things-for-themselves-jane-ansah-breaks-silence-as-questions-over-her-treatment-refuse-to-fade"
-        },
-        {
-          "name": "Malawi24",
-          "url": "https://malawi24.com/2026/06/17/jane-answers/"
-        }
-      ],
-      "ny": {
-        "title": "Wachiwiri kwa Purezidenti Ansah Ati Amalawi Adziweruza Okha",
-        "body": "Wachiwiri kwa Purezidenti Jane Ansah walankhula za udindo wake m'boma. Iye anati anthu amaona zomwe zimachitika ndipo amasankha okha. Ansah adayankhulana ndi Luntha Television Lachiwiri. Iye adati ntchito yake ndi Purezidenti ndi yabwino komanso yaukadaulo.",
-        "body_more": "Ansah adalankhula za momwe amalankhulira ndi Purezidenti. Anati amamutumizira makalata okhudza ntchito yake, ndipo nthawi zonse amatumiza mayankho. \"Akazembe ochokera kumayiko osiyanasiyana akabwera, ndimalemba kalata kwa Purezidenti ndipo yankho limabwera,\" adatero. \"Chifukwa chake ubale wanga ndi wabwino.\"\n\nWachiwiri kwa Purezidenti adafotokoza kuti Malamulo sapatsa Wachiwiri kwa Purezidenti ntchito yokhazikika. M'malo mwake, Purezidenti amasankha ntchito yomwe angachite. Pa miyezi isanu ndi itatu yomwe adakhala muulamuliro, Ansah adati amangogwira ntchito zomwe Purezidenti adamupatsa. Imodzi mwa ntchito zake zazikulu inali kugwira ntchito ndi Dipatimenti Yoona za Masoka, kapena DoDMA. Anapita kumadera ngati Nsanje ndikuyang'ana nyumba zosungiramo zinthu kuti awone ngati dzikolo lakonzeka masoka. Anati adapeza mavuto ndipo adauza akuluakulu kuti awakonze nyengo yamvula isanafike.\n\nAnsah adayankhanso mafunso okhudza ulendo wopita ku United Kingdom mu Novembala. Anati adapempha chilolezo kwa Purezidenti kuti apite kukatenga zinthu zake atasamukira ku Malawi kukagwira ntchito yokopa anthu. Anati ngakhale ali kutali, akhoza kugwirabe ntchito ndi DoDMA chifukwa kukonzekera kunali kale.\n\nAtafunsidwa za malipoti akuti ntchito zina zake zinachotsedwa, Ansah adati Purezidenti ali ndi mphamvu zopereka ndi kutenga ntchito. Iye anati alibe ndemanga pa izi chifukwa ndi chisankho cha Purezidenti malinga ndi Malamulo Oyendetsera Dziko. Ananenanso kuti anthu adzalankhula ndipo sangawaletse. \"Anthu aku Malawi kuno amaona zinthu momwe zimachitikira ndipo ali ndi ziyembekezo zawo,\" adatero. \"Anthu adzadziweruza okha.\""
-      },
-      "ny_quality": 0.67
     }
   ]
 }
