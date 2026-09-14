@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:55:12.853218+00:00",
+  "generated_at": "2026-09-14T20:51:04.937398+00:00",
   "articles": [
     {
       "id": "2026-09-14-court-gives-bail-to-dpp-strategist-magalasi-in-two",
@@ -110,6 +110,30 @@
       ]
     },
     {
+      "id": "2026-09-14-nico-group-backs-queens-for-world-cup-bid",
+      "tag": "sport",
+      "published": "2026-09-14T11:03:17+00:00",
+      "en": {
+        "title": "Nico Group backs Queens for World Cup bid",
+        "body": "Nico Holdings has told the Malawi National Netball Team to try hard at the African Netball Cup. The team will play in Kenya starting 19 September. If the Queens finish in the top two, they can go to the 2027 Netball World Cup in Sydney, Australia. Nico is the team's main money supporter.",
+        "body_more": "Taweni Gondwe-Xaba is the head of marketing at Nico Holdings. She spoke at a send-off event in Blantyre before the team flew to Nairobi on Sunday. She said: \"We are very sure the team will do well. We look at their results and we trust their coach.\"\n\nThe Queens are ranked eighth in the world now. This is better than ninth, but they did not get automatic entry to the World Cup. Only the top seven teams get in without playing more games. So Malawi must finish first or second at the African Cup to go to the World Cup.\n\nCoach Debbie Fuller said the team is ready. She came from New Zealand. \"We have made our game much better,\" she said. \"We are faster and more correct now. We will qualify.\" The team took 15 players to Kenya. Star shooter Mwawi Kumwenda-M'bwana is in the squad. Captain Takondwa Lwazi plays centre. Tendai Masamba is also a shooter. Thandi Galeta came back to the team after missing the Commonwealth Games. Other players are Prisca Banda, Mphatso Kanyimbo, Chimwemwe Dzanja, Ethel Ng'ambi, Florence Jeke, Stella Matelezi, Martha Dambo, Shabel Bengo, Sophilet Banda, Aisha Gama and Melia Soko.\n\nThe Queens play in Pool 2. They will face Uganda, Zambia, Kenya, and Nigeria. \"We know it will be hard,\" said Lwazi. \"But we are ready to win and go to the World Cup.\" The tournament runs until 26 September."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/nico-group-dares-queens-to-qualify-for-world-cup/"
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/nico-backs-malawi-queens-for-africa-cup-glory-world-cup-ticket/?utm_source=rss&utm_medium=rss&utm_campaign=nico-backs-malawi-queens-for-africa-cup-glory-world-cup-ticket"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/nico-gives-queens-hearty-sendoff/?utm_source=rss&utm_medium=rss&utm_campaign=nico-gives-queens-hearty-sendoff"
+        }
+      ]
+    },
+    {
       "id": "2026-09-14-wanderers-lose-6-1-to-simba-exit-champions-league",
       "tag": "sport",
       "published": "2026-09-14T07:57:12+00:00",
@@ -130,26 +154,6 @@
         {
           "name": "Maravi Post",
           "url": "https://www.maravipost.com/2026-27-caf-champions-league-simba-roar-past-nomads/"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-14-nico-group-backs-queens-for-world-cup-bid",
-      "tag": "sport",
-      "published": "2026-09-14T07:53:05+00:00",
-      "en": {
-        "title": "Nico Group backs Queens for World Cup bid",
-        "body": "Nico Holdings has told the Malawi National Netball Team to try hard at the African Netball Cup. The team will play in Kenya starting 19 September. If the Queens finish in the top two, they can go to the 2027 Netball World Cup in Sydney, Australia. Nico is the team's main money supporter.",
-        "body_more": "Taweni Gondwe-Xaba is the head of marketing at Nico Holdings. She spoke at a send-off event in Blantyre before the team flew to Nairobi on Sunday. She said: \"We are very sure the team will do well. We look at their results and we trust their coach.\"\n\nThe Queens are ranked eighth in the world now. This is better than ninth, but they did not get automatic entry to the World Cup. Only the top seven teams get in without playing more games. So Malawi must finish first or second at the African Cup to go to the World Cup.\n\nCoach Debbie Fuller said the team is ready. She came from New Zealand. \"We have made our game much better,\" she said. \"We are faster and more correct now. We will qualify.\" The team took 15 players to Kenya. Star shooter Mwawi Kumwenda-M'bwana is in the squad. Captain Takondwa Lwazi plays centre. Tendai Masamba is also a shooter. Thandi Galeta came back to the team after missing the Commonwealth Games. Other players are Prisca Banda, Mphatso Kanyimbo, Chimwemwe Dzanja, Ethel Ng'ambi, Florence Jeke, Stella Matelezi, Martha Dambo, Shabel Bengo, Sophilet Banda, Aisha Gama and Melia Soko.\n\nThe Queens play in Pool 2. They will face Uganda, Zambia, Kenya, and Nigeria. \"We know it will be hard,\" said Lwazi. \"But we are ready to win and go to the World Cup.\" The tournament runs until 26 September."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/nico-group-dares-queens-to-qualify-for-world-cup/"
-        },
-        {
-          "name": "Nyasa Times",
-          "url": "https://www.nyasatimes.com/nico-backs-malawi-queens-for-africa-cup-glory-world-cup-ticket/?utm_source=rss&utm_medium=rss&utm_campaign=nico-backs-malawi-queens-for-africa-cup-glory-world-cup-ticket"
         }
       ]
     },
