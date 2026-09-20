@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-20T09:41:45.088029+00:00",
+  "generated_at": "2026-09-20T14:38:15.297818+00:00",
   "articles": [
     {
       "id": "2026-09-20-malawi-queens-beat-zambia-in-world-cup-game",
       "tag": "sport",
-      "published": "2026-09-20T08:33:29+00:00",
+      "published": "2026-09-20T14:26:22+00:00",
       "en": {
         "title": "Malawi Queens beat Zambia in World Cup game",
         "body": "Malawi Queens won big in Kenya yesterday. They beat Zambia 71-38 in their first game. This game helps Malawi try to go to the 2027 Netball World Cup. A World Cup is a big sports game. Malawi played very well from start to end.",
@@ -18,6 +18,30 @@
         {
           "name": "Nyasa Times",
           "url": "https://www.nyasatimes.com/malawi-queens-off-to-flying-start-in-world-cup-qualifying-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-queens-off-to-flying-start-in-world-cup-qualifying-campaign"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-19-vice-president-jane-ansah-says-she-is-being-left-o",
+      "tag": "politics",
+      "published": "2026-09-20T13:39:36+00:00",
+      "en": {
+        "title": "Vice-President Jane Ansah Says She Is Being Left Out",
+        "body": "Malawi's First Vice-President Jane Ansah says she is not being asked to join Cabinet meetings. She also says she does not get Cabinet papers. Ansah named Chief Secretary Justin Saidi as a key person in this. She made these claims in a recent interview with Zodiak Broadcasting Station.",
+        "body_more": "Ansah was elected as Mutharika's running mate in September 2025. The Constitution says the Vice-President must be part of Cabinet. Section 92(1) of the Constitution states that Cabinet has the President, the Vice-President, and other ministers. But Ansah says she has been kept away from this work.\n\nAnsah has been careful about what she says. She says her relationship with President Peter Mutharika remains good. But she has complained about being left out of official events. In July, Second Vice-President Enoch Chihana chaired a Cabinet meeting in Lilongwe when Ansah was available. Saidi said the President can pick either vice-president to chair Cabinet. But experts say this needs a clear reason.\n\nThe dispute raises a big question about the Constitution. If a Vice-President stays in office and is part of Cabinet by law, can the President leave them out of Cabinet work? Legal experts say this question needs a clear answer. Ansah says she asked Saidi for explanations but did not get good answers. She says she wants to follow proper steps before telling the President directly.\n\nThis is not new in Malawi. Past vice-presidents like Saulos Chilima, Cassim Chilumpha, and Joyce Banda all had difficult times in the role. But Ansah's problems came very fast — less than a year after being elected. The longer the government does not answer, the more people will ask questions about how the President runs his administration."
+      },
+      "sources": [
+        {
+          "name": "Nation Online",
+          "url": "https://mwnation.com/when-the-vice-president-says-she-is-being-sidelined/"
+        },
+        {
+          "name": "Daily Times",
+          "url": "https://times.mw/jane-ansahs-troubled-crown/?utm_source=rss&utm_medium=rss&utm_campaign=jane-ansahs-troubled-crown"
+        },
+        {
+          "name": "Maravi Post",
+          "url": "https://www.maravipost.com/vice-president-jane-ansah-a-year-of-governance-relief-and-political-tensions/"
         }
       ]
     },
@@ -38,6 +62,10 @@
         {
           "name": "Maravi Post",
           "url": "https://www.maravipost.com/eight-malawi-police-officers-promoted-rewarded-over-nusrat-osman-rescue/"
+        },
+        {
+          "name": "Nyasa Times",
+          "url": "https://www.nyasatimes.com/malawi-police-promote-and-reward-8-officers-as-ig-details-osman-rescue-operation/?utm_source=rss&utm_medium=rss&utm_campaign=malawi-police-promote-and-reward-8-officers-as-ig-details-osman-rescue-operation"
         }
       ]
     },
@@ -186,26 +214,6 @@
         {
           "name": "Malawi24",
           "url": "https://malawi24.com/2026/09/18/a-better-junior-flames-but-only-after-halftime/"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-19-vice-president-jane-ansah-says-she-is-being-left-o",
-      "tag": "politics",
-      "published": "2026-09-19T08:40:42+00:00",
-      "en": {
-        "title": "Vice-President Jane Ansah Says She Is Being Left Out",
-        "body": "Malawi's First Vice-President Jane Ansah says she is not being asked to join Cabinet meetings. She also says she does not get Cabinet papers. Ansah named Chief Secretary Justin Saidi as a key person in this. She made these claims in a recent interview with Zodiak Broadcasting Station.",
-        "body_more": "Ansah was elected as Mutharika's running mate in September 2025. The Constitution says the Vice-President must be part of Cabinet. Section 92(1) of the Constitution states that Cabinet has the President, the Vice-President, and other ministers. But Ansah says she has been kept away from this work.\n\nAnsah has been careful about what she says. She says her relationship with President Peter Mutharika remains good. But she has complained about being left out of official events. In July, Second Vice-President Enoch Chihana chaired a Cabinet meeting in Lilongwe when Ansah was available. Saidi said the President can pick either vice-president to chair Cabinet. But experts say this needs a clear reason.\n\nThe dispute raises a big question about the Constitution. If a Vice-President stays in office and is part of Cabinet by law, can the President leave them out of Cabinet work? Legal experts say this question needs a clear answer. Ansah says she asked Saidi for explanations but did not get good answers. She says she wants to follow proper steps before telling the President directly.\n\nThis is not new in Malawi. Past vice-presidents like Saulos Chilima, Cassim Chilumpha, and Joyce Banda all had difficult times in the role. But Ansah's problems came very fast — less than a year after being elected. The longer the government does not answer, the more people will ask questions about how the President runs his administration."
-      },
-      "sources": [
-        {
-          "name": "Nation Online",
-          "url": "https://mwnation.com/when-the-vice-president-says-she-is-being-sidelined/"
-        },
-        {
-          "name": "Daily Times",
-          "url": "https://times.mw/jane-ansahs-troubled-crown/?utm_source=rss&utm_medium=rss&utm_campaign=jane-ansahs-troubled-crown"
         }
       ]
     },
